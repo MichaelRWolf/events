@@ -10,7 +10,7 @@ Usage:
   python3 test_www_not_secure.py    (macOS/Linux)
   python test_www_not_secure.py     (Windows)
 
-Full details in: issue_www_subdomain_shows_not_secure_in_chrome.md
+Full details in: www_subdomain_configuration_issue.md
 """
 
 import sys

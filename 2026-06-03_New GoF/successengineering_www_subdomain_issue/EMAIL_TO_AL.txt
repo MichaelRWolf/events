@@ -27,7 +27,7 @@ python3 test_www_not_secure.py
 When I run this, it indicates that www subdomain is misconfigured. You should see 4 tests fail and 8 pass.
 
 **Full Details:**
-Everything is documented in the attached file: `issue_www_subdomain_shows_not_secure_in_chrome.md`
+Everything is documented in the attached file: `www_subdomain_configuration_issue.md`
 
 That file explains:
 - Why this matters
