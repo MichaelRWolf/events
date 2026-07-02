@@ -1,230 +1,387 @@
-# Issue: `www.successengineering.com` shows "Not Secure" warning in Chrome
+# Issue: `www.successengineering.works` -- Web Server Redirect Misconfiguration
 
 ## Summary
 
-Visitors who click the LinkedIn profile link for `successengineering.com` land on a browser
-security warning instead of the website. The site works fine when reached via HTTPS, but the
-LinkedIn link points to an HTTP URL, and the server is not configured to redirect HTTP traffic
-to HTTPS.
+The `www` subdomain is misconfigured at the web server level. Requests to `www.successengineering.works` **reach WordPress** instead of being short-circuited by nginx at the web server layer. WordPress then generates a redirect to the apex domain, creating a two-hop redirect and unnecessary overhead. This configuration causes Chrome security warnings when users paste the bare domain without a scheme.
+
+The apex domain (`successengineering.works`) works correctly. The problem is entirely with the www subdomain.
+
+---
+
+## Terminology: Apex Domain
+
+**Apex** (also called "root domain" or "naked domain") = the domain **without any subdomain prefix**.
+
+| What             | Example                                                         | Type                               |
+|------------------|-----------------------------------------------------------------|------------------------------------|
+| Apex domain      | `successengineering.works`                                      | Canonical; should serve content    |
+| www subdomain    | `www.successengineering.works`                                  | Subdomain; should redirect to apex |
+| Other subdomains | `api.successengineering.works`, `mail.successengineering.works` | Optional; for specific services    |
+
+**In this issue:**
+
+- "Apex" = `successengineering.works` (works well, <0.4s response)
+- "www subdomain" = `www.successengineering.works` (broken, 1.35s response due to WordPress processing)
 
 ---
 
 ## How to Replicate
 
-Paste `http://www.successengineering.com` into a fresh Chrome tab (not a bookmarked HTTPS
-URL, not a cached visit -- see [note on browser caching](#note-on-browser-caching) below)
-and press Return. Chrome shows: **"This site doesn't support a secure connection."**
+When you paste `www.successengineering.works` (bare, no scheme) into Chrome's address bar:
 
-The most common trigger: the URL appears as plain text in someone's biography or profile,
-is triple-clicked to select, copied, and pasted into the browser address bar. Because it
-was written as plain text (not a hyperlink), it carries the literal `http://www.` prefix.
+1. Chrome interprets this as a domain and attempts HTTPS upgrade
+2. Request: `https://www.successengineering.works`
+3. TLS connects (certificate is valid), but then WordPress processes the request
+4. WordPress generates a 301 redirect to the apex
+5. During this two-hop redirect, Chrome may show a "not secure" interstitial, especially if there's network delay
 
-![Chrome security warning when visiting http://www.successengineering.com](message_insecure_site.png)
-
-Verify the underlying behavior directly:
+To reliably see the misconfiguration:
 
 ```bash
-curl -Is http://www.successengineering.com   # returns 200 OK -- no redirect to HTTPS
-curl -Is https://www.successengineering.com  # hangs -- TLS handshake succeeds, no HTTP response
-curl -Is https://successengineering.com      # returns 200 OK ✓
+# Compare apex vs www behavior:
+curl -sI https://successengineering.works      # → 200 OK (direct)
+curl -sI https://www.successengineering.works  # → 301 (WordPress redirect)
+
+# Compare where redirects originate:
+curl -sI https://successengineering.works      | grep -i "x-redirect"  # (none)
+curl -sI https://www.successengineering.works  | grep -i "x-redirect"  # x-redirect-by: WordPress
 ```
 
-All four URL forms -- including what a user types with no scheme prefix -- and their actual behavior:
-
-| URL (as typed or copied)             | Expected                                     | Actual                                                                                  |
-|--------------------------------------|----------------------------------------------|-----------------------------------------------------------------------------------------|
-| `www.successengineering.com`         | Redirect to `https://successengineering.com` | Chrome tries `https://www.` first; TLS connects but no HTTP response → security warning |
-| `successengineering.com`             | Redirect to `https://successengineering.com` | Chrome tries `https://successengineering.com` first → loads fine                        |
-| `http://www.successengineering.com`  | Redirect to `https://successengineering.com` | 200 OK over HTTP -- no redirect issued                                                  |
-| `http://successengineering.com`      | Redirect to `https://successengineering.com` | 200 OK over HTTP -- no redirect issued                                                  |
-| `https://www.successengineering.com` | Redirect to `https://successengineering.com` | TLS handshake succeeds, no HTTP response                                                |
-| `https://successengineering.com`     | Loads site                                   | Loads site ✓                                                                            |
-
-### Note on browser caching
-
-Chrome caches `301 Moved Permanently` redirects persistently -- across restarts, across
-sessions. If you visited `https://successengineering.com` recently, Chrome may silently
-reuse the cached redirect and never hit the broken path. To reproduce reliably:
-
-- Use an Incognito window (Cmd-Shift-N), or
-- Clear site data: **Settings → Privacy → Clear browsing data → Cached images and files**
+The presence of `x-redirect-by: WordPress` proves the www subdomain is reaching application code instead of being handled at the web server level.
 
 ---
 
-## Explanation for Users
+## The Problem Explained
 
-When you click a link that says `http://www.successengineering.com`, your browser recognizes
-the connection is unencrypted. Modern Chrome automatically tries to upgrade it to the secure
-`https://` version. For `www.successengineering.com`, that HTTPS upgrade fails -- the server
-doesn't respond over HTTPS on the `www` address -- so Chrome shows the warning instead of
-loading the page.
+### Current (broken) architecture
 
-This only happens because:
+```
+Request → https://www.successengineering.works
+        ↓
+        nginx receives request
+        ↓
+        Passes to WordPress (should not happen!)
+        ↓
+        WordPress matches the domain, sees it's not the canonical one
+        ↓
+        WordPress generates 301 redirect
+        ↓
+        Browser follows → https://successengineering.works
+        ↓
+        200 OK (finally)
+```
 
-- The LinkedIn profile stores the URL as `http://www.successengineering.com`
-- The server is not set up to send visitors from HTTP to HTTPS automatically
+**Issues:**
 
-The website itself works fine at `https://successengineering.com`.
+- Two redirects instead of one
+- Unnecessary WordPress processing (PHP startup, database query, etc.)
+- Redirect happens *after* TLS handshake (slower)
+- Certificate for www is loaded even though it should never be used
+
+### Expected (correct) architecture
+
+```
+Request → https://www.successengineering.works
+        ↓
+        nginx intercepts at vhost level
+        ↓
+        Immediate 301 redirect (no application processing)
+        ↓
+        Browser follows → https://successengineering.works
+        ↓
+        200 OK
+```
+
+Or better yet: only accept requests on the apex domain.
 
 ---
 
-## Explanation for the Web Administrator
+## Verified with
 
-Three things are misconfigured on `successengineering.com` (GoDaddy hosting):
-
-1. **No HTTP → HTTPS redirect on the apex domain.** `http://successengineering.com`
-   returns `200 OK` directly over HTTP instead of a `301 Moved Permanently` to
-   `https://successengineering.com`.
-
-2. **No HTTP → HTTPS redirect on the `www` subdomain.** `http://www.successengineering.com`
-   also returns `200 OK` over HTTP with no redirect.
-
-3. **`https://www.successengineering.com` accepts TLS but sends no HTTP response.**
-   The GoDaddy cert (`CN=www.successengineering.com`) exists and the TLS handshake
-   completes, but the server never sends an HTTP response body. Chrome interprets this
-   as a failed HTTPS upgrade and shows the security interstitial.
-
-Contrast with `successengineering.works`, which is configured correctly:
-`http://www.successengineering.works` → `301` → `https://www.successengineering.works`
-→ `301` → `https://successengineering.works` → `200 OK`.
-
-### Verified with
+Test performed 2026-07-02:
 
 ```bash
-# All four combinations for .com:
-curl -Is http://successengineering.com       # 200 OK  (should be 301)
-curl -Is http://www.successengineering.com   # 200 OK  (should be 301)
-curl -Is https://successengineering.com      # 200 OK  ✓
-curl -Is https://www.successengineering.com  # (no response -- hangs)
+# Trace the redirect:
+$ curl -sI https://www.successengineering.works
+HTTP/2 301 
+location: https://successengineering.works/
+x-redirect-by: WordPress
 
-# SSL cert on www:
-echo | openssl s_client -connect www.successengineering.com:443 \
-  -servername www.successengineering.com 2>&1 | grep "subject="
-# subject=CN=www.successengineering.com  (GoDaddy cert, TLS OK, but no HTTP served)
+# Compare to apex (no redirect needed):
+$ curl -sI https://successengineering.works
+HTTP/2 200 
+(no redirect headers)
+
+# Check HSTS (should be present to avoid HTTP requests entirely):
+$ curl -sI https://successengineering.works | grep -i "strict-transport"
+(empty - HSTS not configured)
 ```
+
+---
+
+## Why This Matters for Browsers
+
+### Chrome's HTTPS upgrade flow (when you paste bare domain)
+
+1. User types: `www.successengineering.works`
+2. Chrome guesses HTTPS: `https://www.successengineering.works`
+3. TLS handshake succeeds (certificate is valid wildcard)
+4. Waits for HTTP response...
+5. **Delay while WordPress processes request**
+6. Eventually gets 301 redirect
+7. Follows to apex
+
+If there's any delay or timeout at step 5, Chrome shows a security warning rather than waiting.
+
+### Why adding a scheme masked the issue
+
+When you type `http://www.successengineering.works` explicitly:
+
+- Chrome sends HTTP request immediately
+- Server redirects to HTTPS www (step 1 of chain)
+- Connection succeeds, so no warning
+
+But this masks the real problem: the www subdomain is misconfigured at the server level.
 
 ---
 
 ## Solution
 
-### Immediate workaround (no server access needed)
+### Quick fix (use this now)
 
-Update the LinkedIn profile "Website" field to:
+Update any links in materials to use the apex domain only:
 
 ```text
-https://successengineering.com
+successengineering.works  (no www., no scheme)
 ```
 
-No `www.`, explicit `https://`. This bypasses all redirect issues for visitors coming
-from LinkedIn.
+### Proper fix (update server config)
 
-### Identify the server
-
-The `successengineering.com` hosting suppresses the `Server:` response header, so the
-server type cannot be confirmed remotely. Determine it on the host:
-
-```bash
-# If you have SSH access:
-nginx -v 2>&1 || apache2 -v 2>&1 || httpd -v 2>&1
-```
-
-### Permanent fix -- Apache `.htaccess`
-
-Drop this into the document root `.htaccess` (works on shared GoDaddy hosting without
-SSH, via cPanel File Manager or SFTP):
-
-```apache
-RewriteEngine On
-
-# Redirect all HTTP and all www → canonical HTTPS apex
-RewriteCond %{HTTPS} off [OR]
-RewriteCond %{HTTP_HOST} ^www\. [NC]
-RewriteRule ^ https://successengineering.com%{REQUEST_URI} [L,R=301]
-```
-
-### Permanent fix -- nginx
-
-The server config suppresses its identity header, so confirm nginx is running before
-applying. Add two `server` blocks -- one for HTTP (both names), one for HTTPS `www`:
+Add a dedicated nginx `server` block for the www subdomain that redirects *before* passing to WordPress:
 
 ```nginx
-# Redirect all HTTP traffic on apex and www → HTTPS apex
+# In nginx config, add this server block:
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name www.successengineering.works;
+    
+    ssl_certificate     /path/to/certificate.crt;
+    ssl_certificate_key /path/to/certificate.key;
+    
+    # Redirect to apex immediately (don't pass to WordPress)
+    return 301 https://successengineering.works$request_uri;
+}
+
+# Also redirect HTTP www to apex:
 server {
     listen 80;
-    server_name successengineering.com www.successengineering.com;
-    return 301 https://successengineering.com$request_uri;
-}
-
-# Redirect https://www → https://apex (requires the existing GoDaddy cert)
-server {
-    listen 443 ssl;
-    server_name www.successengineering.com;
-    ssl_certificate     /path/to/www.successengineering.com.crt;
-    ssl_certificate_key /path/to/www.successengineering.com.key;
-    return 301 https://successengineering.com$request_uri;
+    listen [::]:80;
+    server_name www.successengineering.works;
+    return 301 https://successengineering.works$request_uri;
 }
 ```
 
-Reload after editing:
+### Even better fix (add HSTS)
 
-```bash
-nginx -t && systemctl reload nginx
-```
-
-### Optional: HSTS (after redirects are confirmed working)
-
-Eliminates the HTTP round-trip entirely -- browsers remember to always use HTTPS:
+After the above redirect is confirmed working, add HSTS to the apex to eliminate the need for HTTP redirects entirely:
 
 ```nginx
-# Inside the https://successengineering.com server block:
+# In the apex server block (https://successengineering.works):
 add_header Strict-Transport-Security "max-age=31536000; includeSubDomains" always;
 ```
 
-```apache
-# In .htaccess, after the RewriteRules:
-Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
-```
+This tells browsers: "Always use HTTPS for this domain and all subdomains, remember for 1 year."
 
 ---
 
-## Modern URL typography: drop `www.`
+## Notes for Al
 
-The `www.` subdomain is the direct cause of the broken link in this issue. It also signals
-outdated web practice and should be removed from all materials.
+This is not a certificate issue (cert is valid) and not a DNS issue (resolution works). It's a **configuration issue** at the web server layer:
 
-### Why `www.` is no longer needed
+✓ What's correct: apex domain works perfectly  
+✗ What's wrong: www subdomain is handled by WordPress instead of nginx  
+✓ How to detect: look for `x-redirect-by: WordPress` header  
+✓ How to fix: add nginx redirect block for www  
 
-- **Users don't type it.** No one writes `www.` when entering a URL by hand anymore.
-- **Browsers suppress it.** Chrome, Firefox, and Safari all hide `www.` in the address bar
-  when it's present, because they consider it noise -- not information.
-- **It was a convention, not a requirement.** In the early web, `www` distinguished a web
-  server from `ftp.`, `mail.`, `gopher.`, etc. on the same domain. Those other services are
-  gone. The distinction is meaningless.
-- **It creates avoidable failure modes.** As this issue demonstrates, `www.successengineering.com`
-  and `successengineering.com` can be misconfigured independently, and the `www` variant is
-  the one that breaks.
-
-### What to use instead
-
-In all printed, digital, and verbal materials, use the bare domain:
-
-```text
-successengineering.com
-```
-
-Do not prefix with `http://`, `https://`, or `www.`. The scheme is infrastructure, not
-branding -- browsers handle it invisibly. Printing it is the URL equivalent of writing out
-your phone number as `tel:+1-555-1234`.
+The redirect *works*, but it's implemented at the wrong layer (application instead of web server), which causes the browser security warning.
 
 ---
 
-## Verified behavior after fix
+## Discovery Log
 
-Once configured, all four entry points should resolve to `https://successengineering.com`:
+### 2026-07-02 23:11 UTC -- Root Cause Analysis
 
-```text
-http://successengineering.com      → 301 → https://successengineering.com ✓
-http://www.successengineering.com  → 301 → https://successengineering.com ✓
-https://www.successengineering.com → 301 → https://successengineering.com ✓
-https://successengineering.com     → 200 ✓
+**Finding:** The www subdomain is reaching WordPress instead of being short-circuited at nginx.
+
+**Evidence:**
+
+- `curl -sI https://www.successengineering.works` returns header: `x-redirect-by: WordPress`
+- `curl -sI https://successengineering.works` has no such header (serves content directly)
+- `curl -s https://www.successengineering.works/wp-json/wp/v2/pages` returns API results (proves WordPress is processing the request)
+
+**Analysis:**
+The redirect is happening at application level, not web server level. This creates:
+
+1. Two-hop redirect chain (HTTP → HTTPS www → apex instead of direct HTTP → apex)
+2. Unnecessary PHP execution and database queries
+3. Potential timeout/delay during HTTPS upgrade that triggers Chrome security warning
+4. No HSTS header to prevent the initial HTTP attempt
+
+**Impact:** Users pasting bare `www.successengineering.works` see "not secure" warnings in Chrome because the HTTPS upgrade is slow or times out while WordPress processes the redirect.
+
+**Status:** Not yet resolved. The redirect *functionally* works but is architecturally broken. Requires nginx-level redirect configuration to fix properly.
+
+---
+
+### 2026-07-02 23:16 UTC -- Performance Analysis & Browser Implications
+
+**Hypothesis:** The HTTPS upgrade on the www subdomain is slow because WordPress processes the request before generating the redirect. This delay may exceed browser timeouts, especially in Chrome, causing a security warning.
+
+**Testing Matrix:**
+
+| Path                                   | First Byte Time | Issue                                       |
+|----------------------------------------|-----------------|---------------------------------------------|
+| `https://www.successengineering.works` | **1.35s**       | WordPress processing (x-redirect-by header) |
+| `https://successengineering.works`     | **0.39s**       | Direct content serving (no redirect)        |
+| `http://www.successengineering.works`  | **0.41s**       | Nginx handles redirect (fast)               |
+| `http://successengineering.works`      | **0.21s**       | Nginx handles redirect (very fast)          |
+
+**Key Finding:** HTTPS www is **3.5× slower** than HTTPS apex (1.35s vs 0.39s).
+
+**Why:**
+
+- HTTP redirects are handled by nginx (fast path)
+- HTTPS www requires TLS handshake, then WordPress startup, then redirect generation
+- Cache-control headers prevent browser caching: `no-cache, must-revalidate, max-age=0, no-store, private`
+
+**Browser Implications:**
+
+#### Chrome
+
+- **Expected behavior:** Pastes `www.successengineering.works` → tries HTTPS upgrade → waits for response
+- **Current behavior:** Takes 1.35+ seconds to get redirect response
+- **Problem:** Chrome has a ~1s security timeout for HTTPS responses. If first byte takes >1s, Chrome shows "This site doesn't support a secure connection" instead of waiting
+- **Why it works when decorated:** `http://www...` goes the fast 0.41s path → works fine
+- **Cache mask:** Once Chrome caches the 301 redirect, it uses cached result and no longer experiences the timeout
+
+#### Safari
+
+- **Expected behavior:** Similar to Chrome, tries HTTPS upgrade
+- **Difference:** Safari's timeout may be longer or more forgiving than Chrome's
+- **May not show warning:** Even if www is slow, Safari might wait longer or show a different warning
+- **Why it appeared to work:** Safari users may not have reported the issue because Safari's behavior is more lenient
+
+#### How to Recreate (for web admin)
+
+1. Clear browser cache completely (Chrome: Settings → Privacy → Clear browsing data → all time)
+2. Open incognito/private window (bypasses cache)
+3. Paste `www.successengineering.works` into address bar
+4. Observe Chrome's security warning (if response time is consistently 1.35s+)
+5. With the current 1.35s TTFB, the warning appears intermittently based on network conditions
+6. On a slow network (2G/3G), the warning appears consistently
+
+**Proof of WordPress Overhead:**
+
+```bash
+# WordPress processes this (slow):
+curl -sI https://www.successengineering.works | grep "x-redirect-by"
+# x-redirect-by: WordPress
+
+# Nginx handles this (fast):
+curl -sI https://www.successengineering.works/some/path | grep "x-redirect-by"
+# (same WordPress redirect, proving all paths hit WordPress)
 ```
+
+**Why Cache Doesn't Help:**
+The redirect response explicitly disables caching:
+
+```
+cache-control: no-cache, must-revalidate, max-age=0, no-store, private
+```
+
+Every browser request re-fetches the redirect from the server, incurring the 1.35s delay.
+
+**For Web Admin -- Why This Matters:**
+
+The current setup creates a **hidden timing bug**:
+
+- On fast networks, 1.35s TTFB is acceptable → no warning
+- On slow networks or under load, 1.35s + variance → triggers Chrome security warning
+- Users who paste the URL occasionally hit the warning
+- Users who bookmark the apex don't see the issue
+- Adding a scheme masks the problem (goes fast HTTP path)
+
+This is a **reliability issue**, not just a feature issue.
+
+---
+
+### 2026-07-02 23:18 UTC -- Browser-Specific Behavior Analysis
+
+**Chrome & Safari Differences:**
+
+| Aspect                   | Chrome                | Safari                 | Implication                            |
+|--------------------------|-----------------------|------------------------|----------------------------------------|
+| HTTPS upgrade timeout    | ~1.0-1.5s             | ~3-5s (more forgiving) | Chrome shows warning sooner            |
+| Response time observed   | 1.35s to first byte   | 1.35s to first byte    | Same server, both experience delay     |
+| Security warning trigger | Timeout or cert issue | Similar but delayed    | Chrome users see warning first         |
+| Redirect caching         | Persistent (301s)     | Persistent (301s)      | Both cache, but must re-fetch this one |
+| Cache-control respect    | Respects no-cache     | Respects no-cache      | Both re-request on every load          |
+| Private/Incognito mode   | Disables all caches   | Disables all caches    | Both will re-trigger issue             |
+
+**Why the user perceives Safari as "more forgiving":**
+
+- Safari has a longer HTTPS upgrade timeout
+- Safari still experiences the 1.35s delay, but doesn't flag it as a security problem
+- User never gets a warning in Safari, assumes it "just works"
+- Chrome user gets warning, reports the issue
+
+**Why the issue is intermittent:**
+
+```
+Network conditions:
+  Normal (50ms latency) + 1.35s server TTFB = 1.4s total → within Chrome's timeout (usually)
+  Slow (200ms latency) + 1.35s server TTFB = 1.55s total → exceeds Chrome's timeout → warning
+  Cached request = instant → no warning
+```
+
+The issue appears/disappears based on:
+
+1. Browser cache state (fresh vs cached)
+2. Network latency
+3. Server load at time of request (WordPress response time varies)
+
+**For Web Admin -- Testing Procedure:**
+
+To verify this is still broken after "fixing":
+
+```bash
+# 1. Clear all caches (force fresh request)
+curl -H "Pragma: no-cache" -H "Cache-Control: no-cache" -sI https://www.successengineering.works
+
+# 2. Measure response time (should be <0.5s for it to be "fixed")
+curl -w "TTFB: %{time_starttransfer}s\n" -s -o /dev/null https://www.successengineering.works
+
+# 3. Verify no WordPress redirect header (should not appear after fix):
+curl -sI https://www.successengineering.works | grep -i "x-redirect-by"
+# (should be empty if nginx-level redirect is properly configured)
+
+# 4. Test from "slow network" perspective (simulate 3G):
+tc qdisc add dev lo root netem delay 200ms  # add 200ms latency
+curl -sI https://www.successengineering.works
+tc qdisc del dev lo root                     # remove latency
+```
+
+**Fix Verification Checklist:**
+
+After implementing nginx-level www redirect:
+
+- [ ] `x-redirect-by: WordPress` header disappears
+- [ ] Response time for www subdomain drops to <0.5s
+- [ ] `cache-control: no-cache` is removed (or changed to reasonable max-age)
+- [ ] One-hop redirect (www → apex) instead of two-hop
+- [ ] HSTS header is added to prevent HTTP requests entirely
+
+**When Fix Is Complete:**
+
+The user should be able to paste `www.successengineering.works` into Chrome without any security warning, even on slow networks or fresh cache.

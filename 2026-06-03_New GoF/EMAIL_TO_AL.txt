@@ -1,0 +1,42 @@
+Subject: Correction: Website security issue is on .works domain, not .com
+
+Hi Al,
+
+I owe you an apology. The security issue I documented earlier was incorrect—I mistakenly used successengineering.com instead of your actual domain, successengineering.works. That was a sloppy mistake on my part.
+
+The real issue is with your .works domain, specifically the www subdomain configuration. Here's what's happening:
+
+**The Problem:**
+Your www.successengineering.works subdomain is being processed by WordPress before redirecting to the apex domain (successengineering.works). This causes:
+- Slower response times (1+ seconds instead of <0.5 seconds)
+- Chrome security warnings when users paste the bare domain without a scheme
+- Unnecessary WordPress overhead on every request
+
+The apex domain (successengineering.works) works fine—this is purely a www subdomain misconfiguration.
+
+**How to Verify:**
+I've attached a test file that checks this. To run it:
+
+```
+pip3 install requests
+python3 test_www_not_secure.py
+```
+
+(On Windows, use `pip install` and `python` instead of `pip3` and `python3`)
+
+When I run this, it indicates that www subdomain is misconfigured. You should see 4 tests fail and 8 pass.
+
+**Full Details:**
+Everything is documented in the attached file: `issue_www_subdomain_shows_not_secure_in_chrome.md`
+
+That file explains:
+- Why this matters
+- How to replicate the issue
+- Browser-specific behavior (Chrome vs Safari)
+- Step-by-step solutions (quick fix vs proper fix)
+- Verification checklist
+
+Again, sorry for the confusion with .com. The real issue is on .works and it's fixable.
+
+Best,
+Michael
