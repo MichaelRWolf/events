@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Wolf//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-07-14-ai-autonomy-webinar@softed.com
+DTSTAMP:20260709T000000Z
+DTSTART:20260714T160000Z
+DTEND:20260714T170000Z
+SUMMARY:Stop Using a Sledgehammer: Matching AI Autonomy to the Task at Hand
+DESCRIPTION:Webinar on the Five Levels of AI Autonomy framework. Learn how to strategically deploy AI tools and match AI capabilities to specific tasks. Presenter: Jess Wolfe (Swarmia). 1 PDU credit for live attendance.
+LOCATION:Online (Softed)
+URL:https://www.softed.com/webinars/matching-ai-autonomy
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
