@@ -11,6 +11,8 @@
 
 Webinar on strategic AI deployment and the Five Levels of AI Autonomy framework. Relevant for understanding how to match AI tool capabilities to specific tasks rather than applying AI indiscriminately. PDU credit available for live attendance.
 
+**⚠️ TIME CONFLICT:** Overlaps with [Maven course: Load human context](../2026-07-14_load_human_context_maven/notes.md) (4:00 PM UTC / 12:00 PM EDT). Both scheduled for same time slot.
+
 ---
 
 ## Links

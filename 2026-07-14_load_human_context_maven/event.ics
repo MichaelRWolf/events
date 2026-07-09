@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Wolf//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-07-14-load-human-context-maven@maven.com
+DTSTAMP:20260709T000000Z
+DTSTART:20260714T160000Z
+DTEND:20260714T164500Z
+SUMMARY:Load human context: make the agent brief you on your terms
+DESCRIPTION:Free lightning lesson on configuring agent briefing formats and reducing information overload. Instructors: Matt Wynne, Aldric Giacomoni, Jeremy Lightsmith, Zach Marcin. ⚠️ CONFLICTS with AI Autonomy webinar (same time slot).
+LOCATION:Zoom
+URL:https://maven.com/p/4cfeff/load-human-context-make-the-agent-brief-you-on-your-terms?utm_campaign=workshop_invite&utm_source=maven&utm_medium=email_ll_share_link&ajs_uid=1054988
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
