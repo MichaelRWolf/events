@@ -28,7 +28,18 @@ Connection call with Jess.
 
 ### Agenda items
 
-- TBD
+- Florida - Jess evaluate move back.  How Colorado (David Bernstein).  Wolf leave, running.
+- Upcoming session with David Mantica @ SoftEd.  How connected to?
+- Companies
+  - Still connected to cPrime or Eliassen?
+  - Michico at cPrime related to Jira Align?
+  - Whassup with LeadingEdge (now LiminalArc)?
+- Roles
+  - Customer Success - Swarmia, Lean Agile Intelligence
+
+- Where do you hang out for DevEx, developer productivity, AI discussions?
+  - Me: nGoF - Shalloway, Bernstein, Zuill, Wolfram
+- Any takers on the prompt-injection hack for gluten-free crème brûlée recipe?
 
 ---
 
