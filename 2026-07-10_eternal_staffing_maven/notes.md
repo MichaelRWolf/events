@@ -15,7 +15,7 @@
 
 ## Links
 
-Hendrickson, E., & Tosi, J. (2026). Eternal staffing questions: How many people? How many teams? [Video recording]. Maven. Retrieved from <https://maven.com/p/acc592/eternal-staffing-questions-how-many-people-how-many-teams>
+Hendrickson, E., & Tosi, J. (2026). Eternal staffing questions: How many people? How many teams? [Video recording; 57 min. 48 sec.]. Maven. Retrieved from <https://maven.com/p/acc592/eternal-staffing-questions-how-many-people-how-many-teams>
 
 Hendrickson, E., & Tosi, J. (2026). DuckSimNG scenarios: Pipeline timeline. Retrieved from <https://ducksimng.onrender.com/scenarios/pipeline/timeline>
 
