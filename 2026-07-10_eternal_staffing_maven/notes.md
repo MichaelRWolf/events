@@ -1,5 +1,23 @@
 # Eternal Staffing Questions: How Many People? How Many Teams?
 
+## Repost Draft (LinkedIn)
+
+**Referencing Elisabeth's post:** <https://www.linkedin.com/feed/update/urn:li:activity:7481714088809730048/>
+
+### LinkedIn Repost - Draft 1
+
+I attended this session last week. Elisabeth and Joel used simulation tools to show min/max curves illustrating Brook's Law across team level (3-7 people) and organization level (20-100).
+
+Developers often tell me "managers just don't get it", but I also hear a symetrical assesment from managers.  Given that Brook's Law and "No Silver Bullet" have been around for most of the profession's lifetime, I think that everyone it.  Devs.  Managers.  C-levels.  We've all read it.  We all get it.  So?  Why don't we practice it?
+
+I got a sense that Elisabeth and Joel didn't create the simulations to inform their clients, but rather to be a "trojan horse" to start a conversation that gets behind what we all know and into that gap between what we know in our heads and what we do in our bodies.  Theory & Practice.  Head & Hands.  XXX & Habits.
+
+So, as much as I don't think people really need to learn what drives their U-Curves, maybe talking about them will create a shared understanding that goes beyond the typical us/them collaboration theater to create full-team understanding that has no "them".
+
+What do you think?  Why is this such common knowledge, but not such common practice?
+
+---
+
 ## Event Details
 
 **Course:** Eternal Staffing Questions: How Many People? How Many Teams?  
@@ -58,3 +76,13 @@ Hendrickson and Tosi's forthcoming book (Fall 2026, IT Revolution) frames softwa
 - [ ] Review DuckSimNG simulations for deeper mental model
 - [ ] Capture takeaways on team sizing trade-offs
 - [ ] Map U-Curves findings to current team contexts
+
+### LI Connection Requests
+
+**Message:**
+Hi [Name] -- Great session. The real conversation: we know this stuff works, why don't we do it? I come alongside teams to make that shift happen. Let's connect. --Michael
+
+**Contacts:**
+
+- [ ] Elisabeth Hendrickson
+- [ ] Joel Tosi
