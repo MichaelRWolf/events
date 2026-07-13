@@ -8,13 +8,25 @@
 
 I attended this session last week. Elisabeth and Joel used simulation tools to show min/max curves illustrating Brook's Law across team level (3-7 people) and organization level (20-100).
 
-Developers often tell me "managers just don't get it", but I also hear a symetrical assesment from managers.  Given that Brook's Law and "No Silver Bullet" have been around for most of the profession's lifetime, I think that everyone it.  Devs.  Managers.  C-levels.  We've all read it.  We all get it.  So?  Why don't we practice it?
+Developers often tell me "managers just don't get it." But I also hear the symmetrical complaint from managers. Here's the thing: Brook's Law and "No Silver Bullet" have been part of our canon for decades. Devs, managers, executives--we've all read it. We all *get* it. So why don't we *practice* it?
 
-I got a sense that Elisabeth and Joel didn't create the simulations to inform their clients, but rather to be a "trojan horse" to start a conversation that gets behind what we all know and into that gap between what we know in our heads and what we do in our bodies.  Theory & Practice.  Head & Hands.  XXX & Habits.
+I sensed that Elisabeth and Joel didn't build these simulations to inform. They built them as a Trojan horse--a way to start a conversation that goes beyond what we already know and into that gap between theory and practice. Between knowing in our heads and doing in our hands.
 
-So, as much as I don't think people really need to learn what drives their U-Curves, maybe talking about them will create a shared understanding that goes beyond the typical us/them collaboration theater to create full-team understanding that has no "them".
+The real opportunity isn't learning more about U-Curves. It's talking *together* about them. Moving from us/them collaboration theater to actual full-team understanding. When there's no "them"--just us.
 
-What do you think?  Why is this such common knowledge, but not such common practice?
+That's where the work is.
+
+### LinkedIn Repost - Draft 2
+
+Great session on staffing curves. Elisabeth and Joel showed how Brook's Law plays out at different levels--team (3-7) and organization (20-100).
+
+Here's what struck me: Developers say "managers don't get it." Managers say the same about developers. But Brook's Law isn't new--it's been in our canon for fifty years. We all *know* it. The question isn't knowledge. It's why knowing doesn't become doing.
+
+I got a sense that Elisabeth and Joel don't use the simulations to teach, but rather use them as  "Trojan Horses" to open deeper conversatins.  One that gets past theory into practice. Past heads into hands.  Past experiment to habit.
+
+My own experience is that teams don't practice what they know because us/them collaboration theater prevents the kinds of conversations that would create a whole-team collaboration and create a shared understanding.  (This is where I've had some success - sitting with teams to translate knowing into doing).
+
+What do you think?  Assume that we all DO know Brooks Law (and "No Silver Bullet").  What prevents us from applying this knowing to our doing?
 
 ---
 
@@ -30,6 +42,11 @@ What do you think?  Why is this such common knowledge, but not such common pract
 
 - **Elisabeth Hendrickson** -- Co-instructor, co-author *Signals & Levers*
 - **Joel Tosi** -- Co-instructor, co-author *Signals & Levers*
+
+## Background: Meet-and-Greet Prep
+
+- [Elisabeth Hendrickson](Elisabeth_Hendrickson.md)
+- [Joel Tosi](Joel_Tosi.md)
 
 ## Links
 
