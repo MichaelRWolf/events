@@ -14,8 +14,17 @@
 - Technical dojo coaching (formerly Edward Jones)
 - Agile coaching and organizational development
 - Immersive learning environments
-- Co-created DuckSimNG simulations
+- Co-created DuckSimNG simulations (minimal public adoption)
 - Known through the Dojo community (connection point with Michael)
+
+## DuckSimNG
+
+Two publicly available scenarios at [DuckSimNG](https://ducksimng.onrender.com/):
+
+- [Pipeline Timeline](https://ducksimng.onrender.com/scenarios/pipeline/timeline)
+- [Mythical](https://ducksimng.onrender.com/scenarios/mythical)
+
+These appear to be lightweight, web-based simulations for illustrating team dynamics and delivery concepts. Not widely known or adopted outside their immediate teaching/coaching context.
 
 ## Teaching Style
 

@@ -13,7 +13,14 @@
 - Systems thinking applied to software delivery
 - Team dynamics and organizational effectiveness
 - Quality assurance and process improvement
-- Co-created DuckSimNG simulation tools (Pipeline Timeline, Mythical scenarios)
+- Co-created DuckSimNG simulation tools
+
+### DuckSimNG Scenarios
+
+- [Pipeline Timeline](https://ducksimng.onrender.com/scenarios/pipeline/timeline)
+- [Mythical](https://ducksimng.onrender.com/scenarios/mythical)
+
+**Note:** DuckSimNG appears to be a niche tool with minimal public presence. Not widely discussed or adopted in industry discourse. Hosted on Render (simple hosting platform), suggesting lightweight web-based simulations. Sophistication level appears modest--more like educational project/assignment level than industry-changing tooling.
 
 ## Teaching Style
 
