@@ -1,6 +1,6 @@
 # Michael + Jess Connect
 
-**Date:** July 10, 2026 | 1:00 PM  
+**Date:** July 13, 2026 | 12:30 PM  
 **Format:** Zoom call  
 **Duration:** TBD
 
@@ -24,6 +24,10 @@ Connection call with Jess.
 
 ---
 
+## Notes
+
+Worked with Michico.  Storms too much in Tampa.  Will stay in Colorado until dog dies.  Good part of her job is that customers are prepaid to come to her.  Was at Eliassen until <https://www.linkedin.com/in/davidgijsbers/> David Gijsbers left.
+
 ## My Synthesis
 
 ### Agenda items
@@ -45,4 +49,5 @@ Connection call with Jess.
 
 ## Follow-up
 
-- [ ] Capture notes and next steps
+- [ ] Follow-up in a few months
+- [x] Connect w/ David Gijsbers
