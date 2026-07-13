@@ -17,10 +17,23 @@
 
 ### DuckSimNG Scenarios
 
-- [Pipeline Timeline](https://ducksimng.onrender.com/scenarios/pipeline/timeline)
-- [Mythical](https://ducksimng.onrender.com/scenarios/mythical)
+Seven interactive simulations exploring software team dynamics:
 
-**Note:** DuckSimNG appears to be a niche tool with minimal public presence. Not widely discussed or adopted in industry discourse. Hosted on Render (simple hosting platform), suggesting lightweight web-based simulations. Sophistication level appears modest--more like educational project/assignment level than industry-changing tooling.
+1. **Mythical Man Month** -- Why adding people to late projects makes them later. Examines project size, coordination overhead, and staffing curves.
+
+2. **Teamwork** -- Team size and collaboration methods (pairing, swarming, ensemble) impact on delivery speed. "More developers speed delivery--up to a point."
+
+3. **Deployment Reliability** -- Commit size, test coverage, and defect probability. Larger deploys compound defect probability through subroutine interactions.
+
+4. **Pipeline** -- Two teams shipping through independent pipelines into shared staging/production. Models how "fix discipline determines whether defects get addressed or ignored."
+
+5. **Glassbox** -- Competitive scenario with two teams, shared customers, tester, and product manager. Shows how code quality and collaboration affect satisfaction.
+
+6. **Studio** -- Design tool to configure component combinations and observe emergent organizational dynamics without coding.
+
+7. **Scenario 1** -- Placeholder (in development).
+
+**Note:** DuckSimNG appears to be a niche tool with minimal public presence. Not widely discussed or adopted in industry discourse. Hosted on Render (simple hosting), suggesting lightweight web app. Sophistication appears modest--educational/assignment level rather than industry-changing.
 
 ## Teaching Style
 
