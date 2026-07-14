@@ -96,9 +96,9 @@ Hendrickson and Tosi's forthcoming book (Fall 2026, IT Revolution) frames softwa
 
 ## Follow-up
 
-- [ ] Review DuckSimNG simulations for deeper mental model
-- [ ] Capture takeaways on team sizing trade-offs
-- [ ] Map U-Curves findings to current team contexts
+- [x] Review DuckSimNG simulations for deeper mental model
+- [x] Capture takeaways on team sizing trade-offs
+- [x] Map U-Curves findings to current team contexts
 
 ### LI Connection Requests
 
