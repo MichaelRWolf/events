@@ -4,6 +4,8 @@
 
 **Referencing Elisabeth's post:** <https://www.linkedin.com/feed/update/urn:li:activity:7481714088809730048/>
 
+**My repost (July 14, 2026):** <https://www.linkedin.com/posts/mrwolf_eternal-staffing-questions-how-many-people-activity-7482557771402399744-6Jm5>
+
 ### LinkedIn Repost - Draft 1
 
 I attended this session last week. Elisabeth and Joel used simulation tools to show min/max curves illustrating Brook's Law across team level (3-7 people) and organization level (20-100).
@@ -16,15 +18,19 @@ The real opportunity isn't learning more about U-Curves. It's talking *together*
 
 That's where the work is.
 
-### LinkedIn Repost - Draft 2
+### LinkedIn Repost - Final
 
-Great session on staffing curves. Elisabeth and Joel showed how Brook's Law plays out at different levels--team (3-7) and organization (20-100).
+Great session on staffing curves. Elisabeth and Joel showed how Brook's Law plays out at different levels--team (3-7) and organization (20-100) using simulations with multi-input sliders that generated U-Curves (min/max curves).
 
-Here's what struck me: Developers say "managers don't get it." Managers say the same about developers. But Brook's Law isn't new--it's been in our canon for fifty years. We all *know* it. The question isn't knowledge. It's why knowing doesn't become doing.
+Here's what struck me: Developers say "managers don't get it." Managers say the same about developers. But Brook's Law isn't new--it's been in our canon for fifty years. We all *know* it. The question isn't knowledge. It's "Why knowing doesn't become doing?".
 
 I got a sense that Elisabeth and Joel don't use the simulations to teach, but rather use them as  "Trojan Horses" to open deeper conversatins.  One that gets past theory into practice. Past heads into hands.  Past experiment to habit.
 
-My own experience is that teams don't practice what they know because us/them collaboration theater prevents the kinds of conversations that would create a whole-team collaboration and create a shared understanding.  (This is where I've had some success - sitting with teams to translate knowing into doing).
+My own experience is that teams don't practice what they know because collaboration theater prevents the kinds of conversations that would create a whole-team collaboration and create a shared understanding that would eliminate the finger pointing.  (This is where I've had some success - sitting with teams to translate knowing into doing).
+
+To paraphrase Abraham Lincoln
+> The best way to destroy a bad manager(/developer)
+> is to make them my collaborator?
 
 What do you think?  Assume that we all DO know Brooks Law (and "No Silver Bullet").  What prevents us from applying this knowing to our doing?
 
@@ -99,7 +105,7 @@ Hendrickson and Tosi's forthcoming book (Fall 2026, IT Revolution) frames softwa
 **Message:**
 Hi [Name] -- Great session. The real conversation: we know this stuff works, why don't we do it? I come alongside teams to make that shift happen. Let's connect. --Michael
 
-**Contacts:**
+**Status:**
 
-- [ ] Elisabeth Hendrickson
-- [ ] Joel Tosi
+- [x] Joel Tosi -- Connection accepted (July 14, 2026)
+- [x] Elisabeth Hendrickson -- Following (July 14, 2026; could not send connection request)
