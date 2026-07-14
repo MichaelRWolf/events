@@ -15,7 +15,12 @@ Woody Zuill's AI workshop. Friday session.
 
 ## People
 
-- **Organizer:** Woody Zuill (297 followers)
+- **Organizer:** Woody Zuill
+  - Email: <woody@woodyzuill.com>
+  - Website: <https://woodyzuill.com>
+  - Eventbrite Profile: <https://www.eventbrite.com/o/5787196776>
+  - LinkedIn: <https://www.linkedin.com/in/woodyzuill/>
+  - Twitter: @WoodyZuill
 
 ## My synthesis
 
