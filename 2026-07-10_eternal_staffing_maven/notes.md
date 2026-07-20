@@ -102,10 +102,11 @@ Hendrickson and Tosi's forthcoming book (Fall 2026, IT Revolution) frames softwa
 
 ### LI Connection Requests
 
-**Message:**
+**Template Message:**
 Hi [Name] -- Great session. The real conversation: we know this stuff works, why don't we do it? I come alongside teams to make that shift happen. Let's connect. --Michael
 
 **Status:**
 
 - [x] Joel Tosi -- Connection accepted (July 14, 2026)
+  - Reply message: [li_reply_to_joel.txt](li_reply_to_joel.txt)
 - [x] Elisabeth Hendrickson -- Following (July 14, 2026; could not send connection request)

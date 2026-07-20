@@ -1,0 +1,15 @@
+Yeah. I've got a lot of ideas along this line. That and $6 will get me a Tall Latte at SBUX. :-}
+
+Here are a few...
+
+Dialog (not monologing) or pairing is the only way I've found to make a difference. Lecturing works on occasion, but only when it opens up dialoging or pairing. That's why I was interested in your suggestion to bounce ideas around in a group (instead of posting position papers that don't get read or acted upon).
+
+Technology is what sells. It's not what works or makes the difference. Even when I was teaching C/C++ classes, the majority of the real learning was about off-curriculum topics that connected my wisdom with their problem. But selling a 5-day class (then 3-day, then 1-day) gave way to Early-Agile as the lecture-du-jour to sell as a sage on the stage. Which gave way to Middle-Agile (and Dojo) as coaching (still Sage on the Stage) or embedded (becoming Guide on the Side). Then the sales and distribution model became part of the Agile Implosion which shold have been the Agile Iteration to a new level. But because L&D and CTOs and CEOs didn't know how to buy The Vision of Agile(tm) as an intimately human interaction, we're in a a period where buyers don't know what to buy and sellers (like ME) don't know what to sell.
+
+I know that selling a 10-pack of 6-month Dojos or 500 seats in 1/2 day workshops is the bulk sales (and delivery) model that folks were familiar with. But not now. And I don't know where to look for what is replacing it after the fight, flight AND freeze postures wear off.
+
+I sense that Universities (I've talked with professors) and some L&D orgs (no connections here...) at larger orgs are experimenting with replacing Agile's "New Ways of Working" with "New Ways of Learning", but as a technologist, I don't have the skills (or the confidence?) to have the vision-setting conversaitons that marketing or sales (the good one, not the slimey ones) have. But I bet that 20 folks got together at a ski resort recently, and "... are discovering new ways of developing team competency and shared vision... and sharing it...". ;-)
+
+I want to be part of THOSE slow-twitch conversations while the market burns through the fast-twitch experiments about CLAUDE.md files or AgenticOrchestration-as-a-Service tool stacks.
+
+I already know enogh good (and great) technologists. Do you know any great marketers? Or sales folks? They're the ones selling the vision for a future, not today's tools.
