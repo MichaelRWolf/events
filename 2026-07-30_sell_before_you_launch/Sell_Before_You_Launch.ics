@@ -9,7 +9,10 @@ DTSTAMP:20260723T000000Z
 DTSTART:20260730T160000Z
 DTEND:20260730T163000Z
 SUMMARY:Sell Before You Launch: How Deep Tech Startups Win Their First Customers
-DESCRIPTION:Event by Chris Morrison\n\nAttendees: Lara Hill and 38 others
+DESCRIPTION:David Mantica Guests - Sell Before You Launch: How Deep Tech Startups Win Their First Customers Jul 30, 2026\n\nHost: David Mantica\nSpeakers: Chris Morrison (ViaVerus, SellNow™ Method), Emil Runge (Launch Chapel Hill)\nAttendees: Lara Hill and 93 others
 LOCATION:Virtual
+ORGANIZER;CN=David Mantica:mailto:
+ATTENDEE;CN=Chris Morrison;ROLE=REQ-PARTICIPANT:https://www.linkedin.com/in/morrisondchris/
+ATTENDEE;CN=Emil Runge;ROLE=REQ-PARTICIPANT:https://www.linkedin.com/in/emilrunge/
 END:VEVENT
 END:VCALENDAR
