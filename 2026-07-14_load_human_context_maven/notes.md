@@ -15,18 +15,31 @@ Free lightning lesson on managing cognitive load in AI agent workflows. Teaches 
 
 ---
 
-## Links
+## (Free) Lightning Lesson
 
-- **Course:** <https://maven.com/p/4cfeff/load-human-context-make-the-agent-brief-you-on-your-terms?utm_campaign=workshop_invite&utm_source=maven&utm_medium=email_ll_share_link&ajs_uid=1054988>
+<https://maven.com/p/4cfeff/load-human-context-make-the-agent-brief-you-on-your-terms?utm_campaign=workshop_invite&utm_source=maven&utm_medium=email_ll_share_link&ajs_uid=1054988>
+
+## Paid Course
+
+**[Hands-Off Agentic Coding](https://maven.com/lean-software-production/hands-off-agentic-coding)** -- Teaches experienced engineers to build reliable agentic systems producing trustworthy code requiring minimal review through context engineering, doer-reviewer loops, multi-model validation, and orchestration techniques. Transforms code reviewers into software factory architects.
+
+**Reference:** Wynne, M., Giacomoni, A., Lightsmith, J., & Marcin, Z. (2026). Hands-off agentic coding. Maven.
 
 ---
 
-## Instructors
+## People
 
-- Matt Wynne
-- Aldric Giacomoni
-- Jeremy Lightsmith
-- Zach Marcin
+See [outreach_drafts.md](outreach_drafts.md) for connection messages.
+
+| Name              | Role    | LinkedIn                                        |
+|-------------------|---------|-------------------------------------------------|
+| Matt Wynne        | Co-host | <https://www.linkedin.com/in/mattwynne/>        |
+| Aldric Giacomoni  | Co-host | <https://www.linkedin.com/in/aldric-giacomoni/> |
+| Jeremy Lightsmith | Co-host | <https://www.linkedin.com/in/jeremylightsmith/> |
+| Zach Marcin       | Co-host | <https://www.linkedin.com/in/zachmarcin/>       |
+| David Laing       | Guest   | <https://www.linkedin.com/in/davidlaing/>       |
+| David Vydra       | Guest   | <https://www.linkedin.com/in/davidvydra/>       |
+| Chris Matts       | Guest   | <https://www.linkedin.com/in/chrismatts/>       |
 
 ---
 
@@ -48,5 +61,4 @@ Free lightning lesson on managing cognitive load in AI agent workflows. Teaches 
 
 ## Follow-up
 
-- [ ] Capture key techniques for configuring agent briefing
-- [ ] Identify one context/preference to implement in current workflow
+Jeremy -
