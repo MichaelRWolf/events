@@ -30,11 +30,11 @@ Sent: 2026-08-03T17:10-04:00
 
 ### Matt Wynne (Co-host)
 
-Sent "Hope your Maven course is going well.  Let me know if there's any way I can support it".
-
 <https://www.linkedin.com/in/mattwynne/>
 
-*[Your message here]*
+Hope your Maven course is going well.  Let me know if there's any way I can support it.
+
+Sent: 2026-08-03T18:15
 
 ### Aldric Giacomoni (Co-host)
 
