@@ -44,7 +44,11 @@ Sent: 2026-08-03T17:47-04:00
 
 ### Zach Marcin (Co-host)
 
-See Aldric
+<https://www.linkedin.com/in/zach-marcin/>
+
+Ditto from Aldric
+
+Sent: 2026-08-03T18:04-04:00
 
 ### David Vydra (Guest)
 

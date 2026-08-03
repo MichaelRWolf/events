@@ -36,7 +36,7 @@ See [outreach_drafts.md](outreach_drafts.md) for connection messages.
 | Matt Wynne        | Co-host | <https://www.linkedin.com/in/mattwynne/>        |
 | Aldric Giacomoni  | Co-host | <https://www.linkedin.com/in/aldric-giacomoni/> |
 | Jeremy Lightsmith | Co-host | <https://www.linkedin.com/in/jeremylightsmith/> |
-| Zach Marcin       | Co-host | <https://www.linkedin.com/in/zachmarcin/>       |
+| Zach Marcin       | Co-host | <https://www.linkedin.com/in/zach-marcin/>      |
 | David Laing       | Guest   | <https://www.linkedin.com/in/davidlaing/>       |
 | David Vydra       | Guest   | <https://www.linkedin.com/in/davidvydra/>       |
 | Chris Matts       | Guest   | <https://www.linkedin.com/in/chrismatts/>       |
