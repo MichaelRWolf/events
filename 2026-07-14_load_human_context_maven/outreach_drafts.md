@@ -54,7 +54,7 @@ Sent: 2026-08-03T18:04-04:00
 
 ### David Vydra (Guest)
 
-<https://www.linkedin.com/in/davidvydra/>
+<https://www.linkedin.com/in/dvydra/>
 
 I enjoyed the mid-July Lightening Course where your chat "Can this be ready by Monday?" pointed to a need within your org.  I hope it works out for you.  Let me know if I can assist.  Supporting teams to adopt new practices and tools is what I do well.  Let's connect and trade notes.
 
