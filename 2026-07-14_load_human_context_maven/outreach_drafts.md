@@ -38,6 +38,8 @@ Sent: 2026-08-03T17:10-04:00
 
 <https://www.linkedin.com/in/aldric-giacomoni/>
 
+I enjoyed the mid-july Lightening Course.  It feels like mobbing meets lean coffee, practices that I've seen work better than "traditional" lecture/lab, and hope it works for you.  It's what's worked for me, and what I'm looking to do next.  Let's stay connected and trade notes.
+
 Sent: 2026-08-03T17:47-04:00
 
 ### Zach Marcin (Co-host)
