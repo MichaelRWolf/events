@@ -18,7 +18,7 @@ DTSTAMP:2026-09-02T20:17:17-04:00
 DTSTART:2026-09-03T16:00:00-04:00
 DTEND:2026-09-03T17:00:00-04:00
 SUMMARY:Test Event - ISO 8601 with Offset
-DESCRIPTION:Test event using ISO 8601 format with Eastern offset (-04:00)
+DESCRIPTION:Test event using ISO 8601 format with Eastern offset.\n\nExpected time:\n- Offset: 2026-09-03T16:00:00-04:00 to 2026-09-03T17:00:00-04:00\n- Z notation (equivalent): 2026-09-03T20:00:00Z to 2026-09-03T21:00:00Z
 LOCATION:Test Location
 END:VEVENT
 END:VCALENDAR
@@ -38,24 +38,46 @@ DTSTAMP:20260902T201717Z
 DTSTART:20260903T200000Z
 DTEND:20260903T210000Z
 SUMMARY:Test Event - ISO 8601 with Z Notation
-DESCRIPTION:Test event using ISO 8601 format with UTC Z notation
+DESCRIPTION:Test event using ISO 8601 format with UTC Z notation.\n\nExpected time:\n- Z notation: 2026-09-03T20:00:00Z to 2026-09-03T21:00:00Z\n- Offset (equivalent): 2026-09-03T16:00:00-04:00 to 2026-09-03T17:00:00-04:00
 LOCATION:Test Location
 END:VEVENT
 END:VCALENDAR
 EOF
 
-echo "Opening test_with_offset.ics in Daylite..."
+echo "Test files created in /tmp/ics-test/"
+echo ""
+echo "=========================================="
+echo "TEST 1: test_with_offset.ics"
+echo "=========================================="
+echo "Expected timing in event description:"
+echo "  Offset: 2026-09-03T16:00:00-04:00 to 2026-09-03T17:00:00-04:00"
+echo "  Z notation (UTC equiv): 2026-09-03T20:00:00Z to 2026-09-03T21:00:00Z"
+echo ""
+echo "Opening in Daylite..."
 open -a Daylite /tmp/ics-test/test_with_offset.ics
-
-echo "Opening test_with_offset.ics in Calendar..."
+sleep 1
+echo "Opening in Calendar..."
 open -a Calendar /tmp/ics-test/test_with_offset.ics
 
-echo "Opening test_with_z.ics in Daylite..."
+echo ""
+echo "=========================================="
+echo "TEST 2: test_with_z.ics"
+echo "=========================================="
+echo "Expected timing in event description:"
+echo "  Z notation: 2026-09-03T20:00:00Z to 2026-09-03T21:00:00Z"
+echo "  Offset (EDT equiv): 2026-09-03T16:00:00-04:00 to 2026-09-03T17:00:00-04:00"
+echo ""
+echo "Opening in Daylite..."
 open -a Daylite /tmp/ics-test/test_with_z.ics
-
-echo "Opening test_with_z.ics in Calendar..."
+sleep 1
+echo "Opening in Calendar..."
 open -a Calendar /tmp/ics-test/test_with_z.ics
 
 echo ""
-echo "Test files created in /tmp/ics-test/"
-echo "Verify both apps imported events correctly without errors."
+echo "=========================================="
+echo "Verification checklist:"
+echo "=========================================="
+echo "1. Both events should show same time (16:00-17:00 EDT)"
+echo "2. Event descriptions should display expected times in both formats"
+echo "3. No import errors in either app"
+echo "4. Times consistent across Calendar.app and Daylite"
