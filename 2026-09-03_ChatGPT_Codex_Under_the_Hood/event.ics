@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Wolf//Event Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ChatGPT Codex Under the Hood
+BEGIN:VEVENT
+UID:2026-09-03-chatgpt-codex@events.local
+DTSTAMP:20260902T221210Z
+DTSTART:20260903T160000Z
+DTEND:20260903T170000Z
+SUMMARY:ChatGPT Codex Under the Hood
+DESCRIPTION:George and David will discuss all things ChatGPT Codex, from there George will get "under the hood" and showcase some demos.\n\nhttps://www.linkedin.com/events/7497622989929316352/
+LOCATION:Online
+URL:https://www.linkedin.com/events/7497622989929316352/
+END:VEVENT
+END:VCALENDAR
