@@ -55,10 +55,23 @@ See [outreach_drafts.md](outreach_drafts.md) for connection messages.
 
 ## My Synthesis
 
-### To be filled after attending
+Notes added 2026-09-09
+
+Problem statement -- How to deal with AWOT (Agentic Wall of Text)?
+
+Product mentioned was [Ensemble Works](https://github.com/lean-software-production/ensembleworks).  There may be a mobbing group to enhance it.  It looks like it's heavily David Laing doing the dev (or at least the commits).
+
+``` text
+A multiplayer infinite-canvas team room for a dev team that mobs on a shared Linux VM: live tmux-backed terminals, embedded dev servers, sticky notes and drawings — with teammates as video bubbles whose voices get louder as you work closer to them.
+
+```
+
+Jeremy referred to TDD as "Double-entry bookkeeping".
 
 ---
 
 ## Follow-up
 
-Jeremy -
+Connected with collaborators soon afterwards, then David Laing in Sept.
+
+Followed-up with David Vydra in Sept.
