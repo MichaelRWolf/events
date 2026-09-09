@@ -4,9 +4,22 @@ set -e
 echo "Creating test .ics files for Calendar.app and Daylite compatibility..."
 mkdir -p /tmp/ics-test
 
-# Generate fresh DTSTAMP values to avoid "out of date" errors
-DTSTAMP_OFFSET=$(date +"%Y-%m-%dT%H:%M:%S%z" | sed 's/\([+-][0-9][0-9]\)\([0-9][0-9]\)$/\1:\2/')
+# Generate fresh DTSTAMP (now, compact Z format) and event date (tomorrow)
 DTSTAMP_Z=$(date -u +"%Y%m%dT%H%M%SZ")
+
+# Calculate tomorrow's date for event start/end times
+TOMORROW_Z=$(date -j -f "%Y-%m-%d" -v+1d "$(date +%Y-%m-%d)" +"%Y%m%d")
+EVENT_START_Z="${TOMORROW_Z}T200000Z"
+EVENT_END_Z="${TOMORROW_Z}T210000Z"
+
+# Compact format with offset (no hyphens/colons in timestamp per RFC 5545)
+# EDT offset is -0400 (compact), EST offset is -0500
+EVENT_START_OFFSET="${TOMORROW_Z}T160000-0400"
+EVENT_END_OFFSET="${TOMORROW_Z}T170000-0400"
+
+# Extended format for display (human-readable)
+DISPLAY_START_OFFSET="${TOMORROW_Z:0:4}-${TOMORROW_Z:4:2}-${TOMORROW_Z:6:2}T16:00:00-04:00"
+DISPLAY_END_OFFSET="${TOMORROW_Z:0:4}-${TOMORROW_Z:4:2}-${TOMORROW_Z:6:2}T17:00:00-04:00"
 
 # Test with offset notation
 cat > /tmp/ics-test/test_with_offset.ics <<EOF
@@ -17,12 +30,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Test Event (Offset)
 BEGIN:VEVENT
-UID:test-offset-2026-09-03@events.local
-DTSTAMP:${DTSTAMP_OFFSET}
-DTSTART:2026-09-03T16:00:00-04:00
-DTEND:2026-09-03T17:00:00-04:00
+UID:test-offset-${TOMORROW_Z}@events.local
+DTSTAMP:${DTSTAMP_Z}
+DTSTART:${EVENT_START_OFFSET}
+DTEND:${EVENT_END_OFFSET}
 SUMMARY:Test Event - ISO 8601 with Offset
-DESCRIPTION:Test event using ISO 8601 format with Eastern offset.\n\nExpected time:\n- Offset: 2026-09-03T16:00:00-04:00 to 2026-09-03T17:00:00-04:00\n- Z notation (equivalent): 2026-09-03T20:00:00Z to 2026-09-03T21:00:00Z
+DESCRIPTION:Test event using ISO 8601 format with Eastern offset.\n\nExpected time:\n- Offset (compact): ${EVENT_START_OFFSET} to ${EVENT_END_OFFSET}\n- Offset (extended): ${DISPLAY_START_OFFSET} to ${DISPLAY_END_OFFSET}\n- Z notation (equivalent): ${EVENT_START_Z} to ${EVENT_END_Z}
 LOCATION:Test Location
 END:VEVENT
 END:VCALENDAR
@@ -37,12 +50,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Test Event (UTC-Z)
 BEGIN:VEVENT
-UID:test-z-2026-09-03@events.local
+UID:test-z-${TOMORROW_Z}@events.local
 DTSTAMP:${DTSTAMP_Z}
-DTSTART:20260903T200000Z
-DTEND:20260903T210000Z
+DTSTART:${EVENT_START_Z}
+DTEND:${EVENT_END_Z}
 SUMMARY:Test Event - ISO 8601 with Z Notation
-DESCRIPTION:Test event using ISO 8601 format with UTC Z notation.\n\nExpected time:\n- Z notation: 2026-09-03T20:00:00Z to 2026-09-03T21:00:00Z\n- Offset (equivalent): 2026-09-03T16:00:00-04:00 to 2026-09-03T17:00:00-04:00
+DESCRIPTION:Test event using ISO 8601 format with UTC Z notation.\n\nExpected time:\n- Z notation: ${EVENT_START_Z} to ${EVENT_END_Z}\n- Offset (compact, EDT equiv): ${EVENT_START_OFFSET} to ${EVENT_END_OFFSET}\n- Offset (extended, EDT equiv): ${DISPLAY_START_OFFSET} to ${DISPLAY_END_OFFSET}
 LOCATION:Test Location
 END:VEVENT
 END:VCALENDAR
@@ -54,8 +67,9 @@ echo "=========================================="
 echo "TEST 1: test_with_offset.ics"
 echo "=========================================="
 echo "Expected timing in event description:"
-echo "  Offset: 2026-09-03T16:00:00-04:00 to 2026-09-03T17:00:00-04:00"
-echo "  Z notation (UTC equiv): 2026-09-03T20:00:00Z to 2026-09-03T21:00:00Z"
+echo "  Offset (compact): ${EVENT_START_OFFSET} to ${EVENT_END_OFFSET}"
+echo "  Offset (extended): ${DISPLAY_START_OFFSET} to ${DISPLAY_END_OFFSET}"
+echo "  Z notation (UTC equiv): ${EVENT_START_Z} to ${EVENT_END_Z}"
 echo ""
 echo "Opening in Daylite..."
 open -a Daylite /tmp/ics-test/test_with_offset.ics
@@ -70,8 +84,9 @@ echo "=========================================="
 echo "TEST 2: test_with_z.ics"
 echo "=========================================="
 echo "Expected timing in event description:"
-echo "  Z notation: 2026-09-03T20:00:00Z to 2026-09-03T21:00:00Z"
-echo "  Offset (EDT equiv): 2026-09-03T16:00:00-04:00 to 2026-09-03T17:00:00-04:00"
+echo "  Z notation: ${EVENT_START_Z} to ${EVENT_END_Z}"
+echo "  Offset (compact, EDT equiv): ${EVENT_START_OFFSET} to ${EVENT_END_OFFSET}"
+echo "  Offset (extended, EDT equiv): ${DISPLAY_START_OFFSET} to ${DISPLAY_END_OFFSET}"
 echo ""
 echo "Opening in Daylite..."
 open -a Daylite /tmp/ics-test/test_with_z.ics
@@ -86,6 +101,8 @@ echo "=========================================="
 echo "Verification checklist:"
 echo "=========================================="
 echo "1. Both events should show same time (16:00-17:00 EDT)"
-echo "2. Event descriptions should display expected times in both formats"
-echo "3. No import errors in either app"
-echo "4. Times consistent across Calendar.app and Daylite"
+echo "2. Both events should show tomorrow's date: ${TOMORROW_Z:0:4}-${TOMORROW_Z:4:2}-${TOMORROW_Z:6:2}"
+echo "3. Event descriptions display times in all three formats (compact offset, extended offset, Z)"
+echo "4. No import errors in either app"
+echo "5. Times consistent across Calendar.app and Daylite"
+echo "6. Events are easy to find and delete"
