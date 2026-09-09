@@ -55,9 +55,11 @@ echo "  Z notation (UTC equiv): 2026-09-03T20:00:00Z to 2026-09-03T21:00:00Z"
 echo ""
 echo "Opening in Daylite..."
 open -a Daylite /tmp/ics-test/test_with_offset.ics
-sleep 1
+echo "Press Enter after Daylite finishes importing (or close the import dialog)..."
+read -r
 echo "Opening in Calendar..."
 open -a Calendar /tmp/ics-test/test_with_offset.ics
+sleep 1
 
 echo ""
 echo "=========================================="
@@ -69,9 +71,11 @@ echo "  Offset (EDT equiv): 2026-09-03T16:00:00-04:00 to 2026-09-03T17:00:00-04:
 echo ""
 echo "Opening in Daylite..."
 open -a Daylite /tmp/ics-test/test_with_z.ics
-sleep 1
+echo "Press Enter after Daylite finishes importing (or close the import dialog)..."
+read -r
 echo "Opening in Calendar..."
 open -a Calendar /tmp/ics-test/test_with_z.ics
+sleep 1
 
 echo ""
 echo "=========================================="
