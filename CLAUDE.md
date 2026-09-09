@@ -64,7 +64,7 @@ Contact files use vCard 3.0 format (`.vcf` extension). For organization cards, u
 
 ## iCalendar (ICS) Format
 
-Calendar events use `.ics` format with timezone-aware timestamps (typically `TZID=America/New_York` unless the event specifies otherwise). Include the full-day umbrella event plus individual sessions.
+Calendar events use `.ics` format. See [calendar_invitations.md](calendar_invitations.md) for complete guidelines, including ISO 8601 UTC time format, single-line title/description requirements, and compatibility rules for both Calendar.app and Daylite.
 
 ## Event-Specific CLAUDE.md Files
 
