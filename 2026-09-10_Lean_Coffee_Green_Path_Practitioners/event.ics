@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude Code//Event Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-09-10-lean-coffee-gpp@events.local
+DTSTAMP:20260909T000000Z
+DTSTART:2026-09-10T10:00:00-04:00
+DTEND:2026-09-10T11:00:00-04:00
+SUMMARY:Lean Coffee | Green Path Practitioners
+DESCRIPTION:Bring your thoughts, experiences, and questions about tiny practices that make real change. Meeting link: https://meet.google.com/osw-xrus-zux
+LOCATION:https://meet.google.com/osw-xrus-zux
+ORGANIZER;CN=Marian Hartman:mailto:marian@example.com
+ATTENDEE;CN=Marian Hartman;ROLE=CHAIR:mailto:marian@example.com
+ATTENDEE:mailto:info@nicole-rauch.de
+ATTENDEE:mailto:laurentgth@gmail.com
+ATTENDEE:mailto:kody.fintak@gmail.com
+ATTENDEE:mailto:steve@conversaurus.com
+ATTENDEE:mailto:bryanmarty@gmail.com
+ATTENDEE:mailto:judy@conversaurus.com
+ATTENDEE:mailto:davelu7@gmail.com
+ATTENDEE:mailto:philippe.bourgau@gmail.com
+ATTENDEE:mailto:eric@ericwilleke.com
+ATTENDEE:mailto:jbilston@yelp.com
+ATTENDEE:mailto:devillmeister@gmail.com
+ATTENDEE:mailto:etmoore@gmail.com
+ATTENDEE:mailto:tobey.aumann@gmail.com
+ATTENDEE:mailto:ordog.ivett@gmail.com
+ATTENDEE:mailto:llewellyn.falco@gmail.com
+ATTENDEE:mailto:arlo@belshee.com
+ATTENDEE:mailto:peter.fichtner@gmail.com
+ATTENDEE:mailto:emily@bacheconsulting.com
+ATTENDEE:mailto:johan.lodin@jolod.se
+ATTENDEE:mailto:milki@yelp.com
+ATTENDEE:mailto:lada.kesseler@example.com
+ATTENDEE:mailto:kertpeterson@gmail.com
+ATTENDEE:mailto:ron.heywood@spektrix.com
+ATTENDEE:mailto:rieglerg85@gmail.com
+ATTENDEE:mailto:peter.kofler@code-cop.org
+ATTENDEE:mailto:xavi.ametller@gmail.com
+ATTENDEE:mailto:alex.fisher@spektrix.com
+ATTENDEE:mailto:anne.harvey@spektrix.com
+ATTENDEE:mailto:billy.fluck@spektrix.com
+ATTENDEE:mailto:klaudia.piaskowska@spektrix.com
+ATTENDEE:mailto:laurids.als@spektrix.com
+ATTENDEE:mailto:liz.hainsworth@spektrix.com
+ATTENDEE:mailto:rebecca.willis@spektrix.com
+ATTENDEE:mailto:rita.goodbody@spektrix.com
+ATTENDEE:mailto:tarun.sharma@spektrix.com
+ATTENDEE:mailto:peter.gfader@example.com
+ATTENDEE:mailto:lars.eckart@example.com
+ATTENDEE:mailto:MichaelRWolf@att.net
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
