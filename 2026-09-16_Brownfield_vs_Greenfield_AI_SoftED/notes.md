@@ -6,11 +6,11 @@
 **Format:** Webinar (Zoom)  
 **Webinar ID:** 967 4791 2271  
 **Passcode:** 624749  
-**Registration/Join URL:** https://www.softed.com/webinars/brownfield-vs.-greenfield-ai-same-tools-different-playbooks
+**Registration/Join URL:** <https://www.softed.com/webinars/brownfield-vs.-greenfield-ai-same-tools-different-playbooks>
 
-**Zoom Join Link:** https://zoom.us/w/96747912271?tk=wqLuo5iBnMYSdtTDsXzowHZk80wHGO4eZpoanl_tfAU.DQkAAAAWhp_8TxZVSkNzS3VCT1JCR3pRNEcteFUyekN3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=5IL3OiWtg6An6bxoagEkbri7NuovKC.1&uuid=WN_lDpV0xeZSUOS4u6hFCm8gQ
+**Zoom Join Link:** <https://zoom.us/w/96747912271?tk=wqLuo5iBnMYSdtTDsXzowHZk80wHGO4eZpoanl_tfAU.DQkAAAAWhp_8TxZVSkNzS3VCT1JCR3pRNEcteFUyekN3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=5IL3OiWtg6An6bxoagEkbri7NuovKC.1&uuid=WN_lDpV0xeZSUOS4u6hFCm8gQ>
 
-**APA Citation:** SoftEd. (2026, September 16). *Brownfield vs. greenfield AI: Same tools, different playbooks* [Webinar]. Retrieved from https://www.softed.com/webinars/brownfield-vs.-greenfield-ai-same-tools-different-playbooks
+**APA Citation:** SoftEd. (2026, September 16). *Brownfield vs. greenfield AI: Same tools, different playbooks* [Webinar]. Retrieved from <https://www.softed.com/webinars/brownfield-vs.-greenfield-ai-same-tools-different-playbooks>
 
 ---
 
@@ -34,7 +34,8 @@ Both approaches have real strengths and real blind spots. You'll leave with prac
 ## People
 
 ### Presenter
-- **Chris Perrin** — Instructor; builds solo greenfield products and leads enterprise brownfield engineering teams
+
+- **Chris Perrin** -- Instructor; builds solo greenfield products and leads enterprise brownfield engineering teams
 
 ---
 
