@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Michael Wolf//Events//EN
+UID:leo-quimbaya-2026-09-29@events.example.com
+FN:Leo Quimbaya
+N:Quimbaya;Leo;;;
+ORG:GitHub
+TITLE:Strategic Field Security Specialist, Code
+URL;TYPE=work:https://www.linkedin.com/in/leo-quimbaya-07384a54/
+NOTE:GitHub Advanced Security Stage speaker - How to Trust the Code You Ship (2026-09-29)
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Michael Wolf//Events//EN
+UID:eric-tooley-2026-09-29@events.example.com
+FN:Eric Tooley
+N:Tooley;Eric;;;
+ORG:GitHub
+TITLE:Senior Product Marketing Manager
+URL;TYPE=work:https://www.linkedin.com/in/erictooley/
+NOTE:GitHub Advanced Security Stage speaker - How to Trust the Code You Ship (2026-09-29)
+END:VCARD
