@@ -18,6 +18,39 @@ Review session examining Joakim and David's AI for Teams class materials and app
 | David Bulkin       | [linkedin.com/in/davidbulkin](https://www.linkedin.com/in/davidbulkin/)             | Class instructor |
 | Greg Keegan        | [linkedin.com/in/gkeegan](https://www.linkedin.com/in/gkeegan/)                     |                  |
 
+## People Notes
+
+### Joakim Marner
+
+- Interested in pushing through material
+- Anti-invitation for participation
+- Defended material instead of listening to feedback
+- Interest area: PR bottleneck -- using old, broken PR paradigm at higher speed, automated to be stupid faster
+
+### David Bulkin
+
+- Personable and playful
+- Wants some class to work
+- Has broad background to bring to bear
+- Not focused on what this course should look like
+
+### Ja'Mesa Dixon
+
+- Asked pointed product/marketing questions
+- Received deferral and defense (how Joakim thinks it should be) instead of acknowledgment that audience is confused about target audience, expected outcome, and how to address technical assumptions
+- Interest area: decision-making applications of AI
+
+### Greg Keegan
+
+- Currently in 3-month boot camp
+- Interest area: validation aspects of AI; OmniView
+- Very mature vision of industry, current position of market vis-à-vis agile adoption
+- Has spoken to senior folks at large organizations: Pfizer, AmEx
+- Observed new titles emerging: AI Strategist, AI Enabler
+- **Key contact -- definitely follow up with Greg**
+- Previous experience: worked with Koch Industries in Atlanta (not interested in paying)
+- Market readiness snapshot: Banking onboard with AI; healthcare next; hospitality already there (Airbnb)
+
 ## Session Notes
 
 ![Skills.sh repositories and metrics](skills_table.png)
