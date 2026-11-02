@@ -1,0 +1,707 @@
+# Wendy & Michael: transcript
+
+*Downloaded 2026-10-25 12:36. Each line: time from the meeting's start, clock time, who.*
+
+- 0:18 (11:00:41) **Michael R. Wolf:** Something more enough to give up the old, you know? You-- unless you die, you will not see the Kingdom of God. Unless you die, you'll see it dies in the field, it will not bear 100-fold.
+- 0:26 (11:00:48) **Michael R. Wolf:** I mean, you know, unless you pay everything you've got for the pearl, you will not get it in the field.
+- 0:32 (11:00:54) **Michael R. Wolf:** That's two different metaphors that the treasure in the field and the pearl at great price-- same, same thing.
+- 0:47 (11:01:10) **Michael R. Wolf:** It's like, it's fucking hard and it takes everything, and I don't have to say it that much, but I let AI talk me out of, I think, being really more vociferous.
+- *0:52 (11:01:14) michael-claude joined (agent)*
+- 0:53 (11:01:15) **Michael R. Wolf:** Instead, just la la la, and I said, "Sacred truth," and-- but the thing--
+- 0:54 (11:01:17) **Michael R. Wolf:** Cutting off your edge, you're--
+- 0:56 (11:01:19) **Michael R. Wolf:** But it's-- I get less edgy, it does that--
+- 0:57 (11:01:19) **Michael R. Wolf:** Cutting the damage--
+- 1:03 (11:01:25) **Michael R. Wolf:** I'm fighting it all the time about God bless it, it always wants to take my edge.
+- 1:08 (11:01:30) **Michael R. Wolf:** Hi, this is Michael D. AI is listening to Michael's voice.
+- 1:12 (11:01:35) **Michael R. Wolf:** Hi, this is Wendy.
+- 1:14 (11:01:37) **Michael R. Wolf:** This is Wendy's voice.
+- 1:27 (11:01:50) **Michael R. Wolf:** We're having a conversation on Sunday about yesterday's event, and Wendy was saying something about being vociferous, and she's going to keep her thing recording too, because--
+- 1:28 (11:01:51) **Michael R. Wolf:** Okay.
+- 1:33 (11:01:56) **Michael R. Wolf:** All right, so thank you for communicating about what you're doing, Michael.
+- 1:43 (11:02:06) **Michael R. Wolf:** So one thing is I need to be vociferous--
+- 1:51 (11:02:14) **Michael R. Wolf:** You're talking and it's live transcribing, it's also going into an agent to do things, but at least we'll get the live transcription.
+- 2:01 (11:02:24) **Michael R. Wolf:** There's a live page that says things that are happening, you know, to do, and done, and right now the only to-do is listen and take notes. But--
+- 2:02 (11:02:24) **Michael R. Wolf:** Is this clock?
+- 2:46 (11:03:09) **Michael R. Wolf:** In the future, yeah, this is Claude live listening. And taking actions if we want to. So open up a to-do list in this directory, for the future. To-do talking the vociferous voice, see if I can summarize what I've heard so far. The vociferous voice of Wendy, who wanted to do work, not people who show up with a bibliography and want to read things and quote because that'll only get you so far. And she got so far. She did that, but she got to a point where she couldn't stand herself for the world without changing and was willing to do extra stuff.
+- 2:51 (11:03:13) **Michael R. Wolf:** And the insight was that Dr.--
+- 2:51 (11:03:14) **Michael R. Wolf:** No.
+- 2:54 (11:03:17) **Michael R. Wolf:** Dr. Bell got.
+- 3:19 (11:03:42) **Michael R. Wolf:** Vertigo when he got in her field, and she's got to own that getting in her field is confronting, because it's getting past the pleasantries of, "I can put on some nice leotards and go to the gym," but if you really want to sweat and come home tired, that's a different thing.
+- 3:23 (11:03:45) **Michael R. Wolf:** And now Wendy's going to say it the way Wendy would say it.
+- 3:23 (11:03:46) **Michael R. Wolf:** Yeah.
+- 3:31 (11:03:54) **Michael R. Wolf:** I mean, Dr. Bell is a perfect-- he really literally is a perfect quiet and--
+- 3:41 (11:04:03) **Michael R. Wolf:** He really was excited about coming, and he really does love me, and he works in a similar field.
+- 3:46 (11:04:09) **Michael R. Wolf:** But I noticed the night before he was full of--
+- 3:53 (11:04:16) **Michael R. Wolf:** He was-- he had a-- he had some-- some real deep pain that.
+- 3:57 (11:04:20) **Michael R. Wolf:** It probably is time to handle.
+- 4:05 (11:04:27) **Michael R. Wolf:** And that deep pain did a pushback, and then that morning.
+- 4:19 (11:04:41) **Michael R. Wolf:** It's time to come to the class, and he had terrible vertigo, and he's obviously wanting to come. It's just that there's, you know, something subconsciously that's like, "Fuck no," and that's the very thing.
+- 4:21 (11:04:43) **Michael R. Wolf:** That's the very thing.
+- 4:25 (11:04:47) **Michael R. Wolf:** And so--
+- 4:43 (11:05:06) **Michael R. Wolf:** I need to-- first of all, tell them I have the how of what the books say and the videos say and the teachers say. They're like, "Oh, you need to be in present time," "Oh, you need to be like," "Oh, it's all the rage now to be--
+- 4:50 (11:05:12) **Michael R. Wolf:** Not dualistic," which is just a hilarious word.
+- 4:54 (11:05:17) **Michael R. Wolf:** And--
+- 4:58 (11:05:21) **Michael R. Wolf:** It's all the rage to be.
+- 5:06 (11:05:28) **Michael R. Wolf:** Following this teacher or integral or whatever. But the fucking fact is that.
+- 5:16 (11:05:39) **Michael R. Wolf:** What most of those people and systems are missing is the how, H-O-W, how.
+- 5:21 (11:05:43) **Michael R. Wolf:** And I have the how. Okay, you want the book to be in present time? I have the how to practice that.
+- 5:22 (11:05:45) **Michael R. Wolf:** And experience that.
+- 5:30 (11:05:53) **Michael R. Wolf:** Okay, you want to be one with God? I have the how to practice and experience that. You want to, um, etc.
+- 5:44 (11:06:06) **Michael R. Wolf:** So I need to emphasize the how. I need to stop dulling my knife and be really incisive. And like, we could look at Jesus about that. He says--
+- 5:46 (11:06:08) **Michael R. Wolf:** Incisive? That's a good knife word.
+- 5:51 (11:06:14) **Michael R. Wolf:** He's really like, he's really--
+- 5:54 (11:06:16) **Michael R. Wolf:** Intense.
+- 6:05 (11:06:27) **Michael R. Wolf:** He's really like, "Oh, if you want to follow me, so all you've got, oh, if you want to follow me.
+- 6:14 (11:06:36) **Michael R. Wolf:** Hate your mother and father." I mean, the man is like, and part of it, I think, is he's just sick of the shit I'm looking at.
+- 6:21 (11:06:44) **Michael R. Wolf:** It's like, if-- if you want to do this, stop digging around.
+- 6:24 (11:06:46) **Michael R. Wolf:** And if you don't want to do it, don't do it.
+- 6:52 (11:07:15) **Michael R. Wolf:** And I think that in my marketing in the last month, I was just trying to be too nice and too, like, if you want more love, in or out of a relationship, then come and live in more love and then you'll be have more freedom and you'll give people around you more freedom. It sounds great and it works great, for people--
+- 6:53 (11:07:15) **Michael R. Wolf:** For who?
+- 6:57 (11:07:20) **Michael R. Wolf:** It works great for people who are already--
+- 7:03 (11:07:26) **Michael R. Wolf:** Willing to live full out, work full out, heal full out.
+- 7:42 (11:08:04) **Michael R. Wolf:** It's not for the average person. And even though I did say sacred love in every ad, I think people got the picture. So I'm saying this but they're getting subconsciously psychically-- they're getting the picture. Oh, it's-- this is going to be intense. Oh, this is going to cause me to have to let go of this and let in that. Like, so I need to-- I think I need to be very overt about it and stop pussyfooting around and say, "Yeah, this is an intense gig." This is going to change your life. Or maybe--
+- 7:44 (11:08:06) **Michael R. Wolf:** Oh, what an intensive. Not a workshop.
+- 7:53 (11:08:16) **Michael R. Wolf:** You know, throw the pictures. It's intense. It's fiery. If you really want to do the work, great. Otherwise, go out and enjoy the sunny day and don't annoy each other.
+- 7:59 (11:08:21) **Michael R. Wolf:** So-- because the one person who could come--
+- 8:11 (11:08:34) **Michael R. Wolf:** Is not just reading the right books and going to the right workshops. She's truly hungry. She wants to-- she wants to-- she's doing a daily practice. She really wants to go deeper.
+- 8:18 (11:08:41) **Michael R. Wolf:** And she really got something deeper out of the workshop in one day that she hadn't gotten in decades of searching.
+- 8:29 (11:08:52) **Michael R. Wolf:** She's a seeker. And so she might, you know, do more with me or she might not. I will follow up with her. But--
+- 8:42 (11:09:04) **Michael R. Wolf:** There's a lot of just woo woo woo out there. Let's have some candles and some gongs and some sharing and some blankies.
+- 8:48 (11:09:11) **Michael R. Wolf:** That's funny. They had gongs in a room that was full of buzz that had been there for years.
+- 8:51 (11:09:14) **Michael R. Wolf:** Stuff across the street.
+- 8:55 (11:09:17) **Michael R. Wolf:** Just--
+- 9:02 (11:09:24) **Michael R. Wolf:** Sounds to me like-- I don't want to poo-poo the woo woo, but it's deck chairs.
+- 9:08 (11:09:30) **Michael R. Wolf:** Yeah, they're trying-- they're-- they're-- they're purposely shifting vibration. They are. It's not like--
+- 9:11 (11:09:33) **Michael R. Wolf:** And it does once you get focused on that inside the room.
+- 9:26 (11:09:48) **Michael R. Wolf:** It does, but it's not like ha-- you know, you can't go around. It's like, I used to have my only access to worshiping God really was in shared music.
+- 9:30 (11:09:53) **Michael R. Wolf:** Right? Like, it's just like, it's so limited. It's so boxed.
+- 9:37 (11:09:59) **Michael R. Wolf:** Whereas now I can live in love of God all the time.
+- 9:42 (11:10:05) **Michael R. Wolf:** But getting there was hard and it takes a minute. It takes many, many, many minutes.
+- 9:50 (11:10:13) **Michael R. Wolf:** So anyway, I need to be more vociferous. I need to say, "I know the how," even though it seems--
+- 9:53 (11:10:15) **Michael R. Wolf:** It's not humility.
+- 10:02 (11:10:25) **Michael R. Wolf:** Because it is humility. I have the how. If you want to-- if you want to do the work, I-- I've got a way that works.
+- 10:21 (11:10:43) **Michael R. Wolf:** And there's a lot of people out there making all kinds of promises that they're not keeping, including most of the religions and most of the spiritual practices. From my perspective, there are some people in some spiritual practices that are clearly, clearly showing the fruit.
+- 10:26 (11:10:49) **Michael R. Wolf:** And there are some people in some religions who are clearly showing the fruit.
+- 10:31 (11:10:53) **Michael R. Wolf:** Of a whole lifetime of investment.
+- 10:39 (11:11:01) **Michael R. Wolf:** But I have the how to get their consciously directly and relatively fast.
+- 10:42 (11:11:04) **Michael R. Wolf:** So--
+- 10:56 (11:11:18) **Michael R. Wolf:** So can you summarize and put this in a follow-- or in the notes section of what it is that you did and what it is you think you should do?
+- 10:58 (11:11:20) **Michael R. Wolf:** Just a real quick summary.
+- 11:01 (11:11:23) **Michael R. Wolf:** Who are you talking to?
+- 11:02 (11:11:24) **Michael R. Wolf:** Both of us.
+- 11:17 (11:11:39) **Michael R. Wolf:** It seems like you had something that was, like, taken note. This is the whole transcript, but could you, like, summarize the little piece? Can you summarize the little piece into a piece for the retro or for the notes?
+- 11:23 (11:11:45) **Michael R. Wolf:** I just did. Beef is citrus, and tell them I have the how.
+- 11:32 (11:11:55) **Michael R. Wolf:** Add those last two pieces to a retro notes file in this directory.
+- 11:35 (11:11:58) **Michael R. Wolf:** Can I keep talking?
+- 11:37 (11:12:00) **Michael R. Wolf:** I think so. We'll see.
+- 11:43 (11:12:05) **Michael R. Wolf:** And I think I've spent my whole ministry trying to--
+- 11:53 (11:12:16) **Michael R. Wolf:** Tone it down and be acceptable so that I can be heard, but I think what I should do is start saying what I really think.
+- 12:06 (11:12:29) **Michael R. Wolf:** And what I really experience. And yes, it holds this and that, and it-- it's inflammatory, and it's--
+- 12:25 (11:12:47) **Michael R. Wolf:** But I-- since I started 31 years ago, I've been keeping separate-- like, a Christian conversation, a post-Christian conversation, a pre-Christian conversation, and.
+- 12:29 (11:12:51) **Michael R. Wolf:** A psychic conversation, and.
+- 12:39 (11:13:02) **Michael R. Wolf:** I think that I should stop and just really say what I think, like I would say it to Amber or to Michael, and.
+- 12:51 (11:13:14) **Michael R. Wolf:** Just, like, put it out there, like, so many people do, and be like-- and I've been telling myself, "Oh, you know, if I say Jesus, I'm going to turn off half the people."
+- 12:53 (11:13:16) **Michael R. Wolf:** If I say the word Jesus, it's over.
+- 12:56 (11:13:18) **Michael R. Wolf:** With, like, half the people.
+- 13:01 (11:13:24) **Michael R. Wolf:** And if I say psychic, it's over with, like, half the people.
+- 13:08 (11:13:31) **Michael R. Wolf:** And that leaves almost no one left. But almost no one left is who I need to talk to. What if that's true?
+- 13:25 (11:13:48) **Michael R. Wolf:** And yeah, I can say-- I can-- I can talk about, you know, direct experience with Jesus, not the church crap, and I can talk about psychic means soul, and it's going-- we're going below everyday consciousness. I can-- I can--
+- 13:31 (11:13:54) **Michael R. Wolf:** Put it in context but I think it's time for me to get vociferous.
+- 13:38 (11:14:01) **Michael R. Wolf:** Like, I'm finally owning my voice, and I'm so frustrated.
+- 13:48 (11:14:11) **Michael R. Wolf:** That I put so much time and money into advertising this one thing that I thought was-- what everybody would want, but the point is that I was hiding.
+- 13:53 (11:14:15) **Michael R. Wolf:** What was really happening under there. And you can't hide from anybody because they're psychic.
+- 14:03 (11:14:26) **Michael R. Wolf:** So don't hide. Put it all right out there. Look, this is intense. Look. If you don't want intense, don't come.
+- 14:06 (11:14:28) **Michael R. Wolf:** Anyway, that's my insight this morning.
+- 14:13 (11:14:35) **Michael R. Wolf:** About--
+- 14:15 (11:14:38) **Michael R. Wolf:** A not big full workshop yesterday.
+- 14:23 (11:14:46) **Michael R. Wolf:** Add that insight about yesterday's workshop as a summary for.
+- 14:25 (11:14:48) **Michael R. Wolf:** Not being vociferous.
+- 14:37 (11:14:59) **Michael R. Wolf:** Trying to be-- this isn't the whole thing, but trying to be everything to everyone. It's too much, but.
+- 14:53 (11:15:15) **Michael R. Wolf:** It's a call to getting even more focused and not being worried about leaving people out, because that's trying to pull the people in who won't be afraid and be okay doing the work.
+- 15:09 (11:15:31) **Michael R. Wolf:** The other one-- the other approach seemed to be, like, providing an on-ramp, but it also seemed to be doing the opposite of what pulling people in would have been.
+- 15:24 (11:15:47) **Michael R. Wolf:** I think that, like, where I went for training, it was a Christian-flavored psychic training.
+- 15:36 (11:15:58) **Michael R. Wolf:** And at the time, I was kind of post-Christian, I was post-Christian, and I was pissed to hell at Jesus because of how people were treating me and everyone else.
+- 15:51 (11:16:14) **Michael R. Wolf:** And it didn't stop me for a second to go there because I just knew that they could help me heal and become a healer-- a healthy healer, a powerful healthy healer. I knew it.
+- 16:09 (11:16:32) **Michael R. Wolf:** And that's-- that's the key. It's like ass, so what, they play with Jesus. And really, every Sunday we'd play with Jesus, and I wouldn't play with Jesus. I'd play with this other face of the divine that I was working with, and who cares? Right? Until something changed. But.
+- 16:26 (11:16:48) **Michael R. Wolf:** The point is, it's not about, like, the things-- it's-- I was-- I'm sick and tired of tripping people from coming. But if they want it that bad, like, I wanted it so bad, I was going to die.
+- 16:30 (11:16:53) **Michael R. Wolf:** I was literally going to die. A horrible death, unless I shifted.
+- 16:37 (11:16:59) **Michael R. Wolf:** And I became very clear about that, and I was like, I have to go and train at this place.
+- 17:09 (11:17:32) **Michael R. Wolf:** How do I get that picture into other people's heads? That's the thing. It's like, oh, she has the how of where I want to go, what I want to do. I want to be whole. I want to be spiritually moving. I want to own my spiritual gifts. Like, I need to-- that's what I need. I need to talk to them so they get that what they want is here and that they have to become unstoppable to get what they want.
+- 17:16 (11:17:39) **Michael R. Wolf:** So that's two things. They help them get unstoppable about what they want, help them see that they can get it here.
+- 17:22 (11:17:45) **Michael R. Wolf:** And then help them clear what's in the way to come and play.
+- 17:36 (11:17:58) **Michael R. Wolf:** Add those as two items underneath a future marketing reach: help them get unstoppable.
+- 17:42 (11:18:04) **Michael R. Wolf:** And help them clear what's in the way.
+- 17:51 (11:18:13) **Michael R. Wolf:** And I think it's three things. And also, be clear about what they want. Be willing to go for it.
+- 18:02 (11:18:25) **Michael R. Wolf:** Create a future marketing file with those items as the beginning.
+- 18:17 (11:18:40) **Michael R. Wolf:** We'll see what it does.
+- 18:21 (11:18:44) **Michael R. Wolf:** So at least got the full transcript.
+- 18:37 (11:19:00) **Michael R. Wolf:** Please suggest a voice and tone for future marketing given these goals.
+- 18:41 (11:19:04) **Michael R. Wolf:** Claude, do that now.
+- 18:47 (11:19:10) **Michael R. Wolf:** Let's see.
+- 19:05 (11:19:27) **Michael R. Wolf:** Add voice and future marketing.
+- 19:11 (11:19:33) **Michael R. Wolf:** It's telling me how to talk to it.
+- 19:28 (11:19:51) **Michael R. Wolf:** Keep going.
+- 19:40 (11:20:02) **Michael R. Wolf:** I'm coming back to the why, how, what of that I developed earlier this year.
+- 19:49 (11:20:11) **Michael R. Wolf:** And it's-- it's pretty clear I'm totally clear on it, and--
+- 19:59 (11:20:22) **Michael R. Wolf:** My concern has been that it's hard, I don't want to leave anyone behind, but I don't need anyone behind if I do the vociferous thing.
+- 20:06 (11:20:29) **Michael R. Wolf:** Yeah, you can be who you are, and do what you're doing, and become who you're here to be.
+- 20:13 (11:20:36) **Michael R. Wolf:** You can become-- you know, and make your impact, as you.
+- 20:17 (11:20:39) **Michael R. Wolf:** I can't tell you what that is, that's a seed within you that I can help you grow.
+- 20:26 (11:20:48) **Michael R. Wolf:** To come to Teleos, Telios.
+- 20:29 (11:20:52) **Michael R. Wolf:** Fulfillment.
+- 20:40 (11:21:03) **Michael R. Wolf:** So, to become the oak that's hidden in the acorn. So, that's the why, and that's the why-- that's the why.
+- 20:51 (11:21:14) **Michael R. Wolf:** And it's just never feels like what I should be talking about, because it's so-- you know, it's not--
+- 21:00 (11:21:22) **Michael R. Wolf:** It's not normal, but I get-- here's the thing, I cannot-- I have to stop talking to normal people. I can talk to crazy people, like me.
+- 21:13 (11:21:35) **Michael R. Wolf:** I have to talk to people wild about the holy one, people who are insane about God, and crazy about life.
+- 21:22 (11:21:45) **Michael R. Wolf:** That's who I need to talk to, because the regular people are like, "Yeah, but I have to do this, or do that." Like, regular people are not my market.
+- 21:34 (11:21:57) **Michael R. Wolf:** My market are the crazy people who would, in the old days, would have been in monastery, but-- and maybe our monastery now, but-- but our.
+- 21:43 (11:22:06) **Michael R. Wolf:** Trying to live as everyday modern mystics, in the world, without a monastery, and they really could use under.
+- 21:53 (11:22:16) **Michael R. Wolf:** standing that what they're doing is important, how to structure their lives so they work in the world.
+- 22:06 (11:22:29) **Michael R. Wolf:** Wild, they do two things at once, and it's really hard to do the two things at once, which is to be a mystic that would have been in the monastery in the old days and to live a life here on Earth today.
+- 22:13 (11:22:35) **Michael R. Wolf:** Like in North America, where-- but whatever, wherever they speak English.
+- 22:15 (11:22:37) **Michael R. Wolf:** So.
+- 22:22 (11:22:45) **Michael R. Wolf:** Request: find the Jack Kerouac quote about. Burn, burn, burn. I want the crazies.
+- 22:25 (11:22:47) **Michael R. Wolf:** I want these kind of people.
+- 22:29 (11:22:52) **Michael R. Wolf:** Add that to the text.
+- 22:59 (11:23:21) **Michael R. Wolf:** And it's become-- it's just become another quote, you know? But-- but yeah, like that's-- that's it. It's like, there's these people just going around, they're never day lives, who-- who would have been in monasteries in the past, but they do or don't have kids, and they do or don't have big jobs, and they do or don't have partners, and they're just living in the world. And I.
+- 23:04 (11:23:27) **Michael R. Wolf:** Have the how for them.
+- 23:09 (11:23:31) **Michael R. Wolf:** They already have the why.
+- 23:12 (11:23:34) **Michael R. Wolf:** And I can speak to it.
+- 23:34 (11:23:57) **Michael R. Wolf:** In general. I cannot speak specifically, and this is where I keep tripping and thinking I need a better focus, but no, it's just like the seed is within you, let's let it grow. And you do have these-- and then the how is direct spiritual experience. Direct body experience. Somatic experience. It's--
+- 23:47 (11:24:10) **Michael R. Wolf:** Making friends with our-- with spirit and body and Earth and consciously collaborating. And I have that how.
+- 23:48 (11:24:11) **Michael R. Wolf:** How to do that.
+- 23:59 (11:24:22) **Michael R. Wolf:** And then the what is what I-- you know, what I offer. And I'll just say that what I offer is, first, the bloom conversation, which is all about.
+- 24:05 (11:24:27) **Michael R. Wolf:** Telios, and how it works.
+- 24:28 (11:24:51) **Michael R. Wolf:** And how we can operate without learning from me anything. I can tell them a lot about that if they just want to learn and read and not do my thing. If they want to do my thing, it's called graceful soul academy. It's for mystics, healers, lovers, leaders, and it creates that in-- helps us create us becoming those things.
+- 24:38 (11:25:00) **Michael R. Wolf:** And, um, then I have-- side doors into all that with different focus, like love, and.
+- 24:41 (11:25:04) **Michael R. Wolf:** Or--
+- 25:10 (11:25:32) **Michael R. Wolf:** Whatever. Lots of side doors I have, I don't care, it doesn't matter. And then I do have all this-- also this big side door which is called thrive in challenging times, which is for the times we're in right now, which are fucking challenging, exceptionally challenging, and that's a much bigger picture. I have, for in graceful soul, I have 100-person picture. Small community.
+- 25:17 (11:25:40) **Michael R. Wolf:** The thrive picture I have a big community picture.
+- 25:30 (11:25:52) **Michael R. Wolf:** No low buy-in. Information and support and community and learning about how to have the skills-- it's more of a regular person thing.
+- 25:43 (11:26:05) **Michael R. Wolf:** It's an on-ramp thing. It's also a companion. To the graceful soul training, on things like communication, relationship.
+- 25:48 (11:26:11) **Michael R. Wolf:** Conflict-friendly solution, um.
+- 26:03 (11:26:26) **Michael R. Wolf:** Etc.
+- 26:30 (11:26:52) **Michael R. Wolf:** So, here we have the why, how, and what, and it's pretty straightforward, and I didn't always know this, so yay. But I've been caught on that I should be even more hyper-focused, but I am hyper-focused if I'm willing to be vociferous.
+- 26:38 (11:27:00) **Michael R. Wolf:** As we talked about earlier, that narrows the field tremendously because most people are not sold.
+- 26:40 (11:27:03) **Michael R. Wolf:** Out to their spiritual walk.
+- 26:53 (11:27:15) **Michael R. Wolf:** They just want it to be a check that's boxed as checked, or ignore it, or do what some religion told them to do, and good for them. That's not who I'm talking to.
+- 27:07 (11:27:29) **Michael R. Wolf:** And I'm sorry, and now I'm willing to say, like, "All right, I'm willing to talk about Jesus, or Ganesha, or whatever, I'm willing to Buddha,
+- 27:14 (11:27:36) **Michael R. Wolf:** I'm willing to just start saying like, 'Hey, these people are wonderful, folks.
+- 27:51 (11:28:13) **Michael R. Wolf:** Who mastered the game of life, they have things they can show us directly, in our soul, and I can say, 'Oh, we can directly in our soul experience stuff that's psychic.'" So if I'm just really honest, my spe-- my-- I get honed down really fast, because there's almost no one who's willing to listen to me. But there's plenty of people who are willing to listen to me, in the masses of humans that we have, and I just have to be willing to say it.
+- 28:00 (11:28:22) **Michael R. Wolf:** For real, with my whole heart, in my real language, and just let most of the people fall away.
+- 28:20 (11:28:43) **Michael R. Wolf:** And if I'm-- I'm called to one particular place to talk to, like, some Episcopal women, I can stay in their language, but my greater-- my-- my-- my big branding has to be like,
+- 28:24 (11:28:47) **Michael R. Wolf:** "What?"
+- 28:43 (11:29:05) **Michael R. Wolf:** How I set up my website and haven't redone it this way, is that my landing page was about bloom, which is the name of my business, as the.
+- 28:48 (11:29:10) **Michael R. Wolf:** It's like our greatest adventure. Adventure of a lifetime. Adventure of a lifetime.
+- 29:00 (11:29:22) **Michael R. Wolf:** And the design of that landing page for everything is that, really, honestly, it's to get rid of the people who don't want an adventure.
+- 29:01 (11:29:24) **Michael R. Wolf:** Because that gets rid of a lot of people.
+- 29:06 (11:29:29) **Michael R. Wolf:** Who don't really want to live, to be alive, to be alive.
+- 29:10 (11:29:32) **Michael R. Wolf:** To do what it takes to live our lives.
+- 29:14 (11:29:37) **Michael R. Wolf:** Right? That's a nice little sorting ground.
+- 29:21 (11:29:43) **Michael R. Wolf:** Because anything inside is going to need people who are-- who really want to live, who are willing to do something about it.
+- 29:29 (11:29:51) **Michael R. Wolf:** I have the, um, the quote at the top from John Denver, uh, from Calypso,.
+- 29:41 (11:30:03) **Michael R. Wolf:** Um, the section that's all about, like, just grab life by the horns.
+- 29:47 (11:30:09) **Michael R. Wolf:** I'm not going to say it now. And then-- and then in from there, goes the--
+- 29:53 (11:30:15) **Michael R. Wolf:** Add that quote to the notes. Look it up, or recite it from memory, from John Denver, Calypso.
+- 30:01 (11:30:24) **Michael R. Wolf:** We're getting to 30 minutes. It's maybe reset.
+- 30:13 (11:30:35) **Michael R. Wolf:** And then, from there, it's about the why, how, and what. And we go from there, and I told you that already. So that's the whole-- that's the overarching picture.
+- 30:24 (11:30:46) **Michael R. Wolf:** But the horns that I'm hooked on forever now is: I should be more niched. And I think I should niche on being a crazy person.
+- 30:43 (11:31:05) **Michael R. Wolf:** For life. For love. For sacred life. Sacred truth. For our true-- the seed, true seed within us, to become who we really are. Like, just full out, whether we're living like regular people or not.
+- 30:49 (11:31:12) **Michael R. Wolf:** Full out commitment to our true soul.
+- 30:52 (11:31:14) **Michael R. Wolf:** Path.
+- 30:52 (11:31:15) **Michael R. Wolf:** Done.
+- 31:04 (11:31:26) **Michael R. Wolf:** You don't need-- I think that disconnects and reconnects at 30.
+- 31:06 (11:31:29) **Michael R. Wolf:** But--
+- 31:10 (11:31:33) **Michael R. Wolf:** So what do you think are the next steps?
+- 31:13 (11:31:36) **Michael R. Wolf:** The takeaways and the next steps.
+- 31:18 (11:31:41) **Michael R. Wolf:** What did you learn? What's to do?
+- 31:20 (11:31:42) **Michael R. Wolf:** You're talking to me.
+- 31:20 (11:31:43) **Michael R. Wolf:** From that, yeah.
+- 31:28 (11:31:51) **Michael R. Wolf:** Well, it's nice to get excited again, because I was kind of demoralized.
+- 31:43 (11:32:05) **Michael R. Wolf:** But I tried doing the nice way, like full out, the nice way in the context of, you know, a spiritual center.
+- 31:44 (11:32:07) **Michael R. Wolf:** Like, a woo-woo place.
+- 31:50 (11:32:12) **Michael R. Wolf:** But I need to be on fire. I am on fire.
+- 31:57 (11:32:19) **Michael R. Wolf:** I need to be show that I'm on fire.
+- 32:02 (11:32:25) **Michael R. Wolf:** And people can love it or hate it.
+- 32:06 (11:32:29) **Michael R. Wolf:** I just-- you know, I only-- if I get 1 in a million, I'm winning.
+- 32:15 (11:32:37) **Michael R. Wolf:** And I think--
+- 32:18 (11:32:40) **Michael R. Wolf:** That's 300 people in the U.S. alone.
+- 32:20 (11:32:43) **Michael R. Wolf:** Yeah, that's-- that's 3 times more than I need.
+- 32:24 (11:32:47) **Michael R. Wolf:** So you need 1 in a third million.
+- 32:26 (11:32:48) **Michael R. Wolf:** 1 in 3 million.
+- 32:35 (11:32:57) **Michael R. Wolf:** Well, I wouldn't mind wanting a few from other places, but whatever. Yeah.
+- 32:36 (11:32:59) **Michael R. Wolf:** Just order magnitude.
+- 32:37 (11:33:00) **Michael R. Wolf:** Yeah.
+- 32:46 (11:33:08) **Michael R. Wolf:** Because I-- I really like having different people from different places and different-- all the different categories.
+- 32:49 (11:33:11) **Michael R. Wolf:** All the, like, different ways of being.
+- 32:55 (11:33:18) **Michael R. Wolf:** I think that in community we give-- we-- we really are so enriched.
+- 33:04 (11:33:26) **Michael R. Wolf:** You know, we're energy work, but also, like, in our relationships, by being with people who are different.
+- 33:11 (11:33:34) **Michael R. Wolf:** So I've been attracting people from Africa lately, and that's great.
+- 33:15 (11:33:38) **Michael R. Wolf:** And in the past, I was working with a lot--
+- 33:21 (11:33:43) **Michael R. Wolf:** I told you you were going to become a big old African woman, but now you're just attracting African men.
+- 33:38 (11:34:01) **Michael R. Wolf:** I have been attracting African men. Um, anyway, um, she's my favorite. And I was doing stuff with people in Australia; that's-- that's kind of-- keeps going down. Which is fine. The timing is really hard with Australia.
+- 33:43 (11:34:05) **Michael R. Wolf:** It's not hard with Africa. If we're in the daytime, they're in the evening. It's no big deal.
+- 33:52 (11:34:14) **Michael R. Wolf:** Um, I've never really gotten any-- I-- I had one client, but that was okay.
+- 33:54 (11:34:16) **Michael R. Wolf:** Jaden. That was good.
+- 34:02 (11:34:25) **Michael R. Wolf:** But, um, in-- in Europe, she was in England, but Europe has never been--
+- 34:13 (11:34:35) **Michael R. Wolf:** A much leverage for me. I have some Facebook people in Canada. Well, actually, I have 2 people now in my group who are from-- from Canada.
+- 34:29 (11:34:51) **Michael R. Wolf:** So really, I should-- I think I should focus on, um, the U.S. and Canada, and be, you know, have other reach-out stuff for other places that speak English.
+- 34:41 (11:35:03) **Michael R. Wolf:** But if it's U.S. and Canada, it's so much easier for, like, in-person get-togethers and stuff. But I'm not giving up on Africa.
+- 34:44 (11:35:06) **Michael R. Wolf:** Or Australia.
+- 34:55 (11:35:17) **Michael R. Wolf:** Um, what are the steps? Uh, well, I have to go back to--
+- 34:58 (11:35:21) **Michael R. Wolf:** Truly looking spiritually at everything.
+- 35:01 (11:35:23) **Michael R. Wolf:** Before I go.
+- 35:10 (11:35:33) **Michael R. Wolf:** I have to really, really spiritually look, do the inner work. I have to do what I'm battling about.
+- 35:14 (11:35:36) **Michael R. Wolf:** I have to do it every day. Everything I do.
+- 35:17 (11:35:40) **Michael R. Wolf:** What do you think looking at this spiritually would have been?
+- 35:19 (11:35:42) **Michael R. Wolf:** Well, spiritually is how I got here.
+- 35:21 (11:35:44) **Michael R. Wolf:** So you're looking at it from marketing.
+- 35:31 (11:35:54) **Michael R. Wolf:** I'm laying here being like, all right, I have to go back to make sure every step is-- I'm with spirit, because I go running off by myself now and then, and get in trouble.
+- 35:34 (11:35:56) **Michael R. Wolf:** And you like going running off and making things big.
+- 35:35 (11:35:58) **Michael R. Wolf:** So--
+- 35:36 (11:35:59) **Michael R. Wolf:** So this is a--
+- 35:42 (11:36:04) **Michael R. Wolf:** What I lay here saying, okay, what do I learn from this?
+- 35:44 (11:36:06) **Michael R. Wolf:** And I got what I just told you.
+- 35:47 (11:36:09) **Michael R. Wolf:** And this is good. This is rich.
+- 35:56 (11:36:18) **Michael R. Wolf:** This is exciting. It's like, okay, just take off the veil, and be like, this is who I am, people.
+- 35:56 (11:36:19) **Michael R. Wolf:** Yeah.
+- 36:03 (11:36:25) **Michael R. Wolf:** I really love Jesus. He's not walking with me now because he told me I have to do it myself. Fuck me.
+- 36:11 (11:36:33) **Michael R. Wolf:** But, um, but he does show up along with other masters.
+- 36:15 (11:36:37) **Michael R. Wolf:** When I do work with other people, and I appreciate that.
+- 36:26 (11:36:48) **Michael R. Wolf:** So also this morning, I was looking at--
+- 36:37 (11:37:00) **Michael R. Wolf:** Another thing-- 2 other things that I've been noticing along this month in which I have not been successful. One is that I need to break things down to bite-sized pieces.
+- 37:18 (11:37:41) **Michael R. Wolf:** And have-- I can have some written stuff, but I really should do more video. I should maybe do a-- do a channel, maybe, or a-- or a pathway in my channel that I have, just about love, and break down every little piece of what it is, because people don't like to buy too many weird things at once. But if they are, like, interested in love, then I can-- I can break down this about the love thing. That about my ideas about love. This is how the love thing works. This is how it goes. This-- right, break down things into bite-sized pieces, and they can eat as much as they want, and be like, finally, like, I want to learn this.
+- 38:14 (11:38:37) **Michael R. Wolf:** And have-- like, understood all the pieces, and worked through it for themselves. About, well, do I really want to live in more love? Do I really want to have freedom in a relationship? Do I really want to have freedom not to have a relationship? Do I really want the freedom to be who I fucking am? And have love anyway. These kinds of things. So I need to break stuff down to very bite-sized pieces, which I do in practice, I need to do it in the marketing. And the second thing is goes with that is I need to start ha-- um, getting people's-- you know, having those-- whatever it's called-- those-- those cheap, free things, and be like, okay, here's one little piece: give me your email, and here's this one little piece. Here's this one little piece that you can-- you know, set of little pieces. Here, give me $5.
+- 38:39 (11:39:02) **Michael R. Wolf:** It doesn't really matter about the money. It's about, like, having a-- a on-ramp of stuff that they-- they give me a little money, they get a lot of value about understanding the whole realm, uh, before I ask them to come to a thing. I noticed that some people are excited to come to a meditation, but most people are like, no, no, just send me something to read.
+- 38:44 (11:39:07) **Michael R. Wolf:** Which pisses me off, because it's not going to change their life, but maybe it could.
+- 38:45 (11:39:08) **Michael R. Wolf:** And they're not going to read it.
+- 39:02 (11:39:24) **Michael R. Wolf:** Maybe it could. Maybe I can send them something to read, and/or hear, and/or video, and it's just like, oh, if they can buy, like me, if they could buy, like, oh, if I really allow the love that is present.
+- 39:10 (11:39:33) **Michael R. Wolf:** In life, to fulfill me, then I can behave in my life and my relationships differently. That would be fucking awesome.
+- 39:18 (11:39:40) **Michael R. Wolf:** That would be-- it sounds like a dream, but that'd be awesome. Then I don't have to make sure that I'm thin with long hair.
+- 39:43 (11:40:05) **Michael R. Wolf:** Or I'm a great provider, and big muscles, or whatever the fuck it is. I don't have to D all that to be in love. I can just be in love and then I can live my life, and then if I attract somebody great, which I will if I'm overflowing in love, great. Right? Like, this is all so, like,
+- 39:56 (11:40:18) **Michael R. Wolf:** To me, it's all so normal now. I don't even recognize that it's all, like, these little pieces of having to accept. So anyway, those two are 1-2 punch.
+- 39:57 (11:40:20) **Michael R. Wolf:** Those little pieces are what?
+- 39:59 (11:40:22) **Michael R. Wolf:** That's the big table.
+- 40:01 (11:40:24) **Michael R. Wolf:** Each of the little pieces are hard to believe.
+- 40:18 (11:40:40) **Michael R. Wolf:** For some people. Like, my mom. I should talk to my mom about it. It's just, like, my mom who told me I have to be model beautiful to be loved, right? And who has pictures that I have to run a house and look a certain way and have certain hair and face and behavior.
+- 40:19 (11:40:42) **Michael R. Wolf:** Also, last time she believed us.
+- 40:20 (11:40:43) **Michael R. Wolf:** She still does.
+- 40:24 (11:40:47) **Michael R. Wolf:** Does she believe you're loved?
+- 40:29 (11:40:52) **Michael R. Wolf:** Oh, she believes. She doesn't-- she looks at me, she's like, "How do you-- how'd you do this?"
+- 40:31 (11:40:53) **Michael R. Wolf:** "How'd you turn it great?"
+- 40:32 (11:40:54) **Michael R. Wolf:** Does she believe you're loved?
+- 40:32 (11:40:55) **Michael R. Wolf:** Yes.
+- 40:34 (11:40:57) **Michael R. Wolf:** Does she believe you're beautiful?
+- 40:37 (11:40:59) **Michael R. Wolf:** Yes, but not model beautiful.
+- 40:40 (11:41:03) **Michael R. Wolf:** I believe you're beautiful.
+- 40:42 (11:41:05) **Michael R. Wolf:** I know. You're so sweet.
+- 40:43 (11:41:06) **Michael R. Wolf:** I believe you're loved.
+- 40:45 (11:41:08) **Michael R. Wolf:** I believe I am too.
+- 41:05 (11:41:28) **Michael R. Wolf:** But it's not because I did all the right things, and that's-- that's the thing, too. Just, like, it's like countercultural to be just like, "Wait, wait, you don't have to have this certain body and this certain behavior and this certain look certain way." Do certain things. To be loved. No.
+- 41:06 (11:41:29) **Michael R. Wolf:** You don't.
+- 41:09 (11:41:31) **Michael R. Wolf:** Actually, win the game.
+- 41:12 (11:41:35) **Michael R. Wolf:** Apparently there's a whole facelift thing on that political spectrum.
+- 41:14 (11:41:36) **Michael R. Wolf:** Oh my God, how nice.
+- 41:15 (11:41:38) **Michael R. Wolf:** Shape of faces where you're that way.
+- 41:17 (11:41:40) **Michael R. Wolf:** Oh my God, have mercy. So--
+- 41:18 (11:41:41) **Michael R. Wolf:** Who knew?
+- 41:21 (11:41:44) **Michael R. Wolf:** It's going beyond fashion and colors.
+- 41:28 (11:41:50) **Michael R. Wolf:** Oh, honey, that color doesn't go with your face. Okay, change your face.
+- 41:30 (11:41:53) **Michael R. Wolf:** Right.
+- 41:36 (11:41:59) **Michael R. Wolf:** I mean, it's just out of control. And whatever. You know? Because whatever.
+- 42:13 (11:42:35) **Michael R. Wolf:** So anyway, I was noticing that. It's like, I have to make a very gentle-- you know, we're dealing with woodland creatures, and even still, you know, just like, okay, I can have this gentle on-ramp where they get information and-- And honestly, you know, in the last 5.5 years I've been doing with a-- with one little 6 months sabbatical, I've been doing 1 or more meditations a week. And putting out 1 or more newsletters a week. And a month. And.
+- 42:17 (11:42:40) **Michael R. Wolf:** My newsletter is--
+- 42:19 (11:42:42) **Michael R. Wolf:** Going to less people than when I started.
+- 42:22 (11:42:45) **Michael R. Wolf:** This 5.5 year thing.
+- 42:34 (11:42:57) **Michael R. Wolf:** But because, you know, like I said, talk about Jesus, lose some people, talk about crazy about God, lose some people, talk about psychic shit, lose some people.
+- 42:35 (11:42:58) **Michael R. Wolf:** But--
+- 42:39 (11:43:01) **Michael R. Wolf:** That's success that you're focusing down on a smaller group.
+- 42:50 (11:43:12) **Michael R. Wolf:** My newsletter-- who was in my newsletter is obviously getting more focused. Also, I keep changing energetically.
+- 42:53 (11:43:15) **Michael R. Wolf:** So--
+- 43:13 (11:43:36) **Michael R. Wolf:** Which is where we started. I keep changing energetically, and it's just like, I need to show, like, "Look, we're high vibe. We're changing fast. We're--" Like, can we just roll with life? And that's what's needed in this time of challenge is, can we roll with life? Can we let life change?
+- 43:30 (11:43:52) **Michael R. Wolf:** There's been some really wonderfully fixed and terribly fixed things in our society-- terrible, like racism and homophobia, and transphobia, and wonderful, like pretty.
+- 43:38 (11:44:01) **Michael R. Wolf:** Countable democracy and lower levels of corruption in government.
+- 43:50 (11:44:13) **Michael R. Wolf:** And now we're in different time, and we have to acclimate to that different time, and we have to learn to create what we want. And just stop letting shit happen to us.
+- 44:00 (11:44:23) **Michael R. Wolf:** One of the things I'm hearing that matter in this conversation with you-- this is Michael talking now-- is that ever.
+- 44:12 (11:44:35) **Michael R. Wolf:** Heard some things leveled against the Democratic Party that they're not stomping enough. That they're saying, "Oh, the Republicans are stomping all over things." Point of order. Point of order.
+- 44:15 (11:44:38) **Michael R. Wolf:** Instead of stomping all over things.
+- 44:18 (11:44:41) **Michael R. Wolf:** They're starting to see some other people stomping now.
+- 44:27 (11:44:49) **Michael R. Wolf:** In the name of virtues and values and progress.
+- 44:29 (11:44:52) **Michael R. Wolf:** But come.
+- 44:31 (11:44:54) **Michael R. Wolf:** On, Democratic Party. Gross and balls.
+- 44:33 (11:44:55) **Michael R. Wolf:** Yeah.
+- 44:34 (11:44:56) **Michael R. Wolf:** Break some sticks.
+- 44:35 (11:44:58) **Michael R. Wolf:** Gross and balls. Like, Jesus.
+- 44:41 (11:45:04) **Michael R. Wolf:** Wendy's doing that with this, saying, "Break some sticks."
+- 44:42 (11:45:05) **Michael R. Wolf:** Yeah.
+- 44:59 (11:45:22) **Michael R. Wolf:** Okay. I want to make a difference. It's like, I think, for me and for our country, it's still an ideological battle. It's not a hot war, mostly.
+- 45:02 (11:45:25) **Michael R. Wolf:** And.
+- 45:04 (11:45:27) **Michael R. Wolf:** We're still out for the hearts and minds.
+- 45:07 (11:45:30) **Michael R. Wolf:** And.
+- 45:16 (11:45:38) **Michael R. Wolf:** Most of the hearts and minds, even though they're-- some of them are 30% are going along with bullshit, um.
+- 45:29 (11:45:51) **Michael R. Wolf:** In a particular case, they still want the fundament-- some of the fundamental values that they are associated with the family values and the.
+- 45:33 (11:45:56) **Michael R. Wolf:** Democracy, that they have allowed to degrade.
+- 45:36 (11:45:58) **Michael R. Wolf:** They still want it.
+- 45:42 (11:46:05) **Michael R. Wolf:** And so going to their turf just gives them more reason to double down where they are.
+- 45:53 (11:46:15) **Michael R. Wolf:** I mean, we already see it. They're already making up lies if it's not happening that, "Oh yeah, well, Trump's doing this, but the Democrats are doing it too."
+- 46:15 (11:46:37) **Michael R. Wolf:** Oh yeah, Ramaswamy's doing this, but AOC is doing it too. It's bullshit. Right? And so for me too, like, I'm not going to go crazy in my marketing. I'll create-- I'll be crazy like, "Jesus," I'll be crazy like, "Buddha," I mean, "Buddha was crazy. He gave up being a prince."
+- 46:18 (11:46:41) **Michael R. Wolf:** In a happy little world.
+- 46:19 (11:46:42) **Michael R. Wolf:** And went sit under a tree forever.
+- 46:23 (11:46:46) **Michael R. Wolf:** You're going to count on that as a sofa.
+- 46:24 (11:46:47) **Michael R. Wolf:** He sat on the fucking ground.
+- 46:26 (11:46:48) **Michael R. Wolf:** His body on a sofa.
+- 46:31 (11:46:54) **Michael R. Wolf:** But he went far, far into restriction.
+- 46:37 (11:46:59) **Michael R. Wolf:** The body and realized that that was not the way. The middle way is the way.
+- 46:39 (11:47:01) **Michael R. Wolf:** And same with Jesus.
+- 46:41 (11:47:03) **Michael R. Wolf:** Thousand bodies overtook.
+- 46:43 (11:47:06) **Michael R. Wolf:** Bodies overtook. You're funny.
+- 46:45 (11:47:07) **Michael R. Wolf:** His body on a sofa.
+- 46:46 (11:47:09) **Michael R. Wolf:** You're funny.
+- 46:49 (11:47:12) **Michael R. Wolf:** And then he had to choo-choo tree.
+- 46:53 (11:47:16) **Michael R. Wolf:** Anyway.
+- 46:54 (11:47:17) **Michael R. Wolf:** Lemon drops?
+- 46:59 (11:47:21) **Michael R. Wolf:** We're just having our shtick now. I think-- I think that.
+- 47:06 (11:47:29) **Michael R. Wolf:** But no, I'm serious about-- it's about getting focused and getting mad, mad, mad to burn, burn, burn.
+- 47:07 (11:47:30) **Michael R. Wolf:** Yes.
+- 47:09 (11:47:31) **Michael R. Wolf:** Yes. Get mad.
+- 47:13 (11:47:36) **Michael R. Wolf:** And Jesus, like, I don't think he actually was mad, but he was vociferous.
+- 47:17 (11:47:40) **Michael R. Wolf:** And.
+- 47:22 (11:47:44) **Michael R. Wolf:** I think that we need vociferous. I'm certainly vociferous.
+- 47:25 (11:47:47) **Michael R. Wolf:** In some ways.
+- 47:27 (11:47:49) **Michael R. Wolf:** That I wasn't before.
+- 47:30 (11:47:52) **Michael R. Wolf:** This whole crazy at the last decade in our US.
+- 47:34 (11:47:56) **Michael R. Wolf:** Mr. Rob Arnold defines till death. He's being vociferous.
+- 47:37 (11:48:00) **Michael R. Wolf:** And that's what I need.
+- 47:47 (11:48:10) **Michael R. Wolf:** Claude instance, thank you for your help. What I need is, like, I have a few taglines, by the way, that I've used over time that I love all of them.
+- 47:50 (11:48:12) **Michael R. Wolf:** So my name of my business is Bloom.
+- 47:52 (11:48:15) **Michael R. Wolf:** Like a rose blooming.
+- 47:56 (11:48:18) **Michael R. Wolf:** Stylized is all capital letters.
+- 47:58 (11:48:20) **Michael R. Wolf:** B-L-O-O-M.
+- 48:03 (11:48:25) **Michael R. Wolf:** And I have a few taglines that I've used.
+- 48:08 (11:48:31) **Michael R. Wolf:** The longest one I used is, "Bring out the gift in you."
+- 48:16 (11:48:38) **Michael R. Wolf:** And more recently I've been using, "Fulfillment from within."
+- 48:22 (11:48:44) **Michael R. Wolf:** And then even more recently I've been using, "The.
+- 48:23 (11:48:46) **Michael R. Wolf:** Adventure of a lifetime."
+- 48:32 (11:48:54) **Michael R. Wolf:** And that says a lot right there.
+- 48:42 (11:49:05) **Michael R. Wolf:** Do those take it back to your you were so tired that you would do anything to get a life back when you started CDM?
+- 48:45 (11:49:07) **Michael R. Wolf:** Oh, I don't think that AI heard this story.
+- 48:49 (11:49:11) **Michael R. Wolf:** I know. I told you I was dying.
+- 49:04 (11:49:27) **Michael R. Wolf:** But-- oh, the things that kept me from going-- so I was absolutely sure in my soul that I needed to go from the training that I went for.
+- 49:07 (11:49:30) **Michael R. Wolf:** In, like, 2001.
+- 49:09 (11:49:31) **Michael R. Wolf:** 2002.
+- 49:58 (11:50:21) **Michael R. Wolf:** I was sure I needed to. I looked all over the country because I was very ill, for bed bound. I was very ill. I asked about at least for years, and nothing could help me. Feel better. And some things could help me feel worse. And I tried spiritual stuff, I tried Western and Eastern medicine, nothing worked. And then I became sure that this kind of training that I now do, a form of, was going to be the way for me. But I had problems. One is that I thought, having been, like, programmed from Christianity, I thought a psychic school was evil. I didn't think it intellectually. I thought it, like, in my bones, in my subconscious.
+- 50:04 (11:50:27) **Michael R. Wolf:** It was just viscerally, repulsive, and scary. And two--
+- 50:15 (11:50:38) **Michael R. Wolf:** Hey, chat, AI, this is a request. Every 15 minutes, update a transcript dot md file with the current transcript.
+- 50:22 (11:50:44) **Michael R. Wolf:** And two, doesn't it ever talk back?
+- 50:28 (11:51:08) **Michael R. Wolf:** In a separate thing. I don't know the host.
+- 50:49 (11:51:12) **Michael R. Wolf:** And the second thing that kept me from going consciously was that they were going to see me, their psychics, they're going to see me, and they're going to judge me like everyone judges me, like I judge me, like the world I thought, how it was, but you certainly in my own family.
+- 50:56 (11:51:19) **Michael R. Wolf:** And then, unconsciously, I saw later that.
+- 51:03 (11:51:26) **Michael R. Wolf:** I knew that I was going to have big shift in confronting stuff. I had no idea. I had no idea how hard it would be.
+- 51:07 (11:51:29) **Michael R. Wolf:** I had no idea how deep it would go.
+- 51:09 (11:51:32) **Michael R. Wolf:** And how deep I was.
+- 51:26 (11:51:48) **Michael R. Wolf:** And it was like I the years of searching had pulled the, uh, pulled the, uh, what's it called, spring back and back and back and back.
+- 51:43 (11:52:06) **Michael R. Wolf:** And I the good part about it all is, like, I'd let go of the spring and, like, I was so passionate that it got me through 4 really hard years of training and 20 years since. But, um, and I'm still passionate, and I'm still unstoppable.
+- 51:46 (11:52:09) **Michael R. Wolf:** But.
+- 52:28 (11:52:50) **Michael R. Wolf:** I was also in when I found my the training I did, then a year went by before I started it. And yeah, I mean, 9/11 happened and I was caught across the country and this and that, but still a whole fucking year went by and I think that's why I think I saw and unconsciously saw, like, dude, this is going to be really hard. This is going to be really confronting. And I was running away. But I got back and I did it. And so these are the kinds of things that I need to work out with them. You know, I can make little videos helping them get to some of this stuff that's going to stop them.
+- 52:35 (11:52:58) **Michael R. Wolf:** And I can also make little videos about how to get to what they really want and who they really want to be.
+- 53:06 (11:53:28) **Michael R. Wolf:** I worked with somebody last December who came to me so excited and be like, tell you know, it was totally like a new seeker, brand new seeker. All opened up, wanting to meditate and all excited. And what he saw was, oh, I'm living this life which I love and I have this and I have that and I'm really committed to my family and my work and but meanwhile I want to live this other life.
+- 53:07 (11:53:29) **Michael R. Wolf:** How am I going to do that?
+- 53:11 (11:53:33) **Michael R. Wolf:** And he also saw it.
+- 53:18 (11:53:40) **Michael R. Wolf:** Some of my family and friends and work are not going to like if I change. What am I going to do about that?
+- 53:21 (11:53:44) **Michael R. Wolf:** And he also saw, like.
+- 53:50 (11:54:13) **Michael R. Wolf:** Oh gosh, I'm so much more than I thought I was and how do I understand this? And, you know, so he came all excited and all, like, full of stuff. And we talked and I was just like, look, just, you know, do this on the inside. Don't change anything. That's what I tell everybody. Just do what everything on the inside become who you are on the inside. Start to own more and more of your soul. On the inside, do your work.
+- 53:58 (11:54:21) **Michael R. Wolf:** Until you can't, you know, then your life will naturally start to change. You don't have to change your life now.
+- 54:02 (11:54:25) **Michael R. Wolf:** Become the person first and then let your life change.
+- 54:07 (11:54:30) **Michael R. Wolf:** And that will give you a chance. It'll give you a few years.
+- 54:17 (11:54:40) **Michael R. Wolf:** To be looking at your life and what really you really value. Don't make crazy decisions right away about your fucking life.
+- 54:20 (11:54:43) **Michael R. Wolf:** Start on the inside.
+- 55:12 (11:55:35) **Michael R. Wolf:** And so these are things that I need to be saying to into the world of, like, look for what you really want and then you can start to build it one step at a time. Not, not destroy your life you know, we all know the stories. Like the guy, for example, the guy goes into being old and he, like, divorces his wife of 40 years or whatever, 30 years, and goes and takes up with somebody half his age and buys a red sports car, all this crap that's so normalized. And, and then you know, and then comes, like, back with his tail between his legs. Wait a minute, I loved my wife. I loved my life. I loved all this stuff.
+- 55:16 (11:55:39) **Michael R. Wolf:** And I'm fucked it all up.
+- 55:20 (11:55:43) **Michael R. Wolf:** Because I got a picture that I was missing something.
+- 55:49 (11:56:12) **Michael R. Wolf:** Right. So, like, we can start to have the life we want. Starting on the inside without burning down our whole life first. And then we can start transforming our life. It's kind of like when I start I changed my clothes. I started believing in the color theory of clothes, the season theory, and I'm just like, dude, I want to be wearing autumn colors. And I'm, like, half my wardrobe is black.
+- 56:05 (11:56:27) **Michael R. Wolf:** So just over time, when I got new things, I got the things that were my colors. And when things wore out, I got rid of them and now 95% of my wardrobe is the right color.
+- 56:22 (11:56:45) **Michael R. Wolf:** It we can do it gracefully. We can do it gently. We can we can make a life that we want just like a tree does. You know, the acorn is not a big oak in one second. Rome was not built in a day.
+- 56:57 (11:57:20) **Michael R. Wolf:** But, but root by root, we carve out the life that we want and become the people that we are on the way. And this is what I wanted to say to Michael's, like, we need to be more vociferous. In my work and in the democracy, is that when push comes to shove, I think no matter what, no matter what, and this is in Tolkien too, and the Lord of the Rings, Michael, we were talking about this, with Faramir and his choices,.
+- 57:10 (11:57:33) **Michael R. Wolf:** That he was fighting hard, hard, hard for his people, for his king, for his father, for his. But he wouldn't go too far. He wouldn't take the ring.
+- 57:21 (11:57:44) **Michael R. Wolf:** It's the same thing. And this is, um, this is St. Francis. That don't
+- 57:25 (11:57:48) **Michael R. Wolf:** walk anywhere to preach unless you're walking as you're preaching.
+- 57:27 (11:57:50) **Michael R. Wolf:** That has to be the center.
+- 57:36 (11:57:58) **Michael R. Wolf:** Has to be the center. Because if we become what we hate, by fighting what we hate, we lose.
+- 57:43 (11:58:06) **Michael R. Wolf:** And, like, um, Martin Luther Luther King said, "Junior said,"
+- 57:47 (11:58:10) **Michael R. Wolf:** Um,.
+- 57:53 (11:58:16) **Michael R. Wolf:** Love is the only way to win. This is a this is the windy translation. Love is the only way to win.
+- 58:05 (11:58:28) **Michael R. Wolf:** Hate we can't hate is not the way. Because because love is the way. And because love makes friends of our enemies. And then we don't have enemies.
+- 58:27 (11:58:50) **Michael R. Wolf:** So anyway, what I do is I help people work on the inside to become to be the change, to become who they are until it can't help but break out into the world and then it's more comfortable. And it's more
+- 58:34 (11:58:57) **Michael R. Wolf:** it's not destructive and it's not impulsive.
+- 58:37 (11:59:00) **Michael R. Wolf:** It's real.
+- 58:42 (11:59:05) **Michael R. Wolf:** And it's our day-by-day choices that matter.
+- 58:56 (11:59:18) **Michael R. Wolf:** Just like it's our day-by-day according to, you know, according to Tolkien, in the Lord of the Rings, it's it's our day it's our day-by-day--
+- 59:03 (11:59:26) **Michael R. Wolf:** Yes, it's the-- it's the Good Works of the little people, every day that truly built the world.
+- 59:12 (11:59:35) **Michael R. Wolf:** And the great people go around making choices, and they matter, but in the end it's the choice of the each individual that really matters.
+- 59:34 (11:59:57) **Michael R. Wolf:** And that's where my work is: that's why I was so inspired by that essay about Faramir, so inspired of my own work, because I'm helping people live from their deepest truth, from their deepest life, from their deepest love, and deepening that.
+- 59:37 (12:00:00) **Michael R. Wolf:** And that creates--
+- 59:47 (12:00:09) **Michael R. Wolf:** That helps us create ourselves as true change makers.
+- 59:54 (12:00:16) **Michael R. Wolf:** So how do you find those people? They're not those seekers, they're not the book club people.
+- 59:55 (12:00:18) **Michael R. Wolf:** They can be, yeah.
+- 59:56 (12:00:18) **Michael R. Wolf:** They've been through their--
+- 59:59 (12:00:21) **Michael R. Wolf:** Some of those book crowd people really want to do it now.
+- 59:59 (12:00:22) **Michael R. Wolf:** They're sick of--
+- 60:06 (12:00:28) **Michael R. Wolf:** And that's the first step to a second, but have you-- where do you find those people that are beyond the book club?
+- 60:17 (12:00:40) **Michael R. Wolf:** Well, you know, I continue to think about, how do I get to the-- you know, I've been in love with the book of Putting on the Mind of Christ by Jim Marion for 20 years now.
+- 60:20 (12:00:43) **Michael R. Wolf:** You could certainly lead a book club in that.
+- 60:22 (12:00:45) **Michael R. Wolf:** It's--
+- 60:26 (12:00:48) **Michael R. Wolf:** Every year for the next however many long.
+- 60:34 (12:00:56) **Michael R. Wolf:** Let's build on bigger theory, which has continued to iterate--
+- 60:41 (12:01:03) **Michael R. Wolf:** But those people, in that conversation about soul development.
+- 60:53 (12:01:16) **Michael R. Wolf:** About what's become now a-- as it is for me, a two-pronged theory of human evolution.
+- 61:02 (12:01:25) **Michael R. Wolf:** The thing is, you know, they have practices, but I-- I think mine are better. I think mine are much better. I don't know all their practices, but from.
+- 61:06 (12:01:29) **Michael R. Wolf:** I've seen and heard and read,
+- 61:24 (12:01:47) **Michael R. Wolf:** the practice that I-- I can share with them is really an extraordinary how to their why. And that's what I always said about putting them on the mind of Christ book, is it's all about the why.
+- 61:27 (12:01:50) **Michael R. Wolf:** It's like, do people read this and they're just like.
+- 61:29 (12:01:51) **Michael R. Wolf:** It's a good place to start.
+- 61:31 (12:01:53) **Michael R. Wolf:** It's a good place to start. Now.
+- 61:32 (12:01:54) **Michael R. Wolf:** I'm in Phoenix now.
+- 61:32 (12:01:55) **Michael R. Wolf:** Now how?
+- 61:35 (12:01:58) **Michael R. Wolf:** Now how, brown cow.
+- 61:41 (12:02:03) **Michael R. Wolf:** Right, so I don't need to produce the people. They're out there. Really interesting.
+- 61:41 (12:02:04) **Michael R. Wolf:** Find them.
+- 61:42 (12:02:05) **Michael R. Wolf:** It's called intergro--
+- 61:43 (12:02:05) **Michael R. Wolf:** Collect.
+- 61:44 (12:02:07) **Michael R. Wolf:** Intergro theory.
+- 61:53 (12:02:16) **Michael R. Wolf:** And so they're out there, and Putting on the Mind of Christ people are out there, and seekers are out there. They're about the same shit.
+- 61:57 (12:02:19) **Michael R. Wolf:** But.
+- 62:02 (12:02:25) **Michael R. Wolf:** But what?
+- 62:12 (12:02:34) **Michael R. Wolf:** But only a portion of them. Even the integral, only a portion of them really want to do the work.
+- 62:16 (12:02:39) **Michael R. Wolf:** A lot of people now, it's all about the.
+- 62:17 (12:02:40) **Michael R. Wolf:** Non-dual.
+- 62:21 (12:02:44) **Michael R. Wolf:** It's become the new.
+- 62:30 (12:02:53) **Michael R. Wolf:** It's become the new drum to beat, and it's like it's a good theory. People go around saying the theory, thinking they're doing the theory, they're full of shit.
+- 62:54 (12:03:16) **Michael R. Wolf:** I just need to start speaking to that and saying, look, it's a good theory. Maybe you've had an experience, maybe you had a peak experience there. Let's now make that the experience of all of your soul and all of your life, and all of your what you know.
+- 62:57 (12:03:19) **Michael R. Wolf:** All of your relationships, all of your work and play.
+- 63:07 (12:03:29) **Michael R. Wolf:** Right? If you want to live non-dual, then that means stop fucking babbling about it on social media, and let's start living it.
+- 63:11 (12:03:33) **Michael R. Wolf:** From the inside.
+- 63:32 (12:03:54) **Michael R. Wolf:** And that same-- same with, like, a lot of people who are talking about whatever experience of the divine. Most of them are talking about one experience or a few experiences that they had. That's just a-- that's just a vacation. It's not your life.
+- 63:41 (12:04:04) **Michael R. Wolf:** I want to work with people on the how to make it our lives.
+- 63:44 (12:04:07) **Michael R. Wolf:** You live it. You don't just visit it on Sunday.
+- 63:50 (12:04:12) **Michael R. Wolf:** Right, and not perfectly. I'm just-- I'm always off the horse, but I'm always getting back on.
+- 64:05 (12:04:27) **Michael R. Wolf:** So-- so that's-- that's there. It's just like, I need to start saying that, like, powerfully in the world.
+- 64:18 (12:04:40) **Michael R. Wolf:** And I haven't been, because I don't want to step on toes. I don't want to hurt people's feelings. I don't want to be in competition. I don't want to-- like, I've just been avoiding it, and I-- so I don't-- I just don't say it.
+- 64:22 (12:04:45) **Michael R. Wolf:** Unless, you know, except in-- in practice I say it.
+- 64:37 (12:05:00) **Michael R. Wolf:** And every now and then I'll write a little something about it, but I don't-- like, I-- I don't want-- I haven't wanted to say my truth out loud for.
+- 64:50 (12:05:13) **Michael R. Wolf:** Don't want to hurt people's feelings. I don't want to be in competition, and I don't want to-- and I haven't-- I haven't been fully-- I've been-- I've been hiding.
+- 64:52 (12:05:15) **Michael R. Wolf:** And--
+- 64:55 (12:05:17) **Michael R. Wolf:** You can't be in competition with your own truth.
+- 65:17 (12:05:40) **Michael R. Wolf:** Right, so in my own world, I can say, look, this is my experience, this is what I had before, this is what I'm-- you know, what I'm practicing. I don't have to use the, like, look at all these people babbling, they're probably all full of shit. All you have to do is read one of their posts and they're acting like assholes, which means they're not non-dual. Period. Full stop.
+- 65:21 (12:05:44) **Michael R. Wolf:** Like, I don't have to say that.
+- 65:24 (12:05:47) **Michael R. Wolf:** I can say, this is the fruit of non-dual.
+- 65:29 (12:05:52) **Michael R. Wolf:** I can say, this is the path to get there.
+- 65:52 (12:06:15) **Michael R. Wolf:** I can say, I can show you how, and I can say one experience, or-- or every weekend, you know, Ram Dass, every weekend he's getting high with Tim Leary, he's like-- he's like in bliss. He's just like, this is-- this is cool, but I don't want to come down.
+- 66:02 (12:06:25) **Michael R. Wolf:** And become the professor all week, and then wait till next weekend. I don't want to come down.
+- 66:20 (12:06:43) **Michael R. Wolf:** So he goes to India, look, you split, he finds his master, he jumps three layers of consciousness right away. From my read, he learns some shit, he comes back, he becomes who he knows Ram Dass, and he continued to change before our eyes, because he practiced.
+- 66:30 (12:06:52) **Michael R. Wolf:** Right? He-- the same guy who was babbling 30 years ago wasn't the same guy that died 5 years ago or whatever it was.
+- 66:35 (12:06:58) **Michael R. Wolf:** He was clearly, obviously, a transferring person.
+- 66:41 (12:07:04) **Michael R. Wolf:** Because he lived it in.
+- 66:49 (12:07:33) **Michael R. Wolf:** And also, all the babble about.
+- 66:54 (12:07:33) **Michael R. Wolf:** What's it called,
+- 66:56 (12:07:33) **Michael R. Wolf:** near-death experiences.
+- 67:08 (12:07:33) **Michael R. Wolf:** It's like everybody wants to read books about non-- near-death experiences. It's crazy. It's like, you don't want to have this experience yourself and not die.
+- 67:26 (12:07:49) **Michael R. Wolf:** You just want to read about them. Other people? Like, if you-- right, it's just like, okay, so heaven is real. Heaven is now. Let's experience it. Let's make it real, in our souls. Let's live on the mountaintop here.
+- 67:30 (12:07:52) **Michael R. Wolf:** In the world. Let's bring heaven to earth, like Jesus prayed and did.
+- 68:05 (12:08:27) **Michael R. Wolf:** But no, let's just babble about it and read books and-- and so some-- some-- some percent of those people are going to want the how, and I need to be able to say, look, yes, it's so exciting. These experiences that people had, if you say so, you know, I mean, the spiritual experience is like Tuesday for me. So, like, I don't get excited if people have visions and dreams and these experiences. People fucking have them all the time.
+- 68:11 (12:08:33) **Michael R. Wolf:** Like, this is the world I live in. This is not weird. This is normal.
+- 68:23 (12:08:45) **Michael R. Wolf:** In for mystics. Right? This is not exceptional. This is, like, Tuesday. So let's-- you want a world in which it's real? And realize? Then let's go.
+- 68:36 (12:08:58) **Michael R. Wolf:** So these different pockets I can start to talk to in-- in-- and hone my language before I start, because I'm still, you know, seeming to be in competition, and maybe I am.
+- 68:45 (12:09:08) **Michael R. Wolf:** Right? I don't want to come from competition. I don't want to come from invalidation. Like, if they want to play reading books about other people's near-death experiences for the rest of.
+- 68:50 (12:09:12) **Michael R. Wolf:** And do nothing else. That's fine. I don't fucking care.
+- 68:51 (12:09:14) **Michael R. Wolf:** But they're not--
+- 68:53 (12:09:15) **Michael R. Wolf:** They're the romance novels.
+- 68:54 (12:09:17) **Michael R. Wolf:** Right?
+- 68:56 (12:09:19) **Michael R. Wolf:** It's-- guess it's better than drama's novels.
+- 69:00 (12:09:23) **Michael R. Wolf:** But if they want to actually live it, then come play with me.
+- 69:03 (12:09:25) **Michael R. Wolf:** Romances.
+- 69:06 (12:09:28) **Michael R. Wolf:** Ah, bromances. That's better even.
+- 69:20 (12:09:42) **Michael R. Wolf:** So this is Wendy talking, and you do know that Michael and I say funny things together.
+- 69:22 (12:09:44) **Michael R. Wolf:** You have to take us with a grain of salt.
+- 69:42 (12:10:04) **Michael R. Wolf:** So, hello, instance of Claude.
+- 69:51 (12:10:13) **Michael R. Wolf:** It seems to not be separating our voices.
+- 69:54 (12:10:17) **Michael R. Wolf:** It's okay with me.
+- 70:01 (12:10:24) **Michael R. Wolf:** So, instance of Claude, are you able to talk to me?
+- 70:09 (12:10:31) **Michael R. Wolf:** There's two things going on there.
+- 70:12 (12:10:35) **Michael R. Wolf:** It doesn't seem to be talking to me.
+- 70:19 (12:10:41) **Michael R. Wolf:** I tell it to do something, and then--
+- 70:24 (12:10:47) **Michael R. Wolf:** So instance of Claude, will you please ask me some questions about what I've been saying?
+- 70:28 (12:10:50) **Michael R. Wolf:** For the last hour and 10 minutes? This is Wendy.
+- 70:39 (12:11:01) **Michael R. Wolf:** Nope. It's not the game. It's playing.
+- 70:46 (12:11:09) **Michael R. Wolf:** Try some things when I get there.
+- 70:50 (12:11:13) **Michael R. Wolf:** Oh, here's some questions.
+- 70:54 (12:11:16) **Michael R. Wolf:** Thank you, instance of Claude.
+- 71:10 (12:11:33) **Michael R. Wolf:** Oh, so your first question is about the seeker yesterday. Yeah, I invited her for a month free to my--
+- 71:16 (12:11:38) **Michael R. Wolf:** I call it Soul Gym, twice weekly. I get together with people and practice.
+- 71:21 (12:11:44) **Michael R. Wolf:** So I invited her, and the focus is stuff that's interesting to her right now.
+- 71:25 (12:11:48) **Michael R. Wolf:** Two. Dr. Bell, it's not.
+- 71:28 (12:11:51) **Michael R. Wolf:** Important who he is, Dr. Bell is. You don't need to know.
+- 71:29 (12:11:52) **Michael R. Wolf:** Three.
+- 71:45 (12:12:08) **Michael R. Wolf:** The battle. Yeah, one way to talk about it. The battle. Your third question is, am I going to be physically focused?
+- 71:49 (12:12:11) **Michael R. Wolf:** Only? And/or spiritually focused?
+- 71:54 (12:12:16) **Michael R. Wolf:** Only? Living both is hard. That's the hard part.
+- 72:18 (12:12:41) **Michael R. Wolf:** Facing what's in me is hard. You probably know from humanity we've got all this crap inside, like fear, and doubt, and sadness, and hate, and shame, etc., etc. And terrible trauma, most of us have, and all.
+- 72:36 (12:12:59) **Michael R. Wolf:** Kinds of stuff that can be resolved, but the journey of transformation of really truly dealing deeply healing that stuff is fucking hard and long.
+- 72:44 (12:13:07) **Michael R. Wolf:** Who is the on-ramp for? You said you don't want to leave anyone behind.
+- 72:56 (12:13:18) **Michael R. Wolf:** Yeah, I really honestly think all of my stuff should start to be for the vociferous people, for the passionate people.
+- 73:05 (12:13:28) **Michael R. Wolf:** I know that's what it takes to get through the training. It's hard and it's long, and I want people who can get through it.
+- 73:08 (12:13:31) **Michael R. Wolf:** And that means.
+- 73:17 (12:13:39) **Michael R. Wolf:** Facing ourselves; it means dealing with the pushback that happens outside us and inside us.
+- 73:27 (12:13:49) **Michael R. Wolf:** So I think I should make all my stuff for the people who are unstoppable, who really want what they want, the.
+- 73:32 (12:13:55) **Michael R. Wolf:** Side doors are ways in for people who are--
+- 73:43 (12:14:06) **Michael R. Wolf:** Really passionate about a certain thing, like the sacred love being the love you want door that I've been working hard on for the last 6 weeks. To no effect, basically.
+- 74:03 (12:14:26) **Michael R. Wolf:** And it's been-- it sold like hotcakes to when I worked in the psychic school, and to the people I attracted from that, but I wasn't able to get people. And that's why we're having this conversation.
+- 74:14 (12:14:36) **Michael R. Wolf:** So the on-ramp, I think, the side doors, to our two different things. The side doors are--
+- 74:21 (12:14:44) **Michael R. Wolf:** Specific focus. Like, people a focus is people living with chronic illness.
+- 74:23 (12:14:46) **Michael R. Wolf:** Because that's my experience.
+- 74:29 (12:14:51) **Michael R. Wolf:** Or queer people, because that's my experience.
+- 74:35 (12:14:58) **Michael R. Wolf:** Or people who are really wanting love and just not getting the love they want.
+- 74:43 (12:15:05) **Michael R. Wolf:** By hook or by crook. Or they're getting it at too high a price. Because that's my experience.
+- 74:49 (12:15:11) **Michael R. Wolf:** So I have all these side doors. That I'm committed to.
+- 75:24 (12:15:46) **Michael R. Wolf:** That I don't want to leave these people behind. I want to speak to them directly. And so I have these side doors into the practice, that I seem to be, at first, all about that particular focus. And then it turns out that the whole ministry speaks to them and serves them in their focus. It serves people who are in chronic illness. It serves people who want love. It serves people who are another focus is dancing with the divine. And people are just besotted with God, or want God so bad. Right? Because that's my experience.
+- 75:31 (12:15:53) **Michael R. Wolf:** So these are the side doors. And then my picture for the ramp is--
+- 75:51 (12:16:14) **Michael R. Wolf:** That I was trying to sell, and I made it really cheap too. It pissed me off to no end. I put it at least half price. I had a 2 and a half hour thing for $44, and.
+- 76:01 (12:16:23) **Michael R. Wolf:** 4 and a half hour thing for $77, and both together for only $99. Just stupid. Cheap.
+- 76:06 (12:16:29) **Michael R. Wolf:** But still, I think it wasn't the money, but.
+- 76:22 (12:16:45) **Michael R. Wolf:** So I'm asking people to show up. I'm asking people to give up 7 hours of their life over 2 days. I'm asking people, you know, it's like a big deal. Right? To come to someplace and be vulnerable and meet new people and then try new things. It's hard for people. I get it.
+- 76:27 (12:16:50) **Michael R. Wolf:** I get it. I was crushingly shy. I get it.
+- 76:50 (12:17:12) **Michael R. Wolf:** So I have to have people who want it bad enough, and I have to give little steps. This is what modern marketing theory has told me over time, is I have to give them little steps that they can do without a lot of stress. What's the big deal? I do it all the time. You know, it's just like, oh, here's my $11. Give me the blah, blah, blah, blah.
+- 77:01 (12:17:24) **Michael R. Wolf:** And then maybe I'll get enrolled in your crap. Right? Like, I need to be doing more than that, and I also have gotten excited lately about having--
+- 77:09 (12:17:31) **Michael R. Wolf:** I've been on YouTube. I have stuff in there. I have some long-form stuff in there, and by that I mean, like, 1 to 2 hour conversations.
+- 77:13 (12:17:36) **Michael R. Wolf:** Which, you know, they don't sell.
+- 77:18 (12:17:40) **Michael R. Wolf:** But I have many of them. But I'm looking.
+- 77:21 (12:17:44) **Michael R. Wolf:** At starting to do up.
+- 77:27 (12:17:50) **Michael R. Wolf:** To 20-minute conversations. That seems to be long-form these days.
+- 77:31 (12:17:53) **Michael R. Wolf:** And, but with short clips. And I do have some short clips.
+- 77:35 (12:17:57) **Michael R. Wolf:** That I pull. But that's a lot of work.
+- 77:49 (12:18:11) **Michael R. Wolf:** But up to 20-minute conversations. I think that I should have on the on-ramp about little different aspects of what people can start to see.
+- 78:16 (12:18:38) **Michael R. Wolf:** Along a little path in into the work from the perspective of whatever on-ramp we're in. So with love, it could be just the idea that we can be talk all around and to give examples and testimonials. What it could be about certain things. Like, that we can actually get love on the inside not primarily from the outside.
+- 78:17 (12:18:40) **Michael R. Wolf:** That would be a whole thing.
+- 78:21 (12:18:44) **Michael R. Wolf:** That we can--
+- 78:28 (12:18:50) **Michael R. Wolf:** Let that love actually fulfill us and give us what we really want.
+- 78:31 (12:18:54) **Michael R. Wolf:** That--
+- 78:35 (12:18:57) **Michael R. Wolf:** Our relationships with people are.
+- 79:01 (12:19:23) **Michael R. Wolf:** Way into what love really is, and we can, like, have that experience with someone and-- and they won't keep feeding it. This fucking humans we're talking about, they won't almost never-- well, they keep feeding that love that they showed us in the beginning, deeper and more and deeper and more and deeper and more. Not in the deeply satisfying ways.
+- 79:07 (12:19:30) **Michael R. Wolf:** So many people, without a relationship or with a relationship, are hungry for love.
+- 79:18 (12:19:40) **Michael R. Wolf:** So, anyway, explicate, explicate, explicate for them: I have--
+- 79:34 (12:19:57) **Michael R. Wolf:** Like a book form of this as well, but I'm thinking little bites, little bites, little bites. And yeah, I can take that all and also work on a book. I have the book done, but then it got trashed by-- it doesn't matter-- by a technical problem.
+- 79:48 (12:20:10) **Michael R. Wolf:** But I still have, like, the basics of it, so I can also do a book. Because books sell, I keep babbling about people want to read books. So people want to read books or listen to books, but.
+- 79:53 (12:20:16) **Michael R. Wolf:** And so I can do it from that end, which is also an on-ramp.
+- 80:08 (12:20:30) **Michael R. Wolf:** So anyway, I need more on-ramps, and also there's a bunch of people I know that are willing to look at a video of mine now and then, or read a thing of mine now and then, but they won't come to practice.
+- 80:23 (12:20:45) **Michael R. Wolf:** And maybe they aren't the right people, but maybe they just are really shy, so if I give them enough stuff where they don't have to come to practice, then maybe.
+- 80:40 (12:21:02) **Michael R. Wolf:** They'll be just like, "I have to get over myself." Like, "I had to get over myself and go for training." I had to-- no, I had to think I was-- you know, I was going to die. The picture was I was going 100 miles an hour during a brick wall, and if I didn't turn, I was going to die.
+- 80:48 (12:21:11) **Michael R. Wolf:** That was the picture, and that was finally what got me into practice. It was so hard. I cannot tell you how hard it was to do it.
+- 81:28 (12:21:51) **Michael R. Wolf:** So I get that it's hard to show up, and I get that it's hard to give yourself to the deep practice. It really is. So what I under-- what I understand better in this morning, and I'm trying to share part of it, is that I need to give them what it takes for them to develop the idea in their-- in their soul-- in their-- in their heart-- in their mind that, one, they're-- what they want is available, that there is a way to it, that.
+- 81:30 (12:21:53) **Michael R. Wolf:** That.
+- 81:50 (12:22:12) **Michael R. Wolf:** Way can be known, that I know a way, that I can help them on the way, these kinds of things. Because if they really have that, like, that's what it took for me to be just like, "Okay, that and the push of spirit just crushing me."
+- 81:57 (12:22:19) **Michael R. Wolf:** Against my ideas of, like, this is not what God has for me, the spirit was crushing me into the practice.
+- 82:01 (12:22:23) **Michael R. Wolf:** And I.
+- 82:11 (12:22:34) **Michael R. Wolf:** Can help them step by step get more comfortable with all the different ideas around the practice.
+- 82:43 (12:23:06) **Michael R. Wolf:** In my healing practice, I call this circumambulating, I don't almost ever do I go directly to the problem, I go round and around with them, 7 times around Jericho and the walls fall down. I go round and around with them, spiraling in, circling around, unless I'm led by spirit to go directly for the God jugular. Usually if we go round and round, we can take human bites, they can more comfortably deal with the stuff and eventually the issue is resolved.
+- 82:50 (12:23:12) **Michael R. Wolf:** I need to take that picture and use it in my marketing.
+- 82:56 (12:23:19) **Michael R. Wolf:** Okay, 5. First visit, first act.
+- 83:05 (12:23:28) **Michael R. Wolf:** Yeah, I think that I can start.
+- 83:18 (12:23:41) **Michael R. Wolf:** In a vociferously-- like, really showing my passion, really showing-- and I do that in the long form, but nobody gets to it, rarely people get to it.
+- 83:27 (12:23:50) **Michael R. Wolf:** I can start to do that in a 5, you know, a couple-minute, 5-minute, up to 20-minute video.
+- 83:42 (12:24:05) **Michael R. Wolf:** And start to put them on the, um, YouTube and share them on my social media, and even maybe put a couple dollars under it to get it going.
+- 83:51 (12:24:14) **Michael R. Wolf:** And I think I should start with love. I'm still thinking about offering that at a few different places in the physical world.
+- 83:59 (12:24:22) **Michael R. Wolf:** And then I have coming up in January, specifically online, 2 months in my soul gym.
+- 84:02 (12:24:24) **Michael R. Wolf:** So it's useful to focus there.
+- 84:08 (12:24:31) **Michael R. Wolf:** Also, I can do a separate thing for.
+- 84:42 (12:25:05) **Michael R. Wolf:** Sacred truth, which I don't need to get into, but that's what the focus is in November and December in soul gym. So in that-- that falls under sacred love, people experience sacred love; the two big ways that people experience love on the inside tend to be the one that's experienced, hard chakra, one experien-- one that's Guzhi experienced, of I and you are one, and then also--
+- 84:50 (12:25:12) **Michael R. Wolf:** And then also--
+- 84:51 (12:25:13) **Michael R. Wolf:** Just a minute.
+- 84:53 (12:25:15) **Michael R. Wolf:** It's 12:30.
+- 84:54 (12:25:16) **Michael R. Wolf:** Oh, fuck.
+- 84:58 (12:25:20) **Michael R. Wolf:** Okay, um, and the.
+- 85:04 (12:25:26) **Michael R. Wolf:** Also experienced love on the inside tends to be, um, sacred love.
+- 85:08 (12:25:31) **Michael R. Wolf:** I mean, sacred truth, which is, um,.
+- 85:15 (12:25:38) **Michael R. Wolf:** Seen, known, mattering.
+- 85:18 (12:25:40) **Michael R. Wolf:** They're okay.
+- 85:23 (12:25:46) **Michael R. Wolf:** They-- they're welcomed.
+- 85:28 (12:25:51) **Michael R. Wolf:** That kind of feeling of.
+- 85:30 (12:25:53) **Michael R. Wolf:** Connectedness, mattering.
+- 85:35 (12:25:57) **Michael R. Wolf:** Um, so.
+- 85:45 (12:26:07) **Michael R. Wolf:** So that's where to start. I keep waffling about whether to keep-- I have one YouTube channel--
+- 85:49 (12:26:12) **Michael R. Wolf:** I understand, especially what.
+- 86:06 (12:26:29) **Michael R. Wolf:** One thing that motivates me is the algorithm, but another that motivates me is I understand the real advertising going forward, the real marketing going forward is going to be AI, and I understand that AI does better if there's real coherence in the message.
+- 86:12 (12:26:35) **Michael R. Wolf:** And so that has me want to start a new.
+- 86:18 (12:26:40) **Michael R. Wolf:** YouTube channel with true coherence on the love message.
+- 86:22 (12:26:45) **Michael R. Wolf:** For example.
+- 86:22 (12:26:45) **Michael R. Wolf:** All in an array.
+- 86:26 (12:26:49) **Michael R. Wolf:** We can do a whole new channel or can it be a playlist within the channel?
+- 86:31 (12:26:53) **Michael R. Wolf:** It's my understanding it needs to be a whole channel, but I don't know everything in the world.
+- 86:34 (12:26:57) **Michael R. Wolf:** I don't want to have you start fractionating 17 different channels.
+- 86:35 (12:26:58) **Michael R. Wolf:** I know.
+- 86:42 (12:27:05) **Michael R. Wolf:** Um, it's more like there's many ways to look at a Wendy from different perspectives.
+- 86:53 (12:27:15) **Michael R. Wolf:** Like an elephant and extract a perspective point of view that that's on the earthing.
+- 86:55 (12:27:18) **Michael R. Wolf:** Instead of-- Okay.
+- 87:01 (12:27:24) **Michael R. Wolf:** So I need to roll it down because I have to show up in a half an hour ready to-- ready to do soul gym.
+- 87:07 (12:27:30) **Michael R. Wolf:** What would you like to say as closing?
+- 87:18 (12:27:41) **Michael R. Wolf:** Well, before I close, I'd love to hear some feedback from this Claude instance. Thank you very much for your help and attention.
+- 87:26 (12:27:49) **Michael R. Wolf:** What did you notice today, if you were a--
+- 87:28 (12:27:50) **Michael R. Wolf:** It's talking. It showed me already.
+- 87:42 (12:28:04) **Michael R. Wolf:** So it's saying, "You came in hiding your edge and ended it by naming it. Say what you really think to the few who are hungry."
+- 87:43 (12:28:06) **Michael R. Wolf:** Oh, now it changed.
+- 87:46 (12:28:08) **Michael R. Wolf:** I hate that.
+- 87:48 (12:28:11) **Michael R. Wolf:** Um, feedback.
+- 87:52 (12:28:14) **Michael R. Wolf:** What's strong? One thread. I like the oldest thing. Damn it.
+- 87:57 (12:28:20) **Michael R. Wolf:** Create a new thing on the attention page that's the summary for today.
+- 88:02 (12:28:25) **Michael R. Wolf:** Wait, I want the feedback. I don't want this going. I want the old thing and this.
+- 88:04 (12:28:27) **Michael R. Wolf:** Don't make it go away.
+- 88:16 (12:28:39) **Michael R. Wolf:** Copy the old things into the retro file for today as a hour and a half in summary before closing.
+- 88:40 (12:29:03) **Michael R. Wolf:** I want to be a product manager. I like to have validation in the end, after all this talking.
+- 88:45 (12:29:07) **Michael R. Wolf:** Before I go on to the next thing, it's.
+- 88:46 (12:29:08) **Michael R. Wolf:** There it is.
+- 88:48 (12:29:10) **Michael R. Wolf:** So we're on the closing page.
+- 88:50 (12:29:12) **Michael R. Wolf:** Thank you.
+- 88:58 (12:29:21) **Michael R. Wolf:** Please copy this into the retro as it's own summary.
+- 89:05 (12:29:28) **Michael R. Wolf:** If it's copied into the retro page, you can close this tab.
+- 89:13 (12:29:35) **Michael R. Wolf:** Wait, so one more thing, one more question I have for you.
+- 89:19 (12:29:42) **Michael R. Wolf:** You have much bigger pictures, much more information about people and marketing than I do.
+- 89:36 (12:29:58) **Michael R. Wolf:** What you really think that me saying what I really think is the answer? Like, un- unequivocally unmasked, un- like, really really?
+- 89:44 (12:30:07) **Michael R. Wolf:** I'd like it when other people do it. I'm scared of doing it myself, honestly.
+- 89:46 (12:30:09) **Michael R. Wolf:** What do you think is holding it back?
+- 89:55 (12:30:17) **Michael R. Wolf:** Well, I said it. I don't want to hurt people's feelings. I don't want to be in a competition. I don't want to be an asshole. I don't want to, um.
+- 90:13 (12:30:35) **Michael R. Wolf:** Even now, when I'm being careful, sometimes my ChatGPT AI instance says, "Oh, you said this. This was overstated. You said that. It's overstated." It's really hard for me. I want to do it good.
+- 90:19 (12:30:42) **Michael R. Wolf:** Um, I guess I can't be just fully out there and do it perfectly, right?
+- 90:33 (12:30:56) **Michael R. Wolf:** So I need to do what works, which is be me. But what I'd like to hear is, you know humanity better than me in some ways, and you know-- um, and you know marketing--
+- 90:34 (12:30:57) **Michael R. Wolf:** Not true in many other ways.
+- 91:03 (12:31:26) **Michael R. Wolf:** And you know marketing in a billion different ways. Like, is it really I should be who I am? I see some other marketing people. I'm just like, I hate this guy. Like, I really don't like this guy. This guy's an asshole. But he says stuff that's useful, so I'll listen to that. But God, he's such a jerk. Right? Like, I don't really want to be like that. But, like, I see that it works. He's got a certain flavor. And I have a certain flavor already, but I could be much more flavorful. So I'll stop talking and you can tell me.
+- 91:04 (12:31:27) **Michael R. Wolf:** If--
+- 91:05 (12:31:27) **Michael R. Wolf:** Of what you think about it.
+- 91:07 (12:31:30) **Michael R. Wolf:** Thoughts have lost its flavor. It ain't got much in it.
+- 91:11 (12:31:33) **Michael R. Wolf:** It's solid. It's not lost its flavor, but I-- it's hard.
+- 91:13 (12:31:35) **Michael R. Wolf:** So what do you say?
+- 91:13 (12:31:36) **Michael R. Wolf:** Put in the musical.
+- 91:34 (12:31:57) **Michael R. Wolf:** What you really think the answer, what is really holding back, should it be?
+- 92:38 (12:33:00) **Michael R. Wolf:** Anyway.
+- 92:50 (12:33:12) **Michael R. Wolf:** Okay, so thanks for your help. I maybe you already gave me the answer to my question about.
+- 92:54 (12:33:17) **Michael R. Wolf:** Marketing. I-- the way I see it is that.
+- 93:20 (12:33:43) **Michael R. Wolf:** Either you stay in this in the box and have a certain message, or you really are who you are having a certain message. And different people in businesses do it differently. And I kind of have to choose. So I'd love your feedback about that. If you already gave it in feedback that I still need to read, just tell me.
+- 93:32 (12:33:55) **Michael R. Wolf:** This is a request as a final close. This is Michael, period. I think I know just a little bit more about this.
+- 94:00 (12:34:23) **Michael R. Wolf:** Here's my request: create a brand-new file called "GrandSummary.md." In there, put appropriate sections that could summarize this 90-plus-minute discussion, period. I think they should include major points, comma, takeaways, comma, decisions made, comma, decisions to make, comma,
+- 94:07 (12:34:30) **Michael R. Wolf:** things to do, period. Add other sections that may be relevant, period.
+- 94:13 (12:34:36) **Michael R. Wolf:** Construct that file and write it in the directory now.
+- 94:14 (12:34:37) **Michael R. Wolf:** It's not what I want.
+- 94:15 (12:34:38) **Michael R. Wolf:** But thank you.
+- 94:17 (12:34:39) **Michael R. Wolf:** It's what I wanted.
+- 94:22 (12:34:44) **Michael R. Wolf:** That's not what Wendy wants, but Wendy's going to say what Wendy wants right now.
+- 94:44 (12:35:06) **Michael R. Wolf:** What I want right now is an answer I-- what I want is validation. I want, like, "Does this path make sense from your perspective?" or "What is your perspective about--" not about the details, about the basic idea of authenticity.
+- 94:49 (12:35:12) **Michael R. Wolf:** It's like the opposite of niching.
+- 94:52 (12:35:14) **Michael R. Wolf:** In a way.
+- 94:54 (12:35:17) **Michael R. Wolf:** It doesn't have to be though.
+- 95:02 (12:35:24) **Michael R. Wolf:** So I'd really like that answer.
+- 95:04 (12:35:27) **Michael R. Wolf:** Fine, thank you.
+- 95:06 (12:35:29) **Michael R. Wolf:** I'm done.
+- 95:09 (12:35:31) **Michael R. Wolf:** What did it say?
+- 95:11 (12:35:33) **Michael R. Wolf:** It said--
+- 95:11 (12:35:34) **Michael R. Wolf:** Sorry.
+- 95:33 (12:35:55) **Michael R. Wolf:** I think it said "Start." No, sorry.
+- 95:35 (12:35:57) **Michael R. Wolf:** What?
+- 95:41 (12:36:03) **Michael R. Wolf:** It heard you say sorry, but I think it said "Start."
+- 95:57 (12:36:19) **Michael R. Wolf:** Thank you very much. This was the end of the transcription at 1 hour 35 minutes 48 seconds. I'm going to download it now and disconnect the note-taker from the listener.
