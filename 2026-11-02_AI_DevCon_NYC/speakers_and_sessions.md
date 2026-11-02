@@ -83,6 +83,24 @@ Source: <https://tessl.io/devcon/speakers> (66 speakers; day and time from each 
 | Sawyer Hood                | tools in action      | If AI can build anything why does every app have a f*&*ing sidebar?                              | Wed 16:15   |
 | -------------------------- | -------------------- | ------------------------------------------------------------------------------------------------ | ----------- |
 
+## Tuesday Streaming
+
+Free Virtual Ticket (Tue Nov 3, main stage only): register at <https://luma.com/aidevcon-nyc2026>. The ticket text promises "the headline keynotes and biggest moments" live from the main stage (room 52A: Keynote and Conference Session tracks). The agenda is at <https://tessl.io/devcon#agenda> (loads in the browser; the same times are on each speaker page). Whether every 52A session is streamed is not stated, and no schedule page lists stream times separately. Times are Eastern.
+
+| Time      | Speaker                  | Track              | Title                                                                              |
+|-----------|--------------------------|--------------------|------------------------------------------------------------------------------------|
+| Tue 09:00 | Simon Maple              | Conference Session | Welcome to AI DevCon                                                               |
+| Tue 09:20 | Guy Podjarny             | Keynote            | Building a software factory you can trust.                                         |
+| Tue 10:05 | Ryan Lopopolo            | Conference Session | Agent Platforms for Inventing Agents                                               |
+| Tue 11:05 | Alan Braun               | Conference Session | Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Teams |
+| Tue 11:45 | Aidan Cunniffe           | Conference Session | Building When Code is Cheap and Your Time is Not                                   |
+| Tue 12:25 | Nicolas Carmont Zaragoza | Conference Session | Building a harness that keeps up with the latest models                            |
+| Tue 13:55 | Landon Cox               | Conference Session | Security in GitHub Agentic Workflows                                               |
+| Tue 14:35 | Chad Fowler              | Conference Session | An Architectural Approach to Regenerative Software                                 |
+| Tue 15:15 | Cornelia Davis           | Conference Session | Your Agent Just Wrote a Tool--and Ran It. You Need More than a Sandbox.            |
+| Tue 16:15 | Bartosz Ocytko           | Conference Session | Scaling Agentic Engineering at Zalando                                             |
+| Tue 17:00 | Steve Yegge              | Keynote            | The Future of AI-Powered Factories                                                 |
+
 ## Speakers by Organization
 
 Total: 66 speakers. Where a speaker lists two organizations, the primary one is used (Landon Cox: GitHub under Microsoft; Jack Wotherspoon: Google DeepMind under Google; Nada Amin: also Harvard; George Fahmy: also Stakpak; Ran Aroussi: also Automaze; Jay Gordon: Azure Cosmos DB).

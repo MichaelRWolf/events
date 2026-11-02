@@ -19,7 +19,8 @@ A three-day conference focused on agentic coding and AI-native development. The 
 
 **Other Pages:**
 
-- Registration: <https://luma.com/aidevcon-nyc2026> (also <https://lu.ma/event/evt-E5Jx9D0IsF3kqY5>)
+- Registration and event page (Luma): <https://luma.com/aidevcon-nyc2026> (also <https://lu.ma/event/evt-E5Jx9D0IsF3kqY5>)
+- My ticket: Free Virtual Ticket, Tue Nov 3 (main stage only), registered as Michael R. Wolf: [ticket.png](ticket.png)
 - Speakers: <https://tessl.io/devcon/speakers> (see `speakers_and_sessions.md`)
 - Call for speakers (closed Oct 1, 2026): <https://sessionize.com/ai-native-devcon-nyc-2026/>
 - Virtual ticket (Nov 3 main stage): <https://tessl.co/z3b>
