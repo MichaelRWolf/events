@@ -13,6 +13,13 @@ I help teams adopt new ways of working, including new technology and new interac
 
 Right now I'm exploring both, at a sustainable pace: I help teams adopt new ways of working, including new technology and new interaction patterns, through training and ensemble practices.
 
+## Strategy
+
+- Prepare 30-second pitch
+- List 5 people to meet
+- List 3 public statements/questions to promote myself in a public Q&A
+- List 3 things to learn
+
 ## TODO
 
 1. Create pitch -- done
