@@ -24,6 +24,8 @@
 
 09:27:15 - fix it
 
+09:27:27 - stage and commit
+
 ## 10:05 - Agent Platforms for Inventing Agents - Ryan Lopopolo
 
 ## 11:05 - Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Teams - Alan Braun
