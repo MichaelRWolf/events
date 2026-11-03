@@ -472,3 +472,105 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 16:51:21 - Look at the zolander research file.
 
 ## 17:00 - The Future of AI-Powered Factories - Steve Yegge
+
+17:02:15 - Introducing Steve Yegge now.  Book signing lat year.  GasTown.  Beads.
+
+17:03:05 - Pets versus cattle.
+
+17:03:05 - ![Speaker in a dark blazer standing at an aiDevCon podium with a laptop, beside a projected slide titled "The Future of AI-Powered Factories" with the subtitle "Pets vs. Cattle all over", captioned "Steve Yegge" and "Creator | Gas Town"](images/photos_20261103-170305.png)
+
+17:06:18 - Pets versus Cattle.  Birth of Kubernetes.   Dru Knox and at Tessl.  Yegge.  Retired.  Turning 60.   $10,000/month on claude code.  22 claude max accounts ($100/each).  Living in the future.  $1.5M/year spend.  12-18 month view into future.  Using Fable today.
+
+17:07:15 - Factory is any time that agents are running agents.
+
+17:07:15 - ![Illustrated slide titled "What a cattle factory looks like" with three bullets: work unit, executor, review, merge; declared, not hand-steered; boring on purpose. The art shows robots moving along a corral past stations labeled SPEC, BUILD, TEST, REVIEW, and MERGE, watched by a cowboy](images/photos_20261103-170715.png)
+
+17:09:39 - Has many friends.  Free-wheeling hippy colony.  Loops.  Yegge did it differently.  Tessl is doing good job.
+
+17:10:16 - "Write an eval" -
+
+17:12:05 - Wheelhouse is a pet.  OpenSourcing it tore it to pieces.  What is mine versus world's.  Blog - Layer of facgory above factory and merge queue (in creative arena).  Creativity is not transplantable.  The harness grew into the game.  Cannot lift it out.
+
+17:12:51 - "Intelligence is grown, not transplanted".
+
+17:14:38 - Now -- My agents talking to your agents.  Not compatable.  Not humans to humans.  Agents to agents.  Have own private chief of staff.  Chief of Staff.  Executive Assistant -- EA.  If inference costs drop, agents will work longer and longer.
+
+17:15:41 - Love emacs interface.  Rex (research it) allows multi-tasking.
+
+17:17:57 - Enterage layer.  Concierge layer.  They legislate themselves to death.  Iterateive.  Collaborative.  "Succession" movie (watch it) never went anywhere alone.  "Enterage" similar.  Agents are all drama.  Agents need time with the leader.
+
+17:18:18 - ![Four-panel cartoon titled "Drama, live: this morning" with a penguin and a bird. A bird is told "Let's move this to Penguin. Quieter seat", then writes "NOTE TO SELF: I am NOT QUIET ENOUGH. How to be MORE QUIET for Steve", then is told "No, no! You're Head of Community! You talk to real players on Discord. Interruptions are EXPECTED. Don't take it too hard!", and ends with a notepad reading "I am EXACTLY QUIET ENOUGH. Interruptions are EXPECTED. I was never bruised." Footer: The Future of AI-Powered Factories - Steve Yegge](images/photos_20261103-171818.png)
+
+17:19:33 - Drama, live: this morning. Let's move this to Penguin. Quieter seat -- your interruptions haven't moved to the daemon yet. Of course! NOTE TO SELF: I am NOT QUIET ENOUGH. How to be MORE QUIET for Steve: 1. No, no! You're Head of Community! You talk to real players on Discord. Interruptions are EXPECTED. Don't take it too hard! I'm not! Not at all! I am NOT QUIET ENOUGH. I am EXACTLY QUIET ENOUGH. Interruptions are EXPECTED. I was never bruised ...less bruised. The Future of AI-Powered Factories - Steve Yegge
+
+17:20:21 - "Lark" - Drama.  I guess I'm not quiet enough.
+
+17:20:37 - ![Four-panel cartoon titled "Pets are delicate: a ruling can invisibly harm the factory." A character asks whether epoch-fenced quorum re-attestation should supersede the ratchet manifest on conflict, and is told it sounds ok. A ruling is announced as "The user has ruled..." and recorded verbatim, then the post-ruling era begins on day 1 with doctrine updates, notifying the fleet, and someone saying "...slow down?". Side notes read "One ruling: don't hand off at 181k", "Weeks later: seats running to 350k", and "Now we're writing a floor and a ceiling"](images/photos_20261103-172037.png)
+
+17:22:12 - Middle school today.  Next year high school.  Can start to really break stuff.
+
+17:22:27 - ![Illustrated slide titled "The downsides of pets" with four bullets: non-transferable, no backup team when it breaks; models build systems they can't understand, prune hard; observability is a constant struggle; breaks quietly for weeks and costs you money. The art shows a clinic waiting room with a person reading a long printout among animal-robot patients, including a wolf-like robot lying down, and a VET door](images/photos_20261103-172227.png)
+
+17:22:57 - Agents will stuff until it becomes "Garbage Mountain".
+
+17:23:09 - TODO - Find Steve Yegge's comic strip.
+
+17:23:58 - Pets don't have atttention to detail.  CPU.  RAM.  Too many emails.  Continual maintenance.
+
+17:24:19 - ![Illustrated slide titled "Where the creativity lives" showing a long outdoor table by a mountain lake, with a central human figure surrounded by animal characters including a lion, mice, an owl, a rabbit, a goose, a fox, a wolf, a turtle, and a bee, all seated and working on notes](images/photos_20261103-172419.png)
+
+17:25:17 - Gastown had "crew" role (enterage).  THey were his peeps.  Main squeeze.  The would send it off to the polecats.  Innovation is an iterative process.  NOT declarative.
+
+17:26:16 - Agents cant creat good pixel art.  Cant' do good maps, lore, storeis.  Can't be creatve.  Good engineers, but not.  Implementation is free.  Taste is critical.
+
+17:26:54 - Drag them off "taste space".  That's the new job.  Building cost goes to $0.  Quickly comes to "Who builds coolest things?"
+
+17:28:31 - Not -- DataDogs, SaaS, Hollywood.   Extractive.  SaaS is exploitative.  Entertainment will dwarf everything else.  Engineers ar still doing software building.  If you want it to stand out, the only way to do that is to NOT use AI.
+
+17:29:26 - Taste is new game.  Do it with the team.  Long term relationships.  Hobby.  Taxes.  Wonderful place.  Messy place.
+
+17:29:53 - Good luck with your enterage.
+
+17:31:23 - TODO - yegge.ai
+
+17:33:13 - Q - Factories build code.  Test code.  AirBnB delivers fast.  Gamification.  Compete with Fivver.  New luxury is human interaction.  What about business side of satisfying investors for AI-native, and what customers want?
+
+17:34:16 - A - Bitter lesson that is claude code.
+
+17:34:24 - Go at human speeds.  FOLLOW UP WITH THIS.
+
+17:34:54 - Ther is no IDE.  No IDE.  Nothing is dominant from pre-cambrian explosion.
+
+17:35:29 - Build something that people will LOVE.  Can't sell something that will sell.
+
+17:35:37 - Q - AI vampire.
+
+17:36:00 - A - Bezos sees 3 day work week.  Maybe 2 day.
+
+17:36:08 - TODO - Get Fast/Slow to Wendy.
+
+17:37:12 - 18 assistants.  Nap pods.  Stopped using AI.  Drained.
+
+17:38:13 - Companies are NOT seeing outcomes.  Paying $10,000/month.  Players are $2,000/month.  Tinkering with spending money.  If CEO is saying "Run faster", "Send them to him".
+
+17:39:23 - Whales ($1,000/month) players are dominating game.  RSI (Recursive Self I...) does not get first players.  For his game.   Taste!!!
+
+17:40:33 - Gastown was wonderful.  Dozen different flavors.  Tech does not matter.  Not walls.  Machines.  Physisics.  How to fulfil the "people" and do people management and leadership.
+
+17:42:11 - Had to grieve his loss of identity this year.  A lot of this is literacy problem.  Attendees are literate.  When you have conversations with non-agents.  Netflix did 0-1 (zero to 4 million tokens) 5-hour course.
+
+17:42:37 - TODO - F9llowup regarding class.
+
+17:42:58 - Q - Having built it.  Huge investment.  How do you commit to anything if it's constantly changing.
+
+17:43:55 - A - All factories are bespoke.   It requires attention.  Passion.
+
+17:44:11 - Q - Wheelhouse.
+
+17:44:54 - A - Smart model creates dumb models.  Then dumber models.  RAM and CPU crunch will last forever.
+
+17:45:30 - Q - How do you control their relationships and communicaiton.
+
+17:46:33 - A - Moving to ward wanting them to communicate.   Patterns re-emerge.  Org structures.  Daily meetings.
+
+17:46:39 - 37 watching now.
