@@ -36,3 +36,10 @@ Role rules bind only the agent that has taken the role. The default Claude insta
 - While in note-taking mode, each of Michael's messages is appended to `session_notes.md` under the current session heading, as one `HH:MM:SS - <text>` line, and is not answered. Every reply in this mode is exactly `✏️ Taking notes...` and nothing else.
 - Stop: when Michael says "stop taking notes", leave note-taking mode and answer normally.
 - If a new conversation starts, the mode is off until "take notes" is said again.
+
+## End Session
+
+- When Michael says "end session", commit all changes in this folder.
+- Commit subject: `End session - <name> - <time>`, where `<name>` is the speaker of the current session heading in `session_notes.md` and `<time>` is the session's start time from that heading, as `HH:MM`.
+- Commit body: bullets for the other relevant details, such as files changed and events covered.
+- Follow the repo commit rules: pre-commit hooks must run, and a hook failure is reported, not bypassed.
