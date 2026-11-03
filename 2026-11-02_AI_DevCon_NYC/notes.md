@@ -67,25 +67,7 @@ Sponsor and partner logos on <https://tessl.io/devcon> carry no links. URLs belo
 
 ### Presenters from Sponsor Organizations
 
-**Tessl** (7 of 66 speakers)
-
-- Simon Maple -- Developer Relations: Welcome to AI DevCon
-- Guy Podjarny -- Founder & CEO: Building a software factory you can trust (Tue keynote)
-- Dru Knox -- Head of Product & Design: Harness Engineering in Practice
-- Hamza Oza -- Lead Designer: Build your own software factory with context (workshop)
-- James Moss -- Member of Technical Staff: same workshop
-- Joe Holdcroft -- Member of Technical Staff: same workshop
-- Patrick Debois -- AI Product Engineer: 1,000 Coding Agents, One Main
-
-**LaunchDarkly** (3)
-
-- Alexis Roberson -- Senior Developer Educator: Managing AI Agents in Production (workshop)
-- Diane Phan -- Developer Evangelist: same workshop
-- Drew Gorton -- same workshop
-
-**Port** (1)
-
-- Baruch Sadogursky -- Head of DevRel: The Software Factory of Factories
+Speakers from sponsor organizations are listed by organization in `speakers_and_sessions.md` (Speakers by Organization).
 
 No speakers were identified from MLH, Blue Bear, Snyk (Guy Podjarny founded Snyk but now leads Tessl), Cockroach Labs, Dash0, codeplain, Autonomy AI, DevIT, Bond AI, The AI Summit, or Tech Impact. Hyperscaler speakers (Microsoft/GitHub, Google, AWS, Anthropic, OpenAI) are not listed as sponsors.
 
@@ -136,11 +118,12 @@ Tessl claims 700+ attendees. That figure is marketing, not a count, and the same
 
 ## Sessions
 
-Full table: `speakers_and_sessions.md`.
+Full table: `speakers_and_sessions.md`. Session log: `session_notes.md`.
 
 ## Key Takeaways
 
+See [takeaways.md](takeaways.md).
+
 ## Follow-up
 
-- [x] Offer volunteer support -- done: emailed Sam (<sam@tessl.io>) 2026-10-29, awaiting reply (`volunteer_request.txt`)
-- [ ] Preparation checklist -- WIP (see `preparation.md`)
+See [follow-up.md](follow-up.md).

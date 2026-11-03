@@ -21,3 +21,8 @@ Message:
 Message:
 
 > Chad, your talk on regenerative software resonated with how I'm framing "source of truth files" in place of "source code files." Keeping intent, architecture, evals, and provenance while treating code as a compiled artifact is sympatico with my thinking. Let's connect.
+
+## Event follow-up
+
+- [x] Offer volunteer support -- done: emailed Sam (<sam@tessl.io>) 2026-10-29, awaiting reply (`volunteer_request.txt`)
+- [ ] Preparation checklist -- WIP (see `preparation.md`)
