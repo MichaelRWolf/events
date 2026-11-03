@@ -64,6 +64,13 @@
 
 09:56:52 - stage, commit, push -- End of keynote. Simon leaves main stage.
 
+Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified against the original sources):
+
+- "The factory is the product." Musk formally tweeted this exact five-word phrase on Elon Musk's Official X Account in January 2021. (Source per screenshot: X post, unverified.)
+- "We realized that the true problem... is building the machine that makes the machine. In other words, it's building the factory. I'm really thinking of the factory like a product." Musk explained this during a June 2016 Tesla press conference about the expansion of Gigafactory 1. (Source per screenshot: 2016 press conference, unverified.)
+
+09:58:21 - [Image #7] -- And do OCR to add Elon quotes to end of Keynote (Guy Po) session. commit and push
+
 ## 10:05 - Agent Platforms for Inventing Agents - Ryan Lopopolo
 
 ## 11:05 - Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Teams - Alan Braun
