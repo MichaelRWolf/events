@@ -14,7 +14,8 @@ There is no build, lint, or test tooling here beyond the repo-level pre-commit c
 
 - Photos go in `Photos.md`, newest first (top-posting). Insert each new entry directly under `# Photos`, above older entries.
 - Each entry gets a heading with the capture time: `## YYYY-MM-DD HH:MM TZ`, using the time the image was pasted.
-- Save each pasted image in this folder as `photos_YYYYMMDD-HHMMSS.png`, matching the timestamp, and link it with a relative path: `![alt text](photos_YYYYMMDD-HHMMSS.png)`.
+- Save each pasted image in `images/` as `photos_YYYYMMDD-HHMMSS.png`, matching the timestamp, and link it with a relative path: `![alt text](images/photos_YYYYMMDD-HHMMSS.png)`.
+- Always add `*.png` files to `images/`. Do not put them in the folder root.
 - Alt text describes what is visible. Do not name a person unless the name is confirmed.
 
 ## session_notes.md

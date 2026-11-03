@@ -36,9 +36,9 @@
 
 09:39:10 - Verifiers - Trust (SKILL.md) but Verify
 
-09:40:11 - If I add images here, timestamp them like a text note. ![Keynote slide titled "What is a loop?" listing Skill, Environment, and Trigger / schedule, beside a speaker at a podium](photos_20261103-094011.png)
+09:40:11 - If I add images here, timestamp them like a text note. ![Keynote slide titled "What is a loop?" listing Skill, Environment, and Trigger / schedule, beside a speaker at a podium](images/photos_20261103-094011.png)
 
-09:41:00 - Self improving loops ![Keynote slide titled "What is a loop?" with Skill, Environment, and Trigger / schedule feeding a Sandbox run, then Output and Logs, with a "Learn & Improve" loop back](photos_20261103-094100.png)
+09:41:00 - Self improving loops ![Keynote slide titled "What is a loop?" with Skill, Environment, and Trigger / schedule feeding a Sandbox run, then Output and Logs, with a "Learn & Improve" loop back](images/photos_20261103-094100.png)
 
 09:43:18 - Sponsors -- [Image #5]
 
@@ -46,19 +46,19 @@
 
 09:44:14 - Factory is sum of skill + loops.
 
-09:45:40 - Factory is 3 things: ![Keynote slide "Building Skills & Loops into Factories" with panels for Reusable Infra & Modules, Factory Operations UX, and Business Outcomes (13m 32s ticket to PR, 330 PRs per week, $13 cost per PR, 2 hours vuln fix time)](photos_20261103-094540.png) Reusable Infra & Modules. Factory Operations UX. Business Outcomes.
+09:45:40 - Factory is 3 things: ![Keynote slide "Building Skills & Loops into Factories" with panels for Reusable Infra & Modules, Factory Operations UX, and Business Outcomes (13m 32s ticket to PR, 330 PRs per week, $13 cost per PR, 2 hours vuln fix time)](images/photos_20261103-094540.png) Reusable Infra & Modules. Factory Operations UX. Business Outcomes.
 
 09:46:46 - "You are not building a factory. You are building a product.". Reminds me of Tesla "Build the X that builds the X". (Look up this quote from Elon Musk.
 
-09:48:49 - Build the factory that builds the product. ![Keynote slide "Committing to your factory" showing four stages: Local skills, Shared skills, Loops, Factory, with the caption "Final transformation: No more interactive development"](photos_20261103-094849.png) Don't interactively fix the product. Fix the factory. <-- Guy. This feelsa lot like how I think.
+09:48:49 - Build the factory that builds the product. ![Keynote slide "Committing to your factory" showing four stages: Local skills, Shared skills, Loops, Factory, with the caption "Final transformation: No more interactive development"](images/photos_20261103-094849.png) Don't interactively fix the product. Fix the factory. <-- Guy. This feelsa lot like how I think.
 
-09:52:19 - Buy vs Build ![Keynote slide "Why buy when you can build it all?" with three points: Shared learning, Curation & taste, Excellence & Efficiency](photos_20261103-095219.png). But "Embrace a partner because it delights you".
+09:52:19 - Buy vs Build ![Keynote slide "Why buy when you can build it all?" with three points: Shared learning, Curation & taste, Excellence & Efficiency](images/photos_20261103-095219.png). But "Embrace a partner because it delights you".
 
 09:54:20 - Fun brag -- What Tessl delivered yesterday. Tickets -> PR. Where requirments? Where tickets? Kicks off loops. Factory floor view is exciting. Metrics build up. Pre-made loops (i.e. fixing vulnerabilities). "Get a little bit of delight".
 
 09:55:22 - [Image #6]
 
-09:55:26 - ![Tessl promo slide "Start with up to $500 in Tessl credits." listing $500 for in-person AI DevCon attendees and $200 for virtual attendees, with a tessl.io/signup QR code](photos_20261103-095526.png) $500/in-person, $200/virtual.
+09:55:26 - ![Tessl promo slide "Start with up to $500 in Tessl credits." listing $500 for in-person AI DevCon attendees and $200 for virtual attendees, with a tessl.io/signup QR code](images/photos_20261103-095526.png) $500/in-person, $200/virtual.
 
 09:55:44 - Summary: Skills -> Loops -> Factories. Lay back and let facgories do loops.
 
@@ -77,33 +77,33 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 10:05:51 - Start Brigita Beckler - Deeper cut on context engineering. It's 10:05. Readjust session_notes headers to get the right speaker and title. Future notes go in the 10:05 session of @session_notes.md
 
-10:06:40 - ![Speaker standing on a dark stage in a plaid shirt, with a projected slide titled "What is 'context'" and a "window: 36% left (171k" counter](photos_20261103-100640.png)
+10:06:40 - ![Speaker standing on a dark stage in a plaid shirt, with a projected slide titled "What is 'context'" and a "window: 36% left (171k" counter](images/photos_20261103-100640.png)
 
-10:07:12 - ![Speaker standing on a dark stage in a plaid shirt, with a projected slide titled "What is 'context'" and a "window: 36% left (171k" counter](photos_20261103-100640.png)
+10:07:12 - ![Speaker standing on a dark stage in a plaid shirt, with a projected slide titled "What is 'context'" and a "window: 36% left (171k" counter](images/photos_20261103-100640.png)
 
 10:07:51 - stage. commit. "Correct the main stage agenda" is good starter message.
 
-10:08:06 - ![Slide titled "Context window" with inputs AGENTS.md, SKILL.md, Wiki, and gh feeding Always use / Never do, Spec workflow, Past decision history, and Repo search; Slack, docs/architecture.md, and Task / intent / specification also feed in](photos_20261103-100806.png)
+10:08:06 - ![Slide titled "Context window" with inputs AGENTS.md, SKILL.md, Wiki, and gh feeding Always use / Never do, Spec workflow, Past decision history, and Repo search; Slack, docs/architecture.md, and Task / intent / specification also feed in](images/photos_20261103-100806.png)
 
-10:08:41 - Different colored ![Slide titled "Context window" in dark and purple tags, with AGENTS.md, SKILL.md, Wiki, and gh feeding Always use / Never do, Spec workflow, Past decision history, and Repo search; Slack, docs/architecture.md, and Task / intent / specification also feed in](photos_20261103-100841.png)
+10:08:41 - Different colored ![Slide titled "Context window" in dark and purple tags, with AGENTS.md, SKILL.md, Wiki, and gh feeding Always use / Never do, Spec workflow, Past decision history, and Repo search; Slack, docs/architecture.md, and Task / intent / specification also feed in](images/photos_20261103-100841.png)
 
-10:09:03 - ![Two comparison cards. Left, purple tags AGENTS.md, SKILL.md, docs/arch.md: "Deliberately authored", "Versioned (and tested)". Right, dark tags Wiki, Slack, gh: "Assembled at task time", "Connects agent to the environment"](photos_20261103-100903.png)
+10:09:03 - ![Two comparison cards. Left, purple tags AGENTS.md, SKILL.md, docs/arch.md: "Deliberately authored", "Versioned (and tested)". Right, dark tags Wiki, Slack, gh: "Assembled at task time", "Connects agent to the environment"](images/photos_20261103-100903.png)
 
 10:10:33 - Purple is deliberate. Black is ephemeral. Both are context. LHS is reusable - conventions, norms. RHS - custom, volitile.
 
 10:10:51 - LHS Codified. RHS Ambient.
 
-10:13:58 - ![Slide titled "The Context delivery life cycle" with a "Codified" tag, showing a cycle of Generate, Distribute, Observe, Evaluate beside a video still titled "Context is the New Code", and four boxes: Generate (how to write skills), Evaluate (skill evals), Distribute (skill registries, plugins, descriptions), Observe (analyse agent traces, learn from errors)](photos_20261103-101358.png)
+10:13:58 - ![Slide titled "The Context delivery life cycle" with a "Codified" tag, showing a cycle of Generate, Distribute, Observe, Evaluate beside a video still titled "Context is the New Code", and four boxes: Generate (how to write skills), Evaluate (skill evals), Distribute (skill registries, plugins, descriptions), Observe (analyse agent traces, learn from errors)](images/photos_20261103-101358.png)
 
 10:14:31 - somebody dew-bwah.
 
-10:15:52 - To evaluate and observe, we need to know what good looks like. Quote ACM article. Forsgren. ![Slide titled "The goal: High quality context" with an ACM Queue research article card, "CAFE(S): Your Agent Is Only As Good As Its Context", beside five tiles: C Clarity, A Actionability, F Fidelity, E Efficiency, and S Security](photos_20261103-101552.png) Clarity. Actionability. Fidelity. Efficiency. Security.
+10:15:52 - To evaluate and observe, we need to know what good looks like. Quote ACM article. Forsgren. ![Slide titled "The goal: High quality context" with an ACM Queue research article card, "CAFE(S): Your Agent Is Only As Good As Its Context", beside five tiles: C Clarity, A Actionability, F Fidelity, E Efficiency, and S Security](images/photos_20261103-101552.png) Clarity. Actionability. Fidelity. Efficiency. Security.
 
 10:17:37 - We're doing this now via MCP servers.
 
 10:18:52 - open the *.app link so I can see the main stage list of speakers and times
 
-10:19:29 - Recently moved to Canada to join "Unblocked" company. ![Schedule app card marked NOW for 10:05 to 10:35, TALK, "Context != Context: One Window, Different Lifecycles" by Birgitta Boeckeler, room 52A](photos_20261103-101929.png)
+10:19:29 - Recently moved to Canada to join "Unblocked" company. ![Schedule app card marked NOW for 10:05 to 10:35, TALK, "Context != Context: One Window, Different Lifecycles" by Birgitta Boeckeler, room 52A](images/photos_20261103-101929.png)
 
 10:20:34 - Add. Do not correct or modify. I'll make it consistent tomorrow.
 
