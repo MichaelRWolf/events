@@ -2,6 +2,10 @@
 
 Top-posting: newest photos first, directly under this heading.
 
+## 2026-11-03 11:08 EST
+
+![Schedule app card marked NOW for 11:05 to 11:35, TALK, "Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Teams" by Alan Braun, room 52A](images/photos_20261103-110823.png)
+
 ## 2026-11-03 10:06 EST
 
 ![Speaker in plaid shirt on stage beside a slide titled "What is context" with a context window meter reading 36% left (171k)](images/photos_20261103-100644.png)

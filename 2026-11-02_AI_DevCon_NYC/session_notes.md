@@ -4,9 +4,9 @@
 
 09:21:04 - Is this the best model for this task? I don't need lots of thinking... just capture notes. Prompt with "Next session note?..."
 
-09:21:44 - [Image #1]
+09:21:44 - ![Slide reading "Next up: AI DevCon London", 7 to 8 June 2027, London and virtual, with a luma.com link](images/photos_20261103-092148.png)
 
-09:21:53 - [Image #3]
+09:21:53 - ![Slide reading "Next up: AI DevCon London", 7 to 8 June 2027, London and virtual, with a luma.com link](images/photos_20261103-092159.png)
 
 ## 09:22 - Announcements - Simon Maple
 
@@ -16,7 +16,7 @@
 
 09:24:34 - Is there a better format for capturing my notes as though it is a livestream? If so do that. But for now.... stage and commit with message "Beginning of Keynote - Guy Po"
 
-09:26:02 - [Image #4]
+09:26:02 - ![Speaker at a podium on a dark stage, with partial projected slide text behind him](images/photos_20261103-092607.png)
 
 09:26:43 - Concerns: Quality (is it slop). Cost (will it cost a fortune). Safety (will it break things)
 
@@ -40,7 +40,7 @@
 
 09:41:00 - Self improving loops ![Keynote slide titled "What is a loop?" with Skill, Environment, and Trigger / schedule feeding a Sandbox run, then Output and Logs, with a "Learn & Improve" loop back](images/photos_20261103-094100.png)
 
-09:43:18 - Sponsors -- [Image #5]
+09:43:18 - Sponsors -- ![Row of sponsor logos on a black background, including Tessl, MLH, LaunchDarkly, snyk, CodeRabbit, AUTONOMY AI, port, Cockroach Labs, dash0, and Codeplain](images/photos_20261103-094324.png)
 
 09:43:57 - Self-optomizing loops are critical, not add-on. Extract truth from observation. "What do you want for your birthday?" versus watch for a few years. Get truth first, then optomize. Keep them current. Maintenance.
 
@@ -56,7 +56,7 @@
 
 09:54:20 - Fun brag -- What Tessl delivered yesterday. Tickets -> PR. Where requirments? Where tickets? Kicks off loops. Factory floor view is exciting. Metrics build up. Pre-made loops (i.e. fixing vulnerabilities). "Get a little bit of delight".
 
-09:55:22 - [Image #6]
+09:55:22 - ![Tessl promo slide "Start with up to $500 in Tessl credits," with $500 for in-person AI DevCon attendees, $200 for virtual attendees, and a tessl.io/signup QR code](images/photos_20261103-095525.png)
 
 09:55:26 - ![Tessl promo slide "Start with up to $500 in Tessl credits." listing $500 for in-person AI DevCon attendees and $200 for virtual attendees, with a tessl.io/signup QR code](images/photos_20261103-095526.png) $500/in-person, $200/virtual.
 
@@ -144,6 +144,38 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 11:00:55 - We are still on a coffee break
 
 ## 11:05 - Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Teams - Alan Braun
+
+11:08:23 - ![Schedule app card marked NOW for 11:05 to 11:35, TALK, "Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Teams" by Alan Braun, room 52A](images/photos_20261103-110823.png)
+
+11:12:14 - Work is a team sport.
+
+11:13:20 - Working team-to-team is difficult.  Now we're doing team-to-agent.  Agent-to-agent.  How to build context for all?[Image #1]
+
+11:15:19 - Code building was long pole in the tent. Plan and Review where short.  Execute is shorter.  Are we releasing faster?  :-)  What silent "tax" is being added?  Lots more review!  Optomize Plan/Execute/Review should optomize for all stages, not just execute.
+
+11:16:11 - [Image #2] [Image #3]
+
+11:17:15 - We'll shorten iff we cut review.  Get faster delivery, not just faster execution.
+
+11:19:41 - Context stack.  Since execution is shorter, we can spend more time up front on specs.  [Image #4]  The **org-wide** context gives a big payback (especilly for product guy).  Seems easy at Jira work item.  (Will he point to Jira Align to show higher connection?)  Misconnections (e.g. marketing/dev not shared).
+
+11:20:53 - [Image #5]  Product hype.  20 years of learning how people/teams/orgs really operate.  [Image #6]
+
+11:21:09 - <https://www.youtube.com/live/kPB9y6ZWXxk>
+
+11:26:04 - MCP connectors are helpful to get the right info.  Time for a video.  Claude (LHS without context.  With context.)  [Image #7]
+
+11:27:14 - [Image #8]
+
+11:28:28 - TWG - Teamwork Graph?
+
+11:32:05 - With TWG, up front context gathering starts slower, but eventually it gets better answer at smaller cost.  48% less tokens.  44% better answers.[Image #9]
+
+11:33:38 - Old school.   Write out inputs, outputs, have blind LLM be the judge.
+
+11:34:55 - ![Slide with five numbered steps on a dark background: 1 Link the work, 2 Write down ownership, 3 Write down decisions, 4 Connect 3 to 5 sources over MCP, not 15, 5 Write one context skill](images/photos_20261103-113455.png)
+
+11:35:31 - More context is not better.  Connected context IS.
 
 ## 11:45 - Building When Code is Cheap and Your Time is Not - Aidan Cunniffe
 

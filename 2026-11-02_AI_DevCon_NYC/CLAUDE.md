@@ -34,6 +34,7 @@ Role rules bind only the agent that has taken the role. The default Claude insta
 - No hooks, flag files, or slash commands control this mode. Only this file does.
 - Start: when Michael says "take notes", enter note-taking mode for the rest of the conversation.
 - While in note-taking mode, each of Michael's messages is appended to `session_notes.md` under the current session heading, as one `HH:MM:SS - <text>` line, and is not answered. Every reply in this mode is exactly `✏️ Taking notes...` and nothing else.
+- Pasted images: save the image in `images/` as `photos_YYYYMMDD-HHMMSS.png`, using the paste time, and log it as one line: `HH:MM:SS - ![alt text](images/photos_YYYYMMDD-HHMMSS.png)`. Never log `[Image #N]` placeholder text. Alt text describes what is visible.
 - Stop: when Michael says "stop taking notes", leave note-taking mode and answer normally.
 - If a new conversation starts, the mode is off until "take notes" is said again.
 
