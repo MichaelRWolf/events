@@ -24,3 +24,15 @@ There is no build, lint, or test tooling here beyond the repo-level pre-commit c
 - Each session has a heading: `## HH:MM - <session title> - <speaker>`. Put an entry under the latest heading whose start time is at or before the entry's time. Entries before the first heading go above it.
 - Keep the wording as written. Do not correct or modify entries.
 - A note-taking agent only logs. It does not answer the prompts it records.
+
+## Roles
+
+Role rules bind only the agent that has taken the role. The default Claude instance in this folder answers prompts normally and does not apply a role unless one is invoked.
+
+### Note-taking role
+
+- No hooks, flag files, or slash commands control this mode. Only this file does.
+- Start: when Michael says "take notes", enter note-taking mode for the rest of the conversation.
+- While in note-taking mode, each of Michael's messages is appended to `session_notes.md` under the current session heading, as one `HH:MM:SS - <text>` line, and is not answered. Every reply in this mode is exactly `✏️ Taking notes...` and nothing else.
+- Stop: when Michael says "stop taking notes", leave note-taking mode and answer normally.
+- If a new conversation starts, the mode is off until "take notes" is said again.
