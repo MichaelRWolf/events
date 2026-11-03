@@ -24,6 +24,8 @@ A three-day conference focused on agentic coding and AI-native development. The 
 - Speakers: <https://tessl.io/devcon/speakers> (see `speakers_and_sessions.md`)
 - Call for speakers (closed Oct 1, 2026): <https://sessionize.com/ai-native-devcon-nyc-2026/>
 - Virtual ticket (Nov 3 main stage): <https://tessl.co/z3b>
+- YouTube live stream: <https://www.youtube.com/live/kPB9y6ZWXxk>
+- AI DevCon site: <https://aidevcon.app>
 - London 2026 recordings: <https://www.youtube.com/playlist?list=PLISstAySqk7KtlYPFps1ZnK9xNIMSVkDD>
 
 **Event Details:**
