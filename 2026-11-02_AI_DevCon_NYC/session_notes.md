@@ -395,7 +395,59 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 ## 15:15 - Your Agent Just Wrote a Tool--and Ran It. You Need More than a Sandbox. - Cornelia Davis
 
+15:16:09 - ![Schedule app card marked NOW for 15:15 to 15:45, TALK, "Your Agent Just Wrote a Tool--and Ran It. You Need More than a Sandbox." by Cornelia Davis, room 52A](images/photos_20261103-151609.png)
+
+15:16:22 - Temporal is wicked cool, but not going to talk about it today.
+
+15:16:57 - You need more than a sandbox.
+
+15:16:57 - ![Title slide reading "You Need More than a Sandbox" with the subtitle "Code mode, sandboxes, and keeping generated code inside the agent's governed context" on a dark background](images/photos_20261103-151657.png)
+
+15:17:10 - ![Speaker with long gray hair in a light cardigan, beside projected slide text reading "Cloud Foundry for 8+ ye..." and "Kubernetes fo... 10..." and "Author" with a pointing-hand emoji](images/photos_20261103-151710.png)
+
+15:17:20 - ![Book cover titled "Cloud Native Patterns" by Cornelia Davis, published by Manning, showing an illustrated figure in a blue and red robe with fur trim and a white turban, holding a staff](images/photos_20261103-151720.png)
+
+15:19:52 - There used to be ceremony post-creation.  No PRs.  No checkpoints.  Check it immediately IN PRODUCTION.
+
+15:19:52 - ![Slide titled "The Risk" with the heading "Agents that choose their own path" and five warnings: the execution is determined at runtime by the model, no pull request, no pipeline, no human checkpoint; inputs to the code writing are untrusted, any page, email or ticket the agent reads can carry instructions, prompt injection; the generated code is not the harness, the harness brings guardrails, including around tools, what happens when the harness isn't calling the tool?; the lethal trifecta, private data, plus untrusted content, plus a way to send data out; mistakes move at machine speed, one bad decision can repeat across hundreds of actions before anyone looks](images/photos_20261103-151952.png)
+
+15:20:31 - 3 orders of magnitude time to exploit (from day0) post/pre agentic modes
+
+15:21:26 - "Code Mode" allows agents to build their own tools.  Model builds program that does 10,000s of calls.
+
+15:22:20 - sandbox constrains WHERE code runs, not what code can DO.
+
+15:22:41 - ![Speaker with long gray hair in a light sweater gesturing on stage beside a projected slide reading "Useful and unsafe", "Full network and the user's credentials. Anything injected can do anything the user can", and "A sandbox controls where code runs. ...code can do.", at an aiDevCon podium](images/photos_20261103-152241.png)
+
+15:23:06 - ![Slide titled "Need a sandbox. How to configure it?" with the kicker "Sandboxes" and two panels: Wide open, useful and unsafe, with full network and the user's credentials, where anything injected can do anything the user can; Locked down, safe and useless, with no network, no tools, no data, where the code can compute but can't get anything done. Caption: "A sandbox controls where code runs. It does not fully control what that code can do."](images/photos_20261103-152306.png)
+
+15:24:58 - ![Speaker with long gray hair in a white jacket and jeans gesturing on stage, beside a projected slide titled "Need a sandbox. How to configure it?" with three panels: Wide open, useful and unsafe; Governed, does real work within limits, reads data and calls tools but only with the agent's own permissions, under policy, and on the record, highlighted as the recommended option; Locked down, safe and useless](images/photos_20261103-152458.png)
+
+15:26:33 - ![Dark slide with the heading "Pattern 2: OS sandbox + egress gateway" and the labels "Calls checked: at the network edge, by an MCP-aware proxy" and "Looks like: container or microVM sandboxes whose only way out is the proxy"](images/photos_20261103-152633.png)
+
+15:31:54 - Will use pydantic monte.  Sandbox that's constrained.  Not OS sandbox.  Completely constrained.  Python only.
+
+15:32:08 - I glazed over.  Checked out.  Too many details, or too late in the day?
+
+15:40:05 - One of most important to control is to log.  Helps improvement.  Auditability.
+
+15:40:31 - TODO - COnnect with Cornelia.  Research CEO Amar Abbas.
+
+15:41:12 - TODO:  She wrote Policies in "Dogood" and "Cedar".  Research these.
+
+15:42:40 - Policy is based on context of whole convesation, not just a short piece.
+
+15:43:12 - ![Two-panel diagram titled "Harness in compute" and "Harness separate from compute." The left shows a server or agent harness kicking off a coding agent into a sandbox containing an agent loop, MCPs/tools, and a filesystem, with a gateway service holding secrets that intercepts calls. The right shows secrets, an agent loop, and MCPs/tools running anywhere, with the sandbox and filesystem separate, and the server accessing databases and the web. Footer link: openai.com/index/the-next-evolution-of-the-agents-sdk](images/photos_20261103-154312.png)
+
+15:43:46 - <https://openai.com/index/the-next-evolution-of-the-agents-sdk/>
+
 ## 15:45 - ☕ Coffee Break
+
+15:45:56 - Follow-up.  Yes we are hiring at Temporal.
+
+15:47:23 - Followup - Thank her for high energy demo.  Props for doing it live.  Have a great time in Hawaii.
+
+15:50:26 - <https://www.linkedin.com/company/temporal-technologies/> is hiring.
 
 ## 16:15 - Scaling Agentic Engineering at Zalando - Bartosz Ocytko
 
