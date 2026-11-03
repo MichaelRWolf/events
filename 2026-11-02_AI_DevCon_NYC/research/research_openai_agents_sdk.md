@@ -1,8 +1,8 @@
 # Research: OpenAI Agents SDK, "The next evolution of the Agents SDK"
 
-Back to [research.md](research.md). Session: [15:15 Cornelia Davis](session_notes.md#1515---your-agent-just-wrote-a-tool--and-ran-it-you-need-more-than-a-sandbox---cornelia-davis). Diagram from the 15:43 notes:
+Back to [research.md](../research.md). Session: [15:15 Cornelia Davis](../session_notes.md#1515---your-agent-just-wrote-a-tool--and-ran-it-you-need-more-than-a-sandbox---cornelia-davis). Diagram from the 15:43 notes:
 
-![Two-panel diagram titled "Harness in compute" and "Harness separate from compute," showing where the agent harness, sandbox, secrets, and gateway service run](images/photos_20261103-154529.png)
+![Two-panel diagram titled "Harness in compute" and "Harness separate from compute," showing where the agent harness, sandbox, secrets, and gateway service run](../images/photos_20261103-154529.png)
 
 ## APA citation
 

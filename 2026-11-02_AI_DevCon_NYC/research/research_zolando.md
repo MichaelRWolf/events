@@ -1,6 +1,6 @@
 # Research: Zalando
 
-Back to [research.md](research.md). Session: [16:15 Bartosz Ocytko, Scaling Agentic Engineering at Zalando](session_notes.md#1615---scaling-agentic-engineering-at-zalando---bartosz-ocytko).
+Back to [research.md](../research.md). Session: [16:15 Bartosz Ocytko, Scaling Agentic Engineering at Zalando](../session_notes.md#1615---scaling-agentic-engineering-at-zalando---bartosz-ocytko).
 
 ## Company
 
@@ -13,7 +13,7 @@ Back to [research.md](research.md). Session: [16:15 Bartosz Ocytko, Scaling Agen
 
 ## Person
 
-- **Bartosz Ocytko**, Executive Principal Engineer, Zalando (listed as "Zelanda" in [people.md](people.md), a typo).
+- **Bartosz Ocytko**, Executive Principal Engineer, Zalando (listed as "Zelanda" in [people.md](../people.md), a typo).
 - Talk: "Scaling Agentic Engineering at Zalando," Tue Nov 3, 16:15, room 52A.
 - Shared an enablement slide at the talk: #guild-LLMs, 4-hour labs leading to trainings, a 4-week training, and an AI readiness scan for repos.
 - Only the talk and enablement slide are in my notes. No further bio has been checked.

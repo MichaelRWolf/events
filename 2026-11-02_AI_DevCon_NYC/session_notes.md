@@ -79,6 +79,8 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 ## 10:05 - Context != Context: One Window, Different Lifecycles - Birgitta Boeckeler
 
+10:19:29 - ![Schedule app card marked NOW for 10:05 to 10:35, TALK, "Context != Context: One Window, Different Lifecycles" by Birgitta Boeckeler, room 52A](images/photos_20261103-101929.png)
+
 10:05:51 - Start Brigita Beckler - Deeper cut on context engineering. It's 10:05. Readjust session_notes headers to get the right speaker and title. Future notes go in the 10:05 session of @session_notes.md
 
 10:06:40 - ![Speaker standing on a dark stage in a plaid shirt, with a projected slide titled "What is 'context'" and a "window: 36% left (171k" counter](images/photos_20261103-100640.png)
@@ -107,7 +109,7 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 10:18:52 - open the *.app link so I can see the main stage list of speakers and times
 
-10:19:29 - Recently moved to Canada to join "Unblocked" company. ![Schedule app card marked NOW for 10:05 to 10:35, TALK, "Context != Context: One Window, Different Lifecycles" by Birgitta Boeckeler, room 52A](images/photos_20261103-101929.png)
+10:19:29 - Recently moved to Canada to join "Unblocked" company.
 
 10:20:34 - Add. Do not correct or modify. I'll make it consistent tomorrow.
 
@@ -185,6 +187,8 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 ## 11:45 - Building When Code is Cheap and Your Time is Not - Aidan Cunniffe
 
+11:40:55 - ![Schedule app card marked NEXT for 11:45 to 12:15, TALK, "Building When Code is Cheap and Your Time is Not" by Aidan Cunniffe, room 52A](images/photos_20261103-114055.png)
+
 11:46:50 - Aiden started git.ai at this conference.  OpenAI bought it 1 month ago.  TY to all who picked up project.
 
 11:46:50 - ![Conference slide titled "Building when code is cheap" with speaker Aidan Cunniffe, Member of Product Staff, OpenAI, and a headshot](images/photos_20261103-114650.png)
@@ -202,8 +206,6 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 11:49:14 - ![Slide titled "Observation #2" reading "We got Cloud Agents / Dev Environments" and "...still no OOTB software factory"](images/photos_20261103-114914.png)
 
 11:49:27 - ![Slide titled "Observation #3" reading "Code Review is still the bottleneck."](images/photos_20261103-114927.png)
-
-11:40:55 - ![Schedule app card marked NEXT for 11:45 to 12:15, TALK, "Building When Code is Cheap and Your Time is Not" by Aidan Cunniffe, room 52A](images/photos_20261103-114055.png)
 
 11:51:15 - Step back.  What is goal of SW Factory?  (He talks to lots of CTOs)  Follow-up.
 
@@ -241,6 +243,8 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 ## 12:25 - Building a harness that keeps up with the latest models - Nicolas Carmont Zaragoza
 
+12:32:13 - ![Schedule app card marked NOW for 12:25 to 12:55, TALK, "Building a harness that keeps up with the latest models" by Nicolas Carmont Zaragoza, room 52A](images/photos_20261103-123213.png)
+
 12:27:13 - [Image #1]
 
 12:27:43 - [Image #2]
@@ -252,8 +256,6 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 12:31:13 - Notes are working for text.
 
 12:31:31 - ![Speaker at a podium holding a microphone and gesturing on a dark stage, with a projected slide behind him reading "Hard to tell which model..." and "Harness", beside a conference podium marked aiDevCon](images/photos_20261103-123131.png)
-
-12:32:13 - ![Schedule app card marked NOW for 12:25 to 12:55, TALK, "Building a harness that keeps up with the latest models" by Nicolas Carmont Zaragoza, room 52A](images/photos_20261103-123213.png)
 
 12:35:55 - Problem -- Verify was mentioned all over the place.  Opus starts focusing on verification.  Makes old guidance to be duplicated now.  Makes iti cheaper once de-duped.
 
@@ -582,3 +584,5 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 17:46:39 - 37 watching now.
 
 17:58:42 - The day is all over.  I will take some time to create some take-aways before I ask you do read my notes.
+
+18:18:27 - Those were the ones that stirred me.

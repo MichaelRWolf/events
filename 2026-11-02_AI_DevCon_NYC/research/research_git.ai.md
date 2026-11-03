@@ -1,6 +1,6 @@
 # Research: git-ai
 
-Related: [research.md](research.md) | [Running session: 11:45 Aidan Cunniffe](session_notes.md#1145---building-when-code-is-cheap-and-your-time-is-not---aidan-cunniffe)
+Related: [research.md](../research.md) | [Running session: 11:45 Aidan Cunniffe](../session_notes.md#1145---building-when-code-is-cheap-and-your-time-is-not---aidan-cunniffe)
 
 ## What it is
 
