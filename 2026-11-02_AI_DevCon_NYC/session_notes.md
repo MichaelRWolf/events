@@ -451,4 +451,24 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 ## 16:15 - Scaling Agentic Engineering at Zalando - Bartosz Ocytko
 
+16:22:53 - ![Schedule app card marked NOW for 16:15 to 16:45, TALK, "Scaling Agentic Engineering at Zalando" by Bartosz Ocytko, room 52A](images/photos_20261103-162253.png)
+
+16:23:35 - Maybe I'm burned out, but I'm geting "blah, blah, blah".  He's articulate, but it's not sticking.
+
+16:41:31 - ![Slide titled "Our enablement" in yellow on black with four bullets: #guild-LLMs, 4-hour labs => trainings, 4-week training, AI readiness scan for repos](images/photos_20261103-164131.png)
+
+16:41:44 - ![Speaker with short hair and glasses in a gray sweater, gesturing with both hands while standing beside a window with parked cars outside](images/photos_20261103-164144.png)
+
+16:42:20 - Working in pairs.  Training.  Work on own issues.  In labs.  #guild-LLMs.
+
+16:42:31 - TODO - Look at his company.  Find training opportunities.
+
+16:43:07 - ![Black aiDevCon NYC contact slide with the speaker's name, social handles, and a red-triangle QR code, with the websites engineering.zalando.com and agenticidentitybroker.dev listed beneath it](images/photos_20261103-164307.png)
+
+16:45:36 - 4:45- 49 watching now.  15 minute break before Steve Yegge keynote.
+
+16:48:58 - <https://engineering.zalando.com>
+
+16:51:21 - Look at the zolander research file.
+
 ## 17:00 - The Future of AI-Powered Factories - Steve Yegge
