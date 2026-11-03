@@ -16,3 +16,10 @@ There is no build, lint, or test tooling here beyond the repo-level pre-commit c
 - Each entry gets a heading with the capture time: `## YYYY-MM-DD HH:MM TZ`, using the time the image was pasted.
 - Save each pasted image in this folder as `photos_YYYYMMDD-HHMMSS.png`, matching the timestamp, and link it with a relative path: `![alt text](photos_YYYYMMDD-HHMMSS.png)`.
 - Alt text describes what is visible. Do not name a person unless the name is confirmed.
+
+## session_notes.md
+
+- Session notes go in `session_notes.md`. Each entry is one line: `HH:MM:SS - <text>`.
+- Each session has a heading: `## HH:MM - <session title> - <speaker>`. Put an entry under the latest heading whose start time is at or before the entry's time. Entries before the first heading go above it.
+- Keep the wording as written. Do not correct or modify entries.
+- A note-taking agent only logs. It does not answer the prompts it records.
