@@ -137,17 +137,25 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 10:34:01 - I'm stuck in a loop. How to prevent this? [Image #2]
 
+## 10:35 - ☕ Coffee Break
+
+10:53:44 - We are on a break.  It is 10:53.
+
 ## 11:05 - Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Teams - Alan Braun
 
 ## 11:45 - Building When Code is Cheap and Your Time is Not - Aidan Cunniffe
 
 ## 12:25 - Building a harness that keeps up with the latest models - Nicolas Carmont Zaragoza
 
+## 12:55 - 🥪 Lunch
+
 ## 13:55 - Security in GitHub Agentic Workflows - Landon Cox
 
 ## 14:35 - An Architectural Approach to Regenerative Software - Chad Fowler
 
 ## 15:15 - Your Agent Just Wrote a Tool--and Ran It. You Need More than a Sandbox. - Cornelia Davis
+
+## 15:45 - ☕ Coffee Break
 
 ## 16:15 - Scaling Agentic Engineering at Zalando - Bartosz Ocytko
 
