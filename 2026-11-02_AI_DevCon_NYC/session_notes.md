@@ -321,6 +321,78 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 ## 14:35 - An Architectural Approach to Regenerative Software - Chad Fowler
 
+14:37:43 - ![Schedule app card marked NOW for 14:35 to 15:05, TALK, "An Architectural Approach to Regenerative Software" by Chad Fowler, room 52A](images/photos_20261103-143743.png)
+
+14:37:43 - It's 2:37.  New talk.  Chad Fowler.  Ruby.  Gems.  Is writing book for O'Reilly on regenerative software.
+
+14:39:31 - How to write code now.  No code review.  Nobody writes prompt.  Coding never stops.  Language and stack are chosen by not-people.  Write the spec later.  To learn, remove code.  Discard code.  Keep decisions.
+
+14:39:31 - ![Slide titled "The Plan." with the kicker "All of this, around the clock, seriously" and five bullets: no code review, nobody reads the code; nobody writes a prompt, production does; it never stops, day and night, whatever passes CI ships; humans don't pick the language or the stack anymore; the spec comes later](images/photos_20261103-143930.png)
+
+14:39:31 - ![Slide titled "The Plan." with the kicker "All of this, around the clock, seriously" and seven bullets: no code review, nobody reads the code; nobody writes a prompt, production does; it never stops, day and night, whatever passes CI ships; humans don't pick the language or the stack anymore; the spec comes later; delete the source to find out what you don't know; throw away the history, keep the decisions](images/photos_20261103-143931.png)
+
+14:40:44 - How do we buid systems that survive?   He was a software euthenazer.  He killed big systems.  Immutable infrastructure and disposable code.  Code is an artifact (not a source).
+
+14:41:54 - TODO - Followup.  Code is no longer source.
+
+14:44:08 - Story: Heartbled bug.  Servers were already disposable.  Don't mutate a server.  Reconfig and regenerate.  80+ servers  This is what we'd been training for.  Servers didn't live longer than an hour.  Used to work on wunderlist.
+
+14:45:05 - Simple change (tiny schema change) took 48 hours.  But the related stuff took a bigger toll.
+
+14:45:52 - XP did not remove rigor.  It improved feedback for learning and time to adjust.
+
+14:45:52 - ![Slide with the kicker "Every one of these looked reckless" and the title "Relocating Rigor", with "1999" and the text "XP. Plans became working code, delivered frequently and consistently."](images/photos_20261103-144552.png)
+
+14:46:44 - Checks move from typechecks elsewhere.
+
+14:46:44 - ![Slide with the kicker "Every one of these looked reckless" and the title "Relocating Rigor", listing three items: 1999 XP, plans became working code, delivered frequently and consistently; 2005 Ruby & Rails, static type checks became tests and fast feedback; 2012 continuous deployment, release windows became rollback and observability](images/photos_20261103-144644.png)
+
+14:48:19 - Burn the code.  What to keep?  1) Intent.  2) Architecture.  3) Eval (How we know a replacement is right).  Intents.  Code? 4) Provenance.
+
+14:48:19 - ![Slide titled "If the Code Can Burn, What Cannot?" with four rows: Intent, what must stay true, not how the code works; Architecture, the target the code compiles into, what no implementation may do; Evaluations, how we know a replacement is right; Provenance, why every decision was made, and what it ruled out. Footer: "Same promises, kept. Same reasons, recorded."](images/photos_20261103-144819.png)
+
+14:48:53 - He used granola to capture notes from meeting.
+
+14:49:30 - Can you 'rm -rf src'?  How bad would that be?  WHat remains?  Humans?  What is missing to rereatte is QUICKLY?
+
+14:50:33 - Architectural decisions are actually tech work-arounds.  Architecture is an accident.  It felt like architecture.  Was actually accident of evolution.  What is critical to keep.
+
+14:50:58 - ![Blueprint-style floor plan with the title "Intent → Architecture → Code" and the caption "Code Is a Compiled Artifact." The plan labels a service boundary, a communication primitive, an evaluation hook, and a provenance log, with tape and a pen on the page](images/photos_20261103-145058.png)
+
+14:51:10 - ![Speaker with a gray beard and dark shirt holding a microphone and gesturing toward a projected blueprint with "Service Boundary" and the word "Compiled" on screen, at an aiDevCon podium](images/photos_20261103-145110.png)
+
+14:52:01 - Intent => Architecture => Code.   Compiling to an architecture.  Could you abandon PHP or npm and regenerate elsewhere?
+
+14:59:40 - Specs should not be Google Docs.  Should be colleciton of assertions (graph database).  Ask Gini to generate the document from that graph.
+
+14:59:40 - ![Slide titled "From Conversation to Code, and Back" with the subtitle "Phoenix: the compiler prototype · library example · every artifact real", showing a six-step loop: 1 Conversation & docs, 2 Clauses, 3 Canonical nodes, 4 Implementation unit, 5 Generated code, 6 Evidence & production, with arrows for ingest, canonicalize, plan, regenerate, verify, deploy, observe, and back to intent](images/photos_20261103-145940.png)
+
+14:59:40 - Conversation & Docs -> Clauses -> Canonical nodes -> Implementation unit -> Generated code -> Evidence & Production -> Conversation & Docs.  There is a PoC (Proof of Concept).  Lines trace back to clauses.  This is how I was thinking about new requirements capture at HillRom.  Evaluations survive rewrites.  No need to do that in past.  Can do that now.
+
+15:00:56 - TODO - Look at phoenix thing.  Find the canonicalizer.  Trace "requirements change" to the "code change".  Can regenerate into another target architecture.  Phoenix will redeploy.
+
+15:02:35 - TODO: F/U Tribal Knowledge.  Documented in the code.  Documented in the culture.  Followup posting on LinkedIn.
+
+15:02:35 - ![Slide with the kicker "Regeneration is an epistemic test" and the quote "What does this implementation know that we have forgotten?"](images/photos_20261103-150235.png)
+
+15:03:45 - Pace differs at different layers.  Time scales.  Ant talking to mountain.
+
+15:03:45 - ![Slide titled "Not Everything Regenerates at the Same Speed" with the kicker "Pace, and the state nobody wrote down," over a Stewart Brand "Pace Layers" diagram. Fast layers at the top, UI polish, API shape, email format, URL structure, and data shape, sit above slower strata and mountains. Caption: "Fast layers churn on top of slow contracts. And the state is never where you think."](images/photos_20261103-150345.png)
+
+15:04:55 - Delete Safely.  Then Compact.  Rewrites inject ideas.  That becomes cruft.  Delete concepts.  (Aside... opposite of earlier topic).
+
+15:04:55 - ![Slide titled "Delete Safely. Then Compact." with the kicker "Deletion and compaction" and seven steps: compat, the old path keeps emitting what it emitted, through the new code; migrate, move known consumers one at a time; isolate, the old path complains loudly on every use, hidden dependencies announce themselves; remove, only after nothing has tripped the alarm for long enough; observe, keep watching, long enough is a judgment; compact, fold what you learned into the spec](images/photos_20261103-150455.png)
+
+15:05:12 - ![Slide titled "How a System Becomes Regenerative" with the kicker "One unit at a time, one rung at a time" and four properties: replaceable, a real boundary and evaluations, delete the unit, get it back; remembered, decisions and rejections captured as you work, not reconstructed; gated, evaluations and constraints are the review, where risk allows, you stop reading the diff; selective, a spec change regenerates only what it touches, you stop editing code](images/photos_20261103-150512.png)
+
+15:05:47 - Selective -- tracability allows back/forth
+
+15:06:47 - System is asset.  Code is liability.
+
+15:06:47 - ![Closing slide titled "Keep the System. Delete the Code." with the subtitle "An Architectural Approach to Regenerative Software · AI DevCon NYC", over a candlelit desk with a mug and open notebook. Footer lists slides at chadfowler.com/aidevcon, github.com/chad/phoenix, Regenerative Software (O'Reilly, early release), aicoding.leaflet.pub, and freeq.at](images/photos_20261103-150647.png)
+
+15:07:01 - Read long version in "Regenerative Systems".
+
 ## 15:15 - Your Agent Just Wrote a Tool--and Ran It. You Need More than a Sandbox. - Cornelia Davis
 
 ## 15:45 - ☕ Coffee Break
