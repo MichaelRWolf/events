@@ -42,31 +42,7 @@ A three-day conference focused on agentic coding and AI-native development. The 
 
 **Event Link:** <https://luma.com/aidevcon-nyc2026?tk=3vRkpd>
 
-### Hosts
-
-- Sam Hepburn
-- Tom Dowler
-
-### Organizers
-
-- Simon Maple
-
-### Presenters
-
-- Llewellyn Falco
-- Ray Myers
-
-## Speakers
-
-See [people.md](people.md) for the speaker table.
-
-### Contacts Found in Daylite
-
-- **Dru Knox** -- LinkedIn: <https://www.linkedin.com/in/dru-knox-6b57b830/>
-- **Guy Podjarny** -- LinkedIn: <https://www.linkedin.com/in/guypo/>
-- **Llewellyn Falco** -- LinkedIn: <https://www.linkedin.com/in/llewellynfalco/>
-- **Ray Myers** -- <ray.myers@gmail.com> | LinkedIn: <https://www.linkedin.com/in/cadrlife/> | Also on YouTube, Mender.ai
-- **Steve Yegge** -- in contacts (no email/URLs stored)
+Hosts, organizers, presenters, and all speaker details are in [people.md](people.md).
 
 ## Sponsors
 

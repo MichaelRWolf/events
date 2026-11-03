@@ -1,6 +1,6 @@
 # AI DevCon NYC -- Speakers and Sessions
 
-Source: <https://tessl.io/devcon/speakers> (66 speakers; day and time from each speaker page at `https://tessl.io/speaker/<name>`). Times are Eastern. Rows are grouped by track, then ordered by day and time (Monday first). Track is the label on the speaker page (format or room category); the five conference topic tracks are not mapped to sessions on the site.
+Source: <https://tessl.io/devcon/speakers> (66 speakers; day and time from each speaker page at `https://tessl.io/speaker/<name>`). Times are Eastern. Speaker bios and LinkedIn links are in [people.md](people.md). Rows are grouped by track, then ordered by day and time (Monday first). Track is the label on the speaker page (format or room category); the five conference topic tracks are not mapped to sessions on the site.
 
 | Speaker                    | Track                | Title                                                                                            | Day/Time    |
 |----------------------------|----------------------|--------------------------------------------------------------------------------------------------|-------------|
@@ -83,9 +83,9 @@ Source: <https://tessl.io/devcon/speakers> (66 speakers; day and time from each 
 | Sawyer Hood                | tools in action      | If AI can build anything why does every app have a f*&*ing sidebar?                              | Wed 16:15   |
 | -------------------------- | -------------------- | ------------------------------------------------------------------------------------------------ | ----------- |
 
-## Tuesday Streaming
+## Tuesday Streaming (Main Stage)
 
-Free Virtual Ticket (Tue Nov 3, main stage only): register at <https://luma.com/aidevcon-nyc2026>. The ticket text promises "the headline keynotes and biggest moments" live from the main stage (room 52A: Keynote and Conference Session tracks). The agenda is at <https://tessl.io/devcon#agenda> (loads in the browser; the same times are on each speaker page). Whether every 52A session is streamed is not stated, and no schedule page lists stream times separately. Times are Eastern.
+Virtual ticket: Tue Nov 3, main stage only, register at <https://luma.com/aidevcon-nyc2026>. The main stage is room 52A. Agenda: <https://tessl.io/devcon#agenda>. No stream times are published per session, so whether every 52A session is streamed is not confirmed. Times are Eastern.
 
 | Time      | Speaker                  | Track              | Title                                                                              |
 |-----------|--------------------------|--------------------|------------------------------------------------------------------------------------|
@@ -100,6 +100,21 @@ Free Virtual Ticket (Tue Nov 3, main stage only): register at <https://luma.com/
 | Tue 15:15 | Cornelia Davis           | Conference Session | Your Agent Just Wrote a Tool--and Ran It. You Need More than a Sandbox.            |
 | Tue 16:15 | Bartosz Ocytko           | Conference Session | Scaling Agentic Engineering at Zalando                                             |
 | Tue 17:00 | Steve Yegge              | Keynote            | The Future of AI-Powered Factories                                                 |
+
+### Parallel Tracks (Tuesday, Not Main Stage)
+
+Room for these sessions is not recorded. Leadership track and tools in action, by slot:
+
+| Time      | Leadership track                                                                                                  | Tools in action                                                                                                            |
+|-----------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Tue 10:05 | Mashrur Hossain: Beyond the Pilot: Enabling AI Coding in Regulated Enterprises                                    | James Moss: Dealing with Agentic Coding Risk: What Breaks Going From 1 Agent to 10                                         |
+| Tue 11:05 | Massimo Re Ferre': From individual coding tools to development coding platforms                                   | Geoffrey Huntley: Hack the planet? Patch the planet.                                                                       |
+| Tue 11:45 | Valerio Panzica: From AI Coding to the Agentic SDLC: Booking.com's Journey Toward Autonomous Software Delivery    | Chris Poulter: Did It Actually Improve the Software Factory?                                                               |
+| Tue 12:25 | Paul Duvall: Who Gets the Keys? Trust and Authority in Software Factories                                         | Ahmed E. Hassan: The Tool Got Smarter. Did You?                                                                            |
+| Tue 13:55 | Nicholas Arcolano: Botsitting Doesn't Scale: How to Navigate the Autonomy-Trust Gridlock in Real Engineering Orgs | Shivam Jindal: How SpaceXAI Uses Cursor                                                                                    |
+| Tue 14:35 | Patrick Debois: 1,000 Coding Agents, One Main: Leading the Shift to Concurrent Delivery                           | Fernanda Graciolli and Nada Amin: Minimize Review and Increase Trust: A Verification-Aware Process for Agentic Programming |
+| Tue 15:15 | Dan Lorenc: Coming soon                                                                                           | Joseph Katsioloudes and Peyton Montei: Rebuilding the Software Lifecycle for Coding Agents and Humans                      |
+| Tue 16:15 | Rob Zuber: Why Your CTO Is Suddenly Writing Code                                                                  | Alex Gavrilescu: In the loop, not in the dark: staying in control in the era of dark software factories                    |
 
 ## Speakers by Organization
 
