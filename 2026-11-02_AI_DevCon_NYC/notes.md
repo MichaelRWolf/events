@@ -66,6 +66,7 @@ A three-day conference focused on agentic coding and AI-native development. The 
 | Baruch Sadogursky        | Head of DevRel, Port.io                                                 |                                                  |                                       |
 | Ben Morss                | Developer Evangelist @ Mistral AI                                       |                                                  |                                       |
 | Benjamin Gruenbaum       | Developer @ Eon.io, Node.js maintainer and open source and people lover |                                                  |                                       |
+| Birgitta Boeckeler       |                                                                         | <https://www.linkedin.com/in/birgittaboeckeler/> |                                       |
 | Brandon Waselunk         | DevRel - Unblocked                                                      |                                                  |                                       |
 | Bruno Borges             | Product Manager, Microsoft                                              |                                                  |                                       |
 | Bryan Finster            | Principal Architect                                                     |                                                  |                                       |

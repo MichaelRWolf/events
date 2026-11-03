@@ -83,6 +83,60 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 10:07:51 - stage. commit. "Correct the main stage agenda" is good starter message.
 
+10:08:06 - ![Slide titled "Context window" with inputs AGENTS.md, SKILL.md, Wiki, and gh feeding Always use / Never do, Spec workflow, Past decision history, and Repo search; Slack, docs/architecture.md, and Task / intent / specification also feed in](photos_20261103-100806.png)
+
+10:08:41 - Different colored ![Slide titled "Context window" in dark and purple tags, with AGENTS.md, SKILL.md, Wiki, and gh feeding Always use / Never do, Spec workflow, Past decision history, and Repo search; Slack, docs/architecture.md, and Task / intent / specification also feed in](photos_20261103-100841.png)
+
+10:09:03 - ![Two comparison cards. Left, purple tags AGENTS.md, SKILL.md, docs/arch.md: "Deliberately authored", "Versioned (and tested)". Right, dark tags Wiki, Slack, gh: "Assembled at task time", "Connects agent to the environment"](photos_20261103-100903.png)
+
+10:10:33 - Purple is deliberate. Black is ephemeral. Both are context. LHS is reusable - conventions, norms. RHS - custom, volitile.
+
+10:10:51 - LHS Codified. RHS Ambient.
+
+10:13:58 - ![Slide titled "The Context delivery life cycle" with a "Codified" tag, showing a cycle of Generate, Distribute, Observe, Evaluate beside a video still titled "Context is the New Code", and four boxes: Generate (how to write skills), Evaluate (skill evals), Distribute (skill registries, plugins, descriptions), Observe (analyse agent traces, learn from errors)](photos_20261103-101358.png)
+
+10:14:31 - somebody dew-bwah.
+
+10:15:52 - To evaluate and observe, we need to know what good looks like. Quote ACM article. Forsgren. ![Slide titled "The goal: High quality context" with an ACM Queue research article card, "CAFE(S): Your Agent Is Only As Good As Its Context", beside five tiles: C Clarity, A Actionability, F Fidelity, E Efficiency, and S Security](photos_20261103-101552.png) Clarity. Actionability. Fidelity. Efficiency. Security.
+
+10:17:37 - We're doing this now via MCP servers.
+
+10:18:52 - open the *.app link so I can see the main stage list of speakers and times
+
+10:19:29 - Recently moved to Canada to join "Unblocked" company. ![Schedule app card marked NOW for 10:05 to 10:35, TALK, "Context != Context: One Window, Different Lifecycles" by Birgitta Boeckeler, room 52A](photos_20261103-101929.png)
+
+10:20:34 - Add. Do not correct or modify. I'll make it consistent tomorrow.
+
+10:21:03 - Add <https://www.linkedin.com/in/birgittaboeckeler/> to Birgitta Boeckler in the people table.
+
+10:21:11 - <https://www.linkedin.com/in/birgittaboeckeler/>
+
+10:22:57 - What are gold documents? What are gold answers?
+
+10:24:23 - Agent is answering my questins. It should be LOGGING my comments. How to flip/flop between logging mode and interaction mode?
+
+10:26:09 - Stay in log mode. Fuck the /log/chat custom shit.
+
+10:26:17 - Stay in log mode. Fuck the /log/chat custom shit.
+
+10:27:31 - Take-away -- This is classical meta-cognition. Thinking about thinking. What do systems know? How can they act? How do they interact. Think. Learn. Tune it.
+
+10:29:04 - How to deliver *ambient* content? Some say it's hard. But it's engineering broken down to small pieces.
+
+10:30:40 - Add guidance to CLAUDE.md for a note-taking feature that logs user text with timestamp but does not submit it to claude as a prompt. Suggest a way for a new agent to take this role.
+
+10:31:14 - Add guidance to CLAUDE.md for a note-taking feature that logs user text with timestamp but does not submit it to claude as a prompt. Suggest a way for a new agent to take this role.
+
+10:32:44 - What does this mean? [Image #1]
+
+10:33:16 - What should we do. Ask questions. Think outloud. Maybe in slack so agent and people can BOTH see it.
+
+10:33:20 - What does this mean? [Image #1]
+
+10:33:50 - I'm stuck in a loop. How to prevent this? [Image #2]
+
+10:34:01 - I'm stuck in a loop. How to prevent this? [Image #2]
+
 ## 11:05 - Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Teams - Alan Braun
 
 ## 11:45 - Building When Code is Cheap and Your Time is Not - Aidan Cunniffe
