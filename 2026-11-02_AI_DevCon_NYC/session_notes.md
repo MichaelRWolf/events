@@ -71,7 +71,17 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 09:58:21 - [Image #7] -- And do OCR to add Elon quotes to end of Keynote (Guy Po) session. commit and push
 
-## 10:05 - Agent Platforms for Inventing Agents - Ryan Lopopolo
+10:04:20 - My take-aways from keynote. Build skills, loops, factories. It's how I've always worked. Learn. Play/experiment. Notice patterns. Optomize automatable parts. Scale (if needed). 2) Factory is the product. Feels like how I process data munging. Focus on the filters, automate them, rerun when they chage. Don't change data. Change filters.
+
+## 10:05 - Context != Context: One Window, Different Lifecycles - Birgitta Boeckeler
+
+10:05:51 - Start Brigita Beckler - Deeper cut on context engineering. It's 10:05. Readjust session_notes headers to get the right speaker and title. Future notes go in the 10:05 session of @session_notes.md
+
+10:06:40 - ![Speaker standing on a dark stage in a plaid shirt, with a projected slide titled "What is 'context'" and a "window: 36% left (171k" counter](photos_20261103-100640.png)
+
+10:07:12 - ![Speaker standing on a dark stage in a plaid shirt, with a projected slide titled "What is 'context'" and a "window: 36% left (171k" counter](photos_20261103-100640.png)
+
+10:07:51 - stage. commit. "Correct the main stage agenda" is good starter message.
 
 ## 11:05 - Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Teams - Alan Braun
 

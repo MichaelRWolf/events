@@ -2,6 +2,10 @@
 
 Top-posting: newest photos first, directly under this heading.
 
+## 2026-11-03 10:06 EST
+
+![Speaker in plaid shirt on stage beside a slide titled "What is context" with a context window meter reading 36% left (171k)](photos_20261103-100644.png)
+
 ## 2026-11-03 09:55 EST
 
 ![Tessl promo: up to $500 in credits, $500 for in-person AI DevCon attendees and $200 for virtual attendees, with a QR code to tessl.io/signup](photos_20261103-095525.png)
