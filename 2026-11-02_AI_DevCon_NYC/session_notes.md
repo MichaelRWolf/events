@@ -2,6 +2,8 @@
 
 ## 09:20 - Building a software factory you can trust. - Guy Podjarny
 
+18:05:14 - ![Schedule app card marked 09:20 to 09:50, KEYNOTE, "Building a software factory you can trust." by Guy Podjarny, room 52A](images/photos_20261103-180514.png)
+
 09:21:04 - Is this the best model for this task? I don't need lots of thinking... just capture notes. Prompt with "Next session note?..."
 
 09:21:44 - ![Slide reading "Next up: AI DevCon London", 7 to 8 June 2027, London and virtual, with a luma.com link](images/photos_20261103-092148.png)
@@ -9,6 +11,8 @@
 09:21:53 - ![Slide reading "Next up: AI DevCon London", 7 to 8 June 2027, London and virtual, with a luma.com link](images/photos_20261103-092159.png)
 
 ## 09:22 - Announcements - Simon Maple
+
+18:05:13 - ![Schedule app card marked 09:00 to 09:20, TALK, "Welcome to AI DevCon" by Simon Maple, room 52A](images/photos_20261103-180513.png)
 
 09:23:09 - 9:22 - "Introduce my boss -- Guy Po". Founder of Tessl. Previously snyk. Previously Blaze. Guy Podjarny.
 
@@ -473,6 +477,8 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 ## 17:00 - The Future of AI-Powered Factories - Steve Yegge
 
+18:05:15 - ![Schedule app card marked 17:00 to 17:30, KEYNOTE, "The Future of AI-Powered Factories" by Steve Yegge, room 52A](images/photos_20261103-180515.png)
+
 17:02:15 - Introducing Steve Yegge now.  Book signing lat year.  GasTown.  Beads.
 
 17:03:05 - Pets versus cattle.
@@ -574,3 +580,5 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 17:46:33 - A - Moving to ward wanting them to communicate.   Patterns re-emerge.  Org structures.  Daily meetings.
 
 17:46:39 - 37 watching now.
+
+17:58:42 - The day is all over.  I will take some time to create some take-aways before I ask you do read my notes.
