@@ -47,6 +47,10 @@ A three-day conference focused on agentic coding and AI-native development. The 
 - Sam Hepburn
 - Tom Dowler
 
+### Organizers
+
+- Simon Maple
+
 ### Presenters
 
 - Llewellyn Falco
