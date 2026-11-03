@@ -177,7 +177,63 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 11:35:31 - More context is not better.  Connected context IS.
 
+11:42:44 - Next session is Aidan.  We're on break.
+
 ## 11:45 - Building When Code is Cheap and Your Time is Not - Aidan Cunniffe
+
+11:46:50 - Aiden started git.ai at this conference.  OpenAI bought it 1 month ago.  TY to all who picked up project.
+
+11:46:50 - ![Conference slide titled "Building when code is cheap" with speaker Aidan Cunniffe, Member of Product Staff, OpenAI, and a headshot](images/photos_20261103-114650.png)
+
+11:47:02 - ![Slide with the heading "Alt title:" and the text "🚨🚨 the software factory is inside the house!" beside colorful geometric shapes](images/photos_20261103-114702.png)
+
+11:47:12 - ![Speaker in a denim shirt and lanyard holding a microphone on stage, beside a screen partly reading "servation #1" and "are built and deployed differently"](images/photos_20261103-114712.png)
+
+11:47:29 - Citizen devs are living in the future.
+
+11:48:04 - Auth is outside the app (at another layer).
+
+11:49:14 - Cloud Agent + Dev Environments  != OOTB (Out Of THe Box) Factory
+
+11:49:14 - ![Slide titled "Observation #2" reading "We got Cloud Agents / Dev Environments" and "...still no OOTB software factory"](images/photos_20261103-114914.png)
+
+11:49:27 - ![Slide titled "Observation #3" reading "Code Review is still the bottleneck."](images/photos_20261103-114927.png)
+
+11:40:55 - ![Schedule app card marked NEXT for 11:45 to 12:15, TALK, "Building When Code is Cheap and Your Time is Not" by Aidan Cunniffe, room 52A](images/photos_20261103-114055.png)
+
+11:51:15 - Step back.  What is goal of SW Factory?  (He talks to lots of CTOs)  Follow-up.
+
+11:51:45 -- Goals.   F/U - Review this!!!
+
+11:51:45 - ![Slide titled "Goals of the Software Factory" listing: faster time to market; do more, take bets that never made sense; enable non-technical roles (PMs, designers, the CTO, etc) to contribute code safely; give agents the grunt work (patches, upgrades, etc)](images/photos_20261103-115145.png)
+
+11:52:27 - LHS done.  RHS needs work.  HOW is being built.  WHAT could use some attention (i.e. opportunity)
+
+11:52:27 - ![Two-column slide. Left, labeled HOW, "Dev Infra": Cloud Agents, Dev Environments, Code Review Agents, Incident Response Agents, Skills, @mention @assign triggers. Right, labeled WHAT, "App Platform": Libraries, Design Systems, Workflow Engines, Data access + query layer, AuthN + AuthZ, Audit Logging](images/photos_20261103-115227.png)
+
+11:52:59 - Refactoring got cheaper.  Abstractions got cheaper.
+
+11:53:54 - He's building the library first.  Design-first development.  This gets faster time to market.
+
+11:54:45 - Take more (smaller) bets --
+
+11:54:45 - ![Line chart over time, black background. A green "Build platforms" curve starts high, drops steeply, then flattens low. An orange "Slop cannon" curve starts low and rises slowly. The curves cross early on.](images/photos_20261103-115445.png)
+
+11:55:48 - Big Tech built platforms -
+
+11:55:48 - ![Slide titled "Big tech builds internal platforms" showing Google Zanzibar (authorization), Meta TAO (social graph), Uber Michelangelo (machine learning), Netflix EVCache (distributed caching), and LinkedIn Kafka (event streaming)](images/photos_20261103-115548.png)
+
+11:59:42 - Enable non-technical roles to contribute code.
+
+12:02:00 - Amazon's 2002 API mandate.  ... or you will be fired.   Didn't have time to do it then.  THinks it will become way of working.
+
+12:02:27 - Maybe factory is the interfaces we've been making along the way.
+
+12:02:34 - TODO - git.ai
+
+12:03:52 - <https://www.linkedin.com/in/acunniffe/>
+
+12:05:47 - Takeaway - Citizen deveoper is living in the future.  Look for ways to support them.
 
 ## 12:25 - Building a harness that keeps up with the latest models - Nicolas Carmont Zaragoza
 
