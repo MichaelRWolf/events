@@ -2,6 +2,14 @@
 
 Top-posting: newest photos first, directly under this heading.
 
+## 2026-11-03 09:55 EST
+
+![Tessl promo: up to $500 in credits, $500 for in-person AI DevCon attendees and $200 for virtual attendees, with a QR code to tessl.io/signup](photos_20261103-095525.png)
+
+## 2026-11-03 09:43 EST
+
+![Sponsor logos on a dark banner, including Tessl, MLH, LaunchDarkly, Snyk, CodeRabbit, Autonomy AI, Port, Cockroach Labs, dash0, and codeplain](photos_20261103-094324.png)
+
 ## 2026-11-03 09:26 EST
 
 ![Speaker in dark shirt at a podium, with a slide reading "production incidents" and "(Stripe)" behind him](photos_20261103-092607.png)
