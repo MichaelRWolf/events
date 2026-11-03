@@ -237,7 +237,59 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 ## 12:25 - Building a harness that keeps up with the latest models - Nicolas Carmont Zaragoza
 
+12:27:13 - [Image #1]
+
+12:27:43 - [Image #2]
+
+12:28:05 - [Image #3]
+
+12:29:31 - Not taking is broken.
+
+12:31:13 - Notes are working for text.
+
+12:31:31 - ![Speaker at a podium holding a microphone and gesturing on a dark stage, with a projected slide behind him reading "Hard to tell which model..." and "Harness", beside a conference podium marked aiDevCon](images/photos_20261103-123131.png)
+
+12:32:13 - ![Schedule app card marked NOW for 12:25 to 12:55, TALK, "Building a harness that keeps up with the latest models" by Nicolas Carmont Zaragoza, room 52A](images/photos_20261103-123213.png)
+
+12:35:55 - Problem -- Verify was mentioned all over the place.  Opus starts focusing on verification.  Makes old guidance to be duplicated now.  Makes iti cheaper once de-duped.
+
+12:37:29 - As models advance, old habits are inhibiting.  Bit rot is faster.  It's about harness, not the code itself.
+
+12:38:48 - Model bakes in best practices.  Can prune to 20% of previous prompt.  Manager should say WHAT and let employee do HOW.  Unharness!
+
+12:40:45 - Verbosity increases contradictions.  KISS.  Transcripts are wasted on which to obey (e.g. running full tests).  CLAUDE.md and AGENT.md files can be (surprisingly) lean.
+
+12:41:00 - ![Slide titled "02 · Un-harnessing" reading "Six published changes. All of them: simplify." with a table of six rows, each crossing out an old practice and replacing it: explicit rules for every case to let the model use its judgement, examples of how to use tools to design the tools and interfaces, load all context up front to load context when needed, explicit verification instructions to remove them since the model self-checks, "Think carefully" in a chat system prompt to let effort control thinking, and keep last model's effort setting to re-sweep effort per model](images/photos_20261103-124100.png)
+
+12:41:33 - Examples may be helpful.  They may also be biasing.
+
+12:45:30 - Add loop to prune.  Like refactoring.  Get it right; get it small.   Look for "/goal"
+
+12:45:30 - ![Slide titled "Unharnessing SDLC: Un-harness, re-baseline, re-harness, ship" with four numbered steps: 1 Un-harness, 2 Re-baseline (run your evals, sweep effort levels, track cost and latency), 3 Re-harness (add what the new model can now see, like a checklist or time budget), 4 Ship (once evals hold), with a bar reading "Revise your evals every loop", "Read the transcripts", and "Repeat at every model launch"](images/photos_20261103-124530.png)
+
+12:46:38 - "We are in an era where intelligance scales".
+
+12:46:38 - ![Slide titled "03 · The loop · Re-baseline" reading "Evals let you move to a new model in days, not weeks." with a box reading "Start small: 20-50 tasks from real failures" and three points: grade the outcome, not the steps; track cost and latency, not only pass rate; read the transcripts](images/photos_20261103-124638.png)
+
+12:47:24 - Outcomes, not steps.
+
+12:47:38 - Read the transcripts.  Models vent when goal is impossible.
+
+12:48:15 - ![Slide titled "03 · The loop · Worked example" reading "Opus 5 → Opus 5.5" with a note that existing Claude Opus 5 prompts should perform well without changes, so the list is optional tuning. A Remove panel lists "Remove instructions that stood in for thinking", "Think carefully" lines in chat system prompts, and scaffolding for visual inputs if a re-test shows you no longer need it. An Add panel lists a checklist the model updates on long runs, a time budget for multi-agent work if you can estimate one, and enough max_tokens for thinking and the reply](images/photos_20261103-124815.png)
+
+12:50:16 - 1. How would you test correctness after removing 80% of prompt (like Claude did).  3 - Adding ability to vent was helpful (by reading transcripts)
+
+12:50:16 - ![Slide titled "03 · The loop · Work in progress" reading "3 questions I ask:" with three cards: 01 How efficiently can I A/B test a harness change? 02 Which parts of my harness are temporary? 03 What are the model transcripts saying about your eval and harness? Footer quote: "we ran more ablations (removing lines from the system prompt to understand the impact of each line)" - Anthropic Engineering, Apr 2026](images/photos_20261103-125016.png)
+
+12:51:24 - Takeaway - POV (scientist vs engineering).  Look at what to take away, not just what to add.
+
+12:54:57 - Take away - There is a job for moving from model to model.
+
 ## 12:55 - 🥪 Lunch
+
+12:56:12 - Traits of engineer and scientist.  Engineering (optomize for X).  When you remove 80%, you have to think differently.  Engineer develops by hand.  Scientist looks to outcomes.
+
+12:57:23 - 61 watching at lunch break.
 
 ## 13:55 - Security in GitHub Agentic Workflows - Landon Cox
 
