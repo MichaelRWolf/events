@@ -291,7 +291,33 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 12:57:23 - 61 watching at lunch break.
 
+13:16:07 - We're on lunch break.
+
+13:20:06 - So far... nobody I'm dying to talk to.  That's a signal.  Glad I didn't get up at 4:00 to catch a train to be in the room.  Working on 2 monitors with 2 AI's helping is a good practice.
+
 ## 13:55 - Security in GitHub Agentic Workflows - Landon Cox
+
+14:07:10 - ![Schedule app card marked NOW for 13:55 to 14:25, TALK, "Security in GitHub Agentic Workflows" by Landon Cox, room 52A](images/photos_20261103-140710.png)
+
+14:07:36 - Let slop into the repo, then spend tech debt budget to get it out.  Cheaper than keeping it out.
+
+14:11:21 - ![Slide with three columns: "Zero-secret agents" (compiler/sandboxing, instantiate secure architecture, agent runs in a sandbox, auth tokens reside in proxies), "Control untrusted reads" (integrity filtering, low-integrity data is unsafe and wasteful, filter low-integrity data by default, based on Information Flow Control (IFC)), and "Audit all writes" (safe outputs, writes can go wrong, stage all updates, inspect before applying)](images/photos_20261103-141121.png)
+
+14:12:25 - If agents go off rails: 1) Cannot expose secrets.  3) Agents are read-only.  Writes are buffered then audited later.
+
+14:15:02 - Invested lots of time for logging and observability.  Inputs.  Agent calls.  Network firewall.  Token spend.....  Good for debugging and token optomizing.  All inputs (prompts, skills, etc...) are technical debt (AKA technical TODO that can be invested or ignored).
+
+14:17:20 - Safe outputs -> Filter by policy -> Apply writes
+
+14:17:42 - TODO - REview gh.io they are an open source platform.
+
+14:20:59 - TODO - Quick look around gh.io.  Connect with Landon Cox.
+
+14:27:04 - "We are active online.  Best way to interact is via issues."
+
+14:27:18 - gh.io/gh-aw
+
+14:29:33 - TODO: Note to Landan Cox -- What do you learn by watching what your "safe outputs" try to change that's rejected by the filter policy?
 
 ## 14:35 - An Architectural Approach to Regenerative Software - Chad Fowler
 

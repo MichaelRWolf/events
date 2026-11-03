@@ -91,6 +91,8 @@ No speakers were identified from MLH, Blue Bear, Snyk (Guy Podjarny founded Snyk
 
 ## Related Events
 
+Series listings on Luma: <https://luma.com/ainativedev>.
+
 ### This Event: AI DevCon NYC (Nov 2-4, 2026)
 
 Tessl-run, three days, in person plus a free Nov 3 virtual stream. 66 speakers, 5 conference tracks, 4 workshop tracks, Agentic Genius Bar, expo hall, unconference sessions, party. Theme: moving from individual coding agents to trustworthy "software factories." Call for speakers asked for practical experience ("what you tried, what worked, what failed") and excluded product pitches.
@@ -101,7 +103,7 @@ Same series, same venue (Industry City), hosts Sam Hepburn and Simon Maple. Day 
 
 ### AI Native DevCon London (Jun 1-2, 2026)
 
-The Brewery, London. Hybrid. Per Tessl's sponsorship prospectus: 500+ developers onsite, 3.2k+ virtual; 40+ talks. Recordings on YouTube. Opening keynote by Guy Podjarny.
+The Brewery, London. Hybrid. Per Tessl's sponsorship prospectus: 500+ developers onsite, 3.2k+ virtual; 40+ talks. Recordings on YouTube at <https://www.youtube.com/@tessl-ai>. Opening keynote by Guy Podjarny.
 
 ### Other AI developer events in NYC (not Tessl)
 
