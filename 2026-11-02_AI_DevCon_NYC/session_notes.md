@@ -141,6 +141,8 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 10:53:44 - We are on a break.  It is 10:53.
 
+11:00:55 - We are still on a coffee break
+
 ## 11:05 - Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Teams - Alan Braun
 
 ## 11:45 - Building When Code is Cheap and Your Time is Not - Aidan Cunniffe
