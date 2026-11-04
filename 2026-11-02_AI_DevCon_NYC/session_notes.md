@@ -1,5 +1,11 @@
 # Session Notes
 
+## 09:00 - Announcements - Simon Maple
+
+## ![Schedule app card marked 09:00 to 09:20, TALK, "Welcome to AI DevCon" by Simon Maple, room 52A](images/photos_20261103-213702.png)
+
+Blah blah.
+
 ## 09:20 - Building a software factory you can trust. - Guy Podjarny
 
 18:05:14 - ![Schedule app card marked 09:20 to 09:50, KEYNOTE, "Building a software factory you can trust." by Guy Podjarny, room 52A](images/photos_20261103-180514.png)
@@ -9,10 +15,6 @@
 09:21:44 - ![Slide reading "Next up: AI DevCon London", 7 to 8 June 2027, London and virtual, with a luma.com link](images/photos_20261103-092148.png)
 
 09:21:53 - ![Slide reading "Next up: AI DevCon London", 7 to 8 June 2027, London and virtual, with a luma.com link](images/photos_20261103-092159.png)
-
-## 09:22 - Announcements - Simon Maple
-
-18:05:13 - ![Schedule app card marked 09:00 to 09:20, TALK, "Welcome to AI DevCon" by Simon Maple, room 52A](images/photos_20261103-180513.png)
 
 09:23:09 - 9:22 - "Introduce my boss -- Guy Po". Founder of Tessl. Previously snyk. Previously Blaze. Guy Podjarny.
 

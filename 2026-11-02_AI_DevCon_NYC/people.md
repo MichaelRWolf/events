@@ -4,38 +4,142 @@ Tuesday entries follow the session they speak in. Session IDs match `sessions.md
 
 ## Tuesday
 
-| Name                     | Company                        | Title                                              | LinkedIn                                                                                               | Session                  | Session ID                   |
-|--------------------------|--------------------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------|------------------------------|
-| Simon Maple              | Tessl                          | Developer Relations                                | <https://www.linkedin.com/in/simonmaple/>                                                              | Tuesday 09:00 Virtual    | tue-0900-virtual-maple       |
-| Guy Podjarny             | Tessl                          | Founder & CEO                                      | <https://www.linkedin.com/in/guypo/>                                                                   | Tuesday 09:20 Virtual    | tue-0920-virtual-podjarny    |
-| Mashrur Hossain          |                                | Applied AI Engineering - Codex                     |                                                                                                        | Tuesday 10:05 Leadership | tue-1005-leadership-hossain  |
-| James Moss               | Tessl                          | Member of Technical Staff                          |                                                                                                        | Tuesday 10:05 Tools      | tue-1005-tools-moss          |
-| Birgitta Boeckeler       | Unblocked                      |                                                    | <https://www.linkedin.com/in/birgittaboeckeler/>                                                       | Tuesday 10:05 Virtual    | tue-1005-virtual-boeckeler   |
-| Ryan Lopopolo            | Google                         |                                                    |                                                                                                        | Tuesday 10:05 Virtual    | tue-1005-virtual-lopopolo    |
-| Massimo Re Ferre'        | AWS                            | Senior Principal Product Manager                   |                                                                                                        | Tuesday 11:05 Leadership | tue-1105-leadership-ferre    |
-| Geoffrey Huntley         |                                | Creator of the Ralph Loop                          |                                                                                                        | Tuesday 11:05 Tools      | tue-1105-tools-huntley       |
-| Alan Braun               | Atlassian                      | VP of Product, Ecosystem, AI & Developer Platforms | <https://www.linkedin.com/in/alandbraun/>                                                              | Tuesday 11:05 Virtual    | tue-1105-virtual-braun       |
-| Valerio Panzica          | Booking.com                    |                                                    |                                                                                                        | Tuesday 11:45 Leadership | tue-1145-leadership-panzica  |
-| Chris Poulter            | useruleus.dev                  | Founder                                            |                                                                                                        | Tuesday 11:45 Tools      | tue-1145-tools-poulter       |
-| Aidan Cunniffe           | OpenAI                         | Member of Product Staff; Creator of Git AI         | <https://www.linkedin.com/in/acunniffe/>                                                               | Tuesday 11:45 Virtual    | tue-1145-virtual-cunniffe    |
-| Paul Duvall              | Redacted Ventures              | Founder                                            |                                                                                                        | Tuesday 12:25 Leadership | tue-1225-leadership-duvall   |
-| Ahmed E. Hassan          | Queen's University             |                                                    |                                                                                                        | Tuesday 12:25 Tools      | tue-1225-tools-hassan        |
-| Nicolas Carmont Zaragoza | Anthropic                      | Member of Technical Staff                          | <https://www.linkedin.com/in/ncarmont/>                                                                | Tuesday 12:25 Virtual    | tue-1225-virtual-zaragoza    |
-| Nicholas Arcolano        | Jellyfish                      | Head of AI & Research                              |                                                                                                        | Tuesday 13:55 Leadership | tue-1355-leadership-arcolano |
-| Shivam Jindal            | SpaceXAI                       |                                                    |                                                                                                        | Tuesday 13:55 Tools      | tue-1355-tools-jindal        |
-| Landon Cox               | Microsoft (GitHub)             |                                                    | <https://www.linkedin.com/in/landon-cox-6727363/>                                                      | Tuesday 13:55 Virtual    | tue-1355-virtual-cox         |
-| Patrick Debois           | Tessl                          |                                                    |                                                                                                        | Tuesday 14:35 Leadership | tue-1435-leadership-debois   |
-| Fernanda Graciolli       | Midspiral                      | Co-founder                                         |                                                                                                        | Tuesday 14:35 Tools      | tue-1435-tools-graciolli     |
-| Nada Amin                | Harvard University / Midspiral | Associate Professor; Co-founder                    |                                                                                                        | Tuesday 14:35 Tools      | tue-1435-tools-graciolli     |
-| Chad Fowler              | BlueYard                       | CTO & GP                                           | <https://www.linkedin.com/in/fowlerchad/>                                                              | Tuesday 14:35 Virtual    | tue-1435-virtual-fowler      |
-| Dan Lorenc               | Chainguard                     | Founder and CEO                                    |                                                                                                        | Tuesday 15:15 Leadership | tue-1515-leadership-lorenc   |
-| Joseph Katsioloudes      |                                | AI Leader; Tech Speaker in 25 countries            |                                                                                                        | Tuesday 15:15 Tools      | tue-1515-tools-katsioloudes  |
-| Peyton Montei            | Entire                         |                                                    |                                                                                                        | Tuesday 15:15 Tools      | tue-1515-tools-katsioloudes  |
-| Cornelia Davis           | Temporal Technologies          | Builder, Teacher, Change Junky                     | <https://www.linkedin.com/in/corneliadavis/> <https://www.linkedin.com/company/temporal-technologies/> | Tuesday 15:15 Virtual    | tue-1515-virtual-davis       |
-| Rob Zuber                |                                | CTO                                                |                                                                                                        | Tuesday 16:15 Leadership | tue-1615-leadership-zuber    |
-| Alex Gavrilescu          | Funstage GmbH                  | Lead Backend and Web Developer                     |                                                                                                        | Tuesday 16:15 Tools      | tue-1615-tools-gavrilescu    |
-| Bartosz Ocytko           | Zalando                        | Executive Principal Engineer                       | <https://www.linkedin.com/in/bartoszocytko/>                                                           | Tuesday 16:15 Virtual    | tue-1615-virtual-ocytko      |
-| Steve Yegge              | Gas Town                       | Creator of Gas Town                                | <https://www.linkedin.com/in/steveyegge/>                                                              | Tuesday 17:00 Virtual    | tue-1700-virtual-yegge       |
+### Virtual (main stage)
+
+- Simon Maple
+  - Tessl (Developer Relations)
+  - <https://www.linkedin.com/in/simonmaple/>
+  - [9:00 Welcome to AI DevCon](session_notes.md#0900---announcements---simon-maple)
+
+- Guy Podjarny
+  - Tessl (Founder & CEO)
+  - <https://www.linkedin.com/in/guypo/>
+  - [9:20 Building a software factory you can tr…](session_notes.md#0920---building-a-software-factory-you-can-trust---guy-podjarny)
+
+- Birgitta Boeckeler
+  - Unblocked
+  - <https://www.linkedin.com/in/birgittaboeckeler/>
+  - [10:05 Context != Context: One Window, Differ…](session_notes.md#1005---context--context-one-window-different-lifecycles---birgitta-boeckeler)
+
+- Ryan Lopopolo
+  - Google
+  - 10:05 Agent Platforms for Inventing Agents (no notes)
+
+- Alan Braun
+  - Atlassian (VP of Product, Ecosystem, AI & Developer Platforms)
+  - <https://www.linkedin.com/in/alandbraun/>
+  - [11:05 Models Alone Aren't Enough: Engineerin…](session_notes.md#1105---models-alone-arent-enough-engineering-context-as-a-graph-for-human--agent-teams---alan-braun)
+
+- Aidan Cunniffe
+  - OpenAI (Member of Product Staff; Creator of Git AI)
+  - <https://www.linkedin.com/in/acunniffe/>
+  - [11:45 Building When Code is Cheap and Your T…](session_notes.md#1145---building-when-code-is-cheap-and-your-time-is-not---aidan-cunniffe)
+
+- Nicolas Carmont Zaragoza
+  - Anthropic (Member of Technical Staff)
+  - <https://www.linkedin.com/in/ncarmont/>
+  - [12:25 Building a harness that keeps up with…](session_notes.md#1225---building-a-harness-that-keeps-up-with-the-latest-models---nicolas-carmont-zaragoza)
+
+- Landon Cox
+  - Microsoft (GitHub)
+  - <https://www.linkedin.com/in/landon-cox-6727363/>
+  - [13:55 Security in GitHub Agentic Workflows](session_notes.md#1355---security-in-github-agentic-workflows---landon-cox)
+
+- Chad Fowler
+  - BlueYard (CTO & GP)
+  - <https://www.linkedin.com/in/fowlerchad/>
+  - [14:35 An Architectural Approach to Regenerat…](session_notes.md#1435---an-architectural-approach-to-regenerative-software---chad-fowler)
+
+- Cornelia Davis
+  - Temporal Technologies (Builder, Teacher, Change Junky)
+  - <https://www.linkedin.com/in/corneliadavis/> <https://www.linkedin.com/company/temporal-technologies/>
+  - [15:15 Your Agent Just Wrote a Tool--and Ran…](session_notes.md#1515---your-agent-just-wrote-a-tool--and-ran-it-you-need-more-than-a-sandbox---cornelia-davis)
+
+- Bartosz Ocytko
+  - Zalando (Executive Principal Engineer)
+  - <https://www.linkedin.com/in/bartoszocytko/>
+  - [16:15 Scaling Agentic Engineering at Zalando](session_notes.md#1615---scaling-agentic-engineering-at-zalando---bartosz-ocytko)
+
+- Steve Yegge
+  - Gas Town (Creator of Gas Town)
+  - <https://www.linkedin.com/in/steveyegge/>
+  - [17:00 The Future of AI-Powered Factories](session_notes.md#1700---the-future-of-ai-powered-factories---steve-yegge)
+
+### Leadership
+
+- Mashrur Hossain
+  - (Applied AI Engineering - Codex)
+  - 10:05 Beyond the Pilot: Enabling AI Coding i… (no notes)
+
+- Massimo Re Ferre'
+  - AWS (Senior Principal Product Manager)
+  - 11:05 From individual coding tools to develo… (no notes)
+
+- Valerio Panzica
+  - Booking.com
+  - 11:45 From AI Coding to the Agentic SDLC: Bo… (no notes)
+
+- Paul Duvall
+  - Redacted Ventures (Founder)
+  - 12:25 Who Gets the Keys? Trust and Authority… (no notes)
+
+- Nicholas Arcolano
+  - Jellyfish (Head of AI & Research)
+  - 13:55 Botsitting Doesn't Scale: How to Navig… (no notes)
+
+- Patrick Debois
+  - Tessl
+  - 14:35 1,000 Coding Agents, One Main: Leading… (no notes)
+
+- Dan Lorenc
+  - Chainguard (Founder and CEO)
+  - 15:15 Coming soon (no notes)
+
+- Rob Zuber
+  - (CTO)
+  - 16:15 Why Your CTO Is Suddenly Writing Code (no notes)
+
+### Tools
+
+- James Moss
+  - Tessl (Member of Technical Staff)
+  - 10:05 Dealing with Agentic Coding Risk: What… (no notes)
+
+- Geoffrey Huntley
+  - (Creator of the Ralph Loop)
+  - 11:05 Hack the planet? Patch the planet. (no notes)
+
+- Chris Poulter
+  - useruleus.dev (Founder)
+  - 11:45 Did It Actually Improve the Software F… (no notes)
+
+- Ahmed E. Hassan
+  - Queen's University
+  - 12:25 The Tool Got Smarter. Did You? (no notes)
+
+- Shivam Jindal
+  - SpaceXAI
+  - 13:55 How SpaceXAI Uses Cursor (no notes)
+
+- Fernanda Graciolli
+  - Midspiral (Co-founder)
+  - 14:35 Minimize Review and Increase Trust: A… (no notes)
+
+- Nada Amin
+  - Harvard University / Midspiral (Associate Professor; Co-founder)
+  - 14:35 Minimize Review and Increase Trust: A… (no notes)
+
+- Joseph Katsioloudes
+  - (AI Leader; Tech Speaker in 25 countries)
+  - 15:15 Rebuilding the Software Lifecycle for… (no notes)
+
+- Peyton Montei
+  - Entire
+  - 15:15 Rebuilding the Software Lifecycle for… (no notes)
+
+- Alex Gavrilescu
+  - Funstage GmbH (Lead Backend and Web Developer)
+  - 16:15 In the loop, not in the dark: staying… (no notes)
 
 ## Roles
 
