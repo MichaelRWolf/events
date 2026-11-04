@@ -1,0 +1,231 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Podjarny;Guy;;;
+FN:Guy Podjarny
+ORG:Tessl
+TITLE:Founder & CEO
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/guypo/
+NOTE:AI DevCon NYC, Tue 09:20 Keynote: Building a software factory you can trust.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Maple;Simon;;;
+FN:Simon Maple
+ORG:Tessl
+TITLE:Developer Relations
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/simonmaple/
+NOTE:AI DevCon NYC, Tue 09:00 Welcome to AI DevCon (announcements)
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Lopopolo;Ryan;;;
+FN:Ryan Lopopolo
+ORG:Google
+NOTE:AI DevCon NYC, Tue 10:05 Agent Platforms for Inventing Agents
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Hossain;Mashrur;;;
+FN:Mashrur Hossain
+TITLE:Applied AI Engineering - Codex
+NOTE:AI DevCon NYC, Tue 10:05 Beyond the Pilot: Enabling AI Coding in Regulated Enterprises
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Moss;James;;;
+FN:James Moss
+ORG:Tessl
+TITLE:Member of Technical Staff
+NOTE:AI DevCon NYC, Tue 10:05 Dealing with Agentic Coding Risk: What Breaks Going From 1 Agent to 10
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Braun;Alan;;;
+FN:Alan Braun
+ORG:Atlassian
+TITLE:VP of Product\, Ecosystem\, AI & Developer Platforms
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/alandbraun/
+NOTE:AI DevCon NYC, Tue 11:05 Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Teams
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Re Ferre';Massimo;;;
+FN:Massimo Re Ferre'
+ORG:AWS
+TITLE:Senior Principal Product Manager
+NOTE:AI DevCon NYC, Tue 11:05 From individual coding tools to development coding platforms
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Huntley;Geoffrey;;;
+FN:Geoffrey Huntley
+TITLE:Creator of the Ralph Loop
+NOTE:AI DevCon NYC, Tue 11:05 Hack the planet? Patch the planet.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Cunniffe;Aidan;;;
+FN:Aidan Cunniffe
+ORG:OpenAI
+TITLE:Member of Product Staff\; Creator of Git AI
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/acunniffe/
+NOTE:AI DevCon NYC, Tue 11:45 Building When Code is Cheap and Your Time is Not
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Panzica;Valerio;;;
+FN:Valerio Panzica
+ORG:Booking.com
+NOTE:AI DevCon NYC, Tue 11:45 From AI Coding to the Agentic SDLC: Booking.com's Journey Toward Autonomous Software Delivery
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Poulter;Chris;;;
+FN:Chris Poulter
+ORG:useruleus.dev
+TITLE:Founder
+NOTE:AI DevCon NYC, Tue 11:45 Did It Actually Improve the Software Factory?
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Carmont Zaragoza;Nicolas;;;
+FN:Nicolas Carmont Zaragoza
+ORG:Anthropic
+TITLE:Member of Technical Staff
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/ncarmont/
+NOTE:AI DevCon NYC, Tue 12:25 Building a harness that keeps up with the latest models
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Duvall;Paul;;;
+FN:Paul Duvall
+ORG:Redacted Ventures
+TITLE:Founder
+NOTE:AI DevCon NYC, Tue 12:25 Who Gets the Keys? Trust and Authority in Software Factories
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Hassan;Ahmed E.;;;
+FN:Ahmed E. Hassan
+ORG:Queen's University
+NOTE:AI DevCon NYC, Tue 12:25 The Tool Got Smarter. Did You?
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Cox;Landon;;;
+FN:Landon Cox
+ORG:Microsoft (GitHub)
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/landon-cox-6727363/
+NOTE:AI DevCon NYC, Tue 13:55 Security in GitHub Agentic Workflows
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Arcolano;Nicholas;;;
+FN:Nicholas Arcolano
+ORG:Jellyfish
+TITLE:Head of AI & Research
+NOTE:AI DevCon NYC, Tue 13:55 Botsitting Doesn't Scale: How to Navigate the Autonomy-Trust Gridlock in Real Engineering Orgs
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Jindal;Shivam;;;
+FN:Shivam Jindal
+ORG:SpaceXAI
+NOTE:AI DevCon NYC, Tue 13:55 How SpaceXAI Uses Cursor
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Fowler;Chad;;;
+FN:Chad Fowler
+ORG:BlueYard
+TITLE:CTO & GP
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/fowlerchad/
+NOTE:AI DevCon NYC, Tue 14:35 An Architectural Approach to Regenerative Software
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Debois;Patrick;;;
+FN:Patrick Debois
+ORG:Tessl
+NOTE:AI DevCon NYC, Tue 14:35 1,000 Coding Agents, One Main: Leading the Shift to Concurrent Delivery
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Graciolli;Fernanda;;;
+FN:Fernanda Graciolli
+ORG:Midspiral
+TITLE:Co-founder
+NOTE:AI DevCon NYC, Tue 14:35 Minimize Review and Increase Trust: A Verification-Aware Process for Agentic Programming
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Amin;Nada;;;
+FN:Nada Amin
+ORG:Harvard University / Midspiral
+TITLE:Associate Professor\; Co-founder
+NOTE:AI DevCon NYC, Tue 14:35 Minimize Review and Increase Trust: A Verification-Aware Process for Agentic Programming
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Davis;Cornelia;;;
+FN:Cornelia Davis
+ORG:Temporal Technologies
+TITLE:Builder\, Teacher\, Change Junky
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/corneliadavis/
+NOTE:AI DevCon NYC, Tue 15:15 Your Agent Just Wrote a Tool--and Ran It. You Need More than a Sandbox.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Lorenc;Dan;;;
+FN:Dan Lorenc
+ORG:Chainguard
+TITLE:Founder and CEO
+NOTE:AI DevCon NYC, Tue 15:15 Coming soon (leadership track)
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Katsioloudes;Joseph;;;
+FN:Joseph Katsioloudes
+TITLE:AI Leader\; Tech Speaker in 25 countries
+NOTE:AI DevCon NYC, Tue 15:15 Rebuilding the Software Lifecycle for Coding Agents and Humans
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Montei;Peyton;;;
+FN:Peyton Montei
+ORG:Entire
+NOTE:AI DevCon NYC, Tue 15:15 Rebuilding the Software Lifecycle for Coding Agents and Humans
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Ocytko;Bartosz;;;
+FN:Bartosz Ocytko
+ORG:Zalando
+TITLE:Executive Principal Engineer
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/bartoszocytko/
+NOTE:AI DevCon NYC, Tue 16:15 Scaling Agentic Engineering at Zalando
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Zuber;Rob;;;
+FN:Rob Zuber
+TITLE:CTO
+NOTE:AI DevCon NYC, Tue 16:15 Why Your CTO Is Suddenly Writing Code
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Gavrilescu;Alex;;;
+FN:Alex Gavrilescu
+ORG:Funstage GmbH
+TITLE:Lead Backend and Web Developer
+NOTE:AI DevCon NYC, Tue 16:15 In the loop, not in the dark: staying in control in the era of dark software factories
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Yegge;Steve;;;
+FN:Steve Yegge
+ORG:Gas Town
+TITLE:Creator of Gas Town
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/steveyegge/
+NOTE:AI DevCon NYC, Tue 17:00 Keynote: The Future of AI-Powered Factories
+END:VCARD
