@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Event Folder
 
-This folder holds Michael's notes for AI DevCon NYC: Monday Nov 2 workshops, Tuesday Nov 3 and Wednesday Nov 4 conference, at Industry City, Brooklyn. Michael attends on the free Nov 3 virtual ticket, main stage only. Event notes, speakers, and sponsors live in `event_notes.md`, `speakers_and_sessions.md`, and `organizations.vcf`. Times in this folder are Eastern.
+This folder holds Michael's notes for AI DevCon NYC: Monday Nov 2 workshops, Tuesday Nov 3 and Wednesday Nov 4 conference, at Industry City, Brooklyn. Michael attends on the free Nov 3 virtual ticket, main stage only. Event notes live in `event_notes.md`. People, sessions, and organizations live in `people.md`, `sessions.md`, and `organizations.md`. Times in this folder are Eastern.
 
 This is a standalone event directory. It does not share conventions or content with other event folders, so treat it on its own terms.
 
