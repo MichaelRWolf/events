@@ -23,7 +23,7 @@ Tuesday entries follow the session they speak in. Session IDs match `sessions.md
 
 - Ryan Lopopolo
   - Google
-  - 10:05 Agent Platforms for Inventing Agents (no notes)
+  - 10:05 Agent Platforms for Inventing Agents (no-show, no notes)
 
 - Alan Braun
   - Atlassian (VP of Product, Ecosystem, AI & Developer Platforms)

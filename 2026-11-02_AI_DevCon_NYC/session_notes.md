@@ -81,9 +81,11 @@ Elon Musk quotes (OCR of [Image #7], a search-summary screenshot; not verified a
 
 ## 10:05 - Context != Context: One Window, Different Lifecycles - Birgitta Boeckeler
 
+21:49:02 - ![Schedule app showing three 10:05 to 10:35 talks: "Dealing with Agentic Coding Risk: What Breaks Going From 1 Agent to 10" by James Moss in The Landing Lower Level, "Beyond the Pilot: Enabling AI Coding in Regulated Enterprises" by Mashrur Hossain in The Landing Ground Floor, and "Context != Context: One Window, Different Lifecycles" by Birgitta Boeckeler in room 52A](images/photos_20261103-214902.png)
+
 10:19:29 - ![Schedule app card marked NOW for 10:05 to 10:35, TALK, "Context != Context: One Window, Different Lifecycles" by Birgitta Boeckeler, room 52A](images/photos_20261103-101929.png)
 
-10:05:51 - Start Brigita Beckler - Deeper cut on context engineering. It's 10:05. Readjust session_notes headers to get the right speaker and title. Future notes go in the 10:05 session of @session_notes.md
+10:05:51 - Start Birgitta Boeckeler - Deeper cut on context engineering. It's 10:05. Readjust session_notes headers to get the right speaker and title. Future notes go in the 10:05 session of @session_notes.md
 
 10:06:40 - ![Speaker standing on a dark stage in a plaid shirt, with a projected slide titled "What is 'context'" and a "window: 36% left (171k" counter](images/photos_20261103-100640.png)
 

@@ -16,7 +16,7 @@ Tuesday sessions have IDs that join to `people.md`. Track labels match the sched
 | Session ID                 | Time      | Title                                                                              | Speaker                  |
 |----------------------------|-----------|------------------------------------------------------------------------------------|--------------------------|
 | tue-0900-virtual-maple     | Tue 09:00 | Welcome to AI DevCon                                                               | Simon Maple              |
-| tue-1005-virtual-lopopolo  | Tue 10:05 | Agent Platforms for Inventing Agents                                               | Ryan Lopopolo            |
+| tue-1005-virtual-lopopolo  | Tue 10:05 | Agent Platforms for Inventing Agents (no-show)                                     | Ryan Lopopolo            |
 | tue-1005-virtual-boeckeler | Tue 10:05 | Context != Context: One Window, Different Lifecycles                               | Birgitta Boeckeler       |
 | tue-1105-virtual-braun     | Tue 11:05 | Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Teams | Alan Braun               |
 | tue-1145-virtual-cunniffe  | Tue 11:45 | Building When Code is Cheap and Your Time is Not                                   | Aidan Cunniffe           |
@@ -26,7 +26,7 @@ Tuesday sessions have IDs that join to `people.md`. Track labels match the sched
 | tue-1515-virtual-davis     | Tue 15:15 | Your Agent Just Wrote a Tool--and Ran It. You Need More than a Sandbox.            | Cornelia Davis           |
 | tue-1615-virtual-ocytko    | Tue 16:15 | Scaling Agentic Engineering at Zalando                                             | Bartosz Ocytko           |
 
-Birgitta Boeckeler (10:05) is not on the schedule page; the schedule page lists Ryan Lopopolo at this time. You attended her talk on main stage, streamed right after the keynote.
+Ryan Lopopolo was scheduled for 10:05 (schedule page) but is not in the schedule app's 10:05 slot, and did not appear; Birgitta Boeckeler spoke in this slot on main stage, streamed right after the keynote. Birgitta is not on the schedule page.
 
 ## Tuesday other tracks
 
