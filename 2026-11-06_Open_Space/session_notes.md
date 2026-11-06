@@ -2,19 +2,45 @@
 
 11:07:56 - ![Open Space Marketplace schedule grid with time slots down the rows and colored track columns from Red to Beyond](images/photos_20261106-110756.png)
 
-| Time (ET)   | Mountain    | Red                                                                                | Orange                                              | Yellow                                                              | Green                                                | Light Blue                                          | Blue                                                         | Purple                                                                                       | Pink | White        | Beyond |
-|-------------|-------------|------------------------------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------|------|--------------|--------|
-| 10:00-10:45 | 8:00-8:45   | Intro and Marketplace (all tracks)                                                 |                                                     |                                                                     |                                                      |                                                     |                                                              |                                                                                              |      |              |        |
-| 11:00-11:45 | 9:00-9:45   | Creating a culture of sustainable pace - Jon Turner                                |                                                     |                                                                     |                                                      |                                                     | The ever-shift left desire vs cognative load balance         |                                                                                              |      |              |        |
-| 11:45-12:00 | 9:45-10:00  | Break (all tracks)                                                                 |                                                     |                                                                     |                                                      |                                                     |                                                              |                                                                                              |      |              |        |
-| 12:00-12:45 | 10:00-10:45 |                                                                                    | Managing/leading in time of crisis - Michael Warren | What does engineering leadership look like in 3-5 years? Brice Ruth | Books / Continuing Education - Dave Adsit - Rose Rey |                                                     |                                                              |                                                                                              |      |              |        |
-| 12:45-1:45  | 10:45-11:45 | Lunch & Games (all tracks)                                                         |                                                     |                                                                     |                                                      |                                                     |                                                              |                                                                                              |      | Games at 1pm |        |
-| 1:45-2:30   | 11:45-12:30 |                                                                                    | Evidence-based adoption of AI - Michael Petrovich   |                                                                     |                                                      | Thoughts on Modern AI - Alex Thurow                 | Building/Replacing PERSONAL Tools - Will Munn                |                                                                                              |      |              |        |
-| 2:30-2:45   | 12:30-12:45 | Break (all tracks)                                                                 |                                                     |                                                                     |                                                      |                                                     |                                                              |                                                                                              |      |              |        |
-| 2:45-3:30   | 12:45-1:30  | To buy or to build - How is not hate your job - How to not slow down - Joe Ridgley |                                                     |                                                                     |                                                      | No Silver Bullet to AI - A Reflection - Alex Thurow |                                                              | Is 50% time on Agentic Learning crazy? - Mike Clement                                        |      |              |        |
-| 3:30-3:45   | 1:30-1:45   | Break (all tracks)                                                                 |                                                     |                                                                     |                                                      |                                                     |                                                              |                                                                                              |      |              |        |
-| 3:45-4:30   | 1:45-2:30   |                                                                                    |                                                     |                                                                     | Mentorship - Kelly Gaines                            |                                                     | Augmented coding in the forest and the desert - Mike Clement | Self-regulating, self-managing, self-directed organizations (partly illegible) - Woody Zuill |      |              |        |
-| 4:30-5:00   | 2:30-3:00   | Reflection and Closing Circle (all tracks)                                         |                                                     |                                                                     |                                                      |                                                     |                                                              |                                                                                              |      |              |        |
+10:00 - All tracks - no speaker listed - Intro and Marketplace
+
+11:00 - Red - Jon Turner - Creating a culture of sustainable pace
+
+11:00 - Blue - no speaker listed - The ever-shift left desire vs cognative load balance
+
+11:45 - All tracks - no speaker listed - Break
+
+12:00 - Orange - Michael Warren - Managing/leading in time of crisis
+
+12:00 - Yellow - Brice Ruth - What does engineering leadership look like in 3-5 years?
+
+12:00 - Green - Dave Adsit, Rose Rey - Books / Continuing Education
+
+12:45 - All tracks - no speaker listed - Lunch & Games (Games at 1pm in White)
+
+1:45 - Orange - Michael Petrovich - Evidence-based adoption of AI
+
+1:45 - Light Blue - Alex Thurow - Thoughts on Modern AI
+
+1:45 - Blue - Will Munn - Building/Replacing PERSONAL Tools
+
+2:30 - All tracks - no speaker listed - Break
+
+2:45 - Red - Joe Ridgley - To buy or to build - How is not hate your job - How to not slow down
+
+2:45 - Light Blue - Alex Thurow - No Silver Bullet to AI - A Reflection
+
+2:45 - Purple - Mike Clement - Is 50% time on Agentic Learning crazy?
+
+3:30 - All tracks - no speaker listed - Break
+
+3:45 - Green - Kelly Gaines - Mentorship
+
+3:45 - Blue - Mike Clement - Augmented coding in the forest and the desert
+
+3:45 - Purple - Woody Zuill - Self-regulating, self-managing, self-directed organizations (partly illegible)
+
+4:30 - All tracks - no speaker listed - Reflection and Closing Circle
 
 Grid: <https://app.gather.town/app/5GMBVJOcKR5UhiT7/EL%20Summit>
 
