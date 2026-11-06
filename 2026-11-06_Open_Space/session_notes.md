@@ -66,6 +66,8 @@ The ever-shift left desire vs cognative load balance
 
 11:10:27 - ![Blue room video call grid of 20 participants, most with camera on, some with video paused and avatar tiles](images/photos_20261106-111027.png)
 
+Names on the grid: Michael, Schwa, Dave Adsit, Joe Ridgley, Michael van den Berg, Joseph Walker, Andy Enkeboll, Will Munn, Daniel Dzubow, Mike Clement, Philip Clark, Rose Rey, Glade Pinnock, Megan, Andrew Beyer, Amy Dredge, Lilac Mohr, Sean Williams, and Ryan Bouche.
+
 11:13:50 - David Adsit - What is cargo cult of shift left?  Is there still a DBA?  Handoffs....  Shift left was attempt to address problem of handoff and context loss.  Embrace that there is always a bottleneck.
 
 11:16:11 - Joseph Walker -- Has always been small group.  More hats, not more people/roles.
@@ -217,3 +219,52 @@ Names on the grid: Michael Wolf, Farzaneh, Brice Ruth, Michael Petrovich, Kelly 
 14:45:43 - Review commits.  Extract qualities of code.  Write future code similarly.  "Give me video of this feature working".  IoT.  Simulators of features working (or not).  Video proves that it had to write code, test it, understand it.
 
 14:45:55 - Overnight dark factories.
+
+## 14:45 - Purple - Mike Clement
+
+Is 50% time on Agentic Learning crazy?
+
+14:50:12 - ![Video call grid of about 22 participants, most with camera on, some with avatar tiles, and a game-world map along the bottom](images/photos_20261106-145012.png)
+
+Names on the grid: Michael Wolf, Farzaneh, Megan, Michael Warren, Mike Clement, Richard Dunlap, Michael van den Berg, Andy Enkeboll, Kelly Gaines, Chris Lucian, Glade Pinnock, Chuck, Andrew Beyer, Amy Dredge, Philip Clark, Woody Zuill, Rose Rey, Pete Skelly, Ben Greer, Fanny Chen, Alex Musliner, and Mike Marshall. Partly visible label at the middle: Alex Thurow.
+
+14:54:52 - Mike Clement - Around the room -- WHat do you want from this session.
+
+14:55:56 - Amy Dredge - Chris dropped 50% mandate for learning.  Maybe Amy is on Hunter team.
+
+14:57:31 - Glade Pinnock - AI interruption has changed job interaction.  More siloed.  Step back from product to process.
+
+14:57:56 - ![Video call grid of about 24 participants, most with camera on, some with avatar tiles, and a game-world map along the bottom](images/photos_20261106-145756.png)
+
+Names on the grid: Michael Wolf, Farzaneh, Mike Clement, Richard Dunlap, Michael van den Berg, Andy Enkeboll, Kelly Gaines, Chris Lucian, Glade Pinnock, Chuck, Andrew Beyer, Amy Dredge, Philip Clark, Woody Zuill, Rose Rey, Pete Skelly, Mike Marshall, Joseph Walker, Brice Ruth, Megan, Ben Greer, Michael Warren, Fanny Chen, and Tung Chan. Partly visible label at the middle: Alex Thurow.
+15:01:02 - Chris Lucian - My ears are burning.
+
+15:01:25 - Brice - What kinds of scaffolding are put around it.
+
+15:03:32 - Stopped around the table at 3:03
+
+15:09:49 - Chris - DORA metrics.  Product Owner happiness.  Developer happiness.  Regular happiness measurements.  Listen to concerns (i.e. data center concerns -> local models).  Higher-level learning is valuable.  Good time to increase learning.  At a good time to take time to sharpen your axe.  Take 50% of time to learn.  Rare open window to learn.  (Did not take bait to give people answer for how to learn)!!!
+
+15:10:01 - Q - How do folks structure learning now?
+
+15:10:16 - A - 10% learning time.  Unstructured.
+
+15:10:51 - A - Chuck - 1 hr/day individual learning.  Weekly at higher level.
+
+15:18:24 - A - Megan - Weekly mob learning (e.g agentic) is peer learning.
+
+15:19:07 - Brice Ruth - (Get in touch) - Is 4 hr/day of 16 hr/day awake the right investment in a career?  catastrophism vs evolutionist
+
+15:23:36 - Chris - socio-technical space -- amplifies beaurocracies.  Causal Loops.  Other practices.  Even more important now than before.
+
+15:24:52 - Mike - Everyone is trying to use it, whether effective or not.  TODO - connect and ask about where "everyone is trying it at the same time".
+
+15:31:17 - Woody - Peter principle.  ... rise to level of incompetence (and stop) or to growing edge (and continue)?  TODO - create post for this
+
+15:33:46 - Joseph Walker - F/U regarding how people gain proficiency (or not).
+
+15:34:11 - Michael Warren - Has been manager a bunch of times.  Wants to grow team.
+
+15:38:13 - 5/25 people are CTO, CIO, Engineering Manager.
+
+15:38:38 - Woody asserted that "those who make decisions" are managers.  Debate.
