@@ -4,7 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Event Folder
 
-This folder holds Michael's notes for Open Space on November 6, 2026. Event notes live in `event_notes.md`. The schedule grid and live notes live in `session_notes.md`. People, sessions, and organizations live in `people.md`, `sessions.md`, and `organizations.md`. Screenshots live in `images/`. Times in `session_notes.md` are Eastern; the schedule grid also has a Mountain column.
+This folder holds Michael's notes for Open Space on November 6, 2026. Event notes live in `event_notes.md`. The schedule grid and live notes live in `session_notes.md`. People, sessions, and organizations live in `people.md`, `sessions.md`, and `organizations.md`. Screenshots live in `images/`. Times are Eastern.
+
+The schedule is one line per session at the top of `session_notes.md`, in the form `HH:MM - Track - Speaker - Title`. The newest schedule image is the source of truth; when it conflicts with the schedule lines, update the lines to match the image.
 
 There is no build, lint, or test tooling here beyond the repo-level pre-commit checks in `../CLAUDE.md`.
 
@@ -16,7 +18,7 @@ There is no build, lint, or test tooling here beyond the repo-level pre-commit c
 
 ## Note Format
 
-- Session headings: `## HH:MM - <session title> - <speaker>`. An entry goes under the latest heading whose start time is at or before the entry's time. Entries before the first heading go above it.
+- Session headings: `## HH:MM - Track - Speaker`, with the session title on the line below the heading. An entry goes under the latest heading whose start time is at or before the entry's time. Entries before the first heading go above it.
 - Pasted images: save each one in `images/` as `photos_YYYYMMDD-HHMMSS.png`, using the paste time. Log it as one line under the heading whose start time is at or before the paste time: `HH:MM:SS - ![alt text](images/photos_YYYYMMDD-HHMMSS.png)`. Alt text describes what is visible; do not name a person unless the name is confirmed.
 - Keep the wording as written. Do not correct or modify entries.
 - A note-taking agent only logs. It does not answer the prompts it records. Role rules bind only the agent that has taken the role; the default Claude instance answers prompts normally.
