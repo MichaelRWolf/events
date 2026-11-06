@@ -48,11 +48,13 @@ Tuesday entries follow the session they speak in. Session IDs match `sessions.md
 - Chad Fowler
   - BlueYard (CTO & GP)
   - <https://www.linkedin.com/in/fowlerchad/>
+  - <https://github.com/chad>
   - [14:35 An Architectural Approach to Regenerat…](session_notes.md#1435---an-architectural-approach-to-regenerative-software---chad-fowler)
 
 - Cornelia Davis
   - Temporal Technologies (Builder, Teacher, Change Junky)
   - <https://www.linkedin.com/in/corneliadavis/> <https://www.linkedin.com/company/temporal-technologies/>
+  - <https://tessl.io/speaker/cornelia-davis>
   - [15:15 Your Agent Just Wrote a Tool--and Ran…](session_notes.md#1515---your-agent-just-wrote-a-tool--and-ran-it-you-need-more-than-a-sandbox---cornelia-davis)
 
 - Bartosz Ocytko
@@ -188,7 +190,7 @@ Tuesday entries follow the session they speak in. Session IDs match `sessions.md
 | Benjamin Gruenbaum | Developer @ Eon.io, Node.js maintainer and open source and people lover |                                                  |                                       |
 | Brandon Waselunk   | DevRel - Unblocked                                                      |                                                  |                                       |
 | Bruno Borges       | Product Manager, Microsoft                                              |                                                  |                                       |
-| Bryan Finster      | Principal Architect                                                     |                                                  |                                       |
+| Bryan Finster      | Principal Architect; <https://tessl.io/speaker/bryan-finster>           |                                                  |                                       |
 | Daniel Meppiel     | Software Global Black Belt @Microsoft                                   |                                                  |                                       |
 | Dru Knox           | Head of Product & Design, Tessl                                         | <https://www.linkedin.com/in/dru-knox-6b57b830/> |                                       |
 | Erik Meijer        | Dutch computer scientist and entrepreneur                               |                                                  |                                       |

@@ -26,6 +26,7 @@ A three-day conference focused on agentic coding and AI-native development. The 
 - Virtual ticket (Nov 3 main stage): <https://tessl.co/z3b>
 - YouTube live stream: <https://www.youtube.com/live/kPB9y6ZWXxk>
 - AI DevCon site: <https://aidevcon.app>
+- AI DevCon schedule: <https://www.aidevcon.app/schedule>
 - London 2026 recordings: <https://www.youtube.com/playlist?list=PLISstAySqk7KtlYPFps1ZnK9xNIMSVkDD>
 
 **Event Details:**
@@ -91,6 +92,7 @@ The Brewery, London. Hybrid. Per Tessl's sponsorship prospectus: 500+ developers
 
 - **AI DevSummit New York (Jun 9-10, 2026)** -- <https://aidevsummit.co/>. Separate organizer; ran a volunteer program (shifts Jun 8-10). Only search snippets reviewed.
 - **AI Dev (DeepLearning.AI), NYC** -- <https://ai-dev.deeplearning.ai/>. Separate organizer; the 2025 edition had a volunteer form; a 2026 NYC listing exists. Only search snippets reviewed.
+- **GenAI NY (Luma)** -- <https://luma.com/genai-ny>. Listing not reviewed; purpose and organizer unverified.
 
 ### Comparison
 
