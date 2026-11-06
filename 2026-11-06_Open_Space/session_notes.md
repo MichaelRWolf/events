@@ -159,3 +159,61 @@ Books / Continuing Education
 13:15:02 - Michael P - Great smile.  Year-over-Year values.  Compare ranges instead of values.
 
 13:16:06 - Improve system.  Distort system.  DIstort data.
+
+## 13:45 - Orange - Michael Petrovich
+
+Evidence-based adoption of AI
+
+13:48:09 - Orange - Evidence-based adoption of AI - Michael Petrovich.  Starting to take notes.
+
+13:48:43 - What problem are we trying to solve?  Not just proximate.  Underlying.  How do we know that?  What can we observe?
+
+13:49:13 - ![Video call grid of about 20 participants, most with camera on, some with avatar tiles, and a game-world map along the bottom](images/photos_20261106-134913.png)
+
+Names on the grid: Michael Wolf, Farzaneh, Brice Ruth, Michael Petrovich, Kelly Gaines, Daniel Dzubow, Kip Williams, logan davis, Rose Rey, Michael van den Berg, Schwa, Richard Dunlap, Fanny Chen, Pete Skelly, Matthew K, Ben Greer, and Lilac Mohr. Partly visible labels at the bottom edge: Dave Adsit and Tung Chan.
+
+13:50:53 - Historical - Inexperience operator.  Uses it for eerything.  Experienced operator uses it for certain problems.  (pause) run experiment < backtrack > how will we know it is accepted?  Did it change (better worse)?
+
+13:51:27 - <https://www.linkedin.com/in/mpetrovich/>
+
+13:51:43 - <https://www.linkedin.com/in/alexthurow/>
+
+13:53:47 - ThoughtWorks is evidence based approach.  DORA metrics.  Which tools are right in what areas.  There are more nuances.
+
+13:53:58 - Q - Wehre is AI being put as solution without problem?
+
+13:59:39 - Kelly - Back in the day.  Notepad.  IDE.  Refactoring tools.  Agentic tools.  Wants to get technology proficiency first.  Eperiment.  Trying to keep grounded.  Trying to understand higher level patterns.  Elevating the role.  Used to be writing a test was blocked by syntax.
+
+14:04:11 - Brice Ruth - We have tools that we've already used that won't cost millions of tokens.
+
+14:10:33 - Logan Davis - Had mechanical thiniing (ram, cpu).  Higher level now.  Abstraction.  Photography -- portrait artists out of business, now it's beyond cameras for portraits.
+
+14:13:15 - Pete Skelly - Friction is helpful.
+
+14:13:42 - Michael P - Thought experiemnt.   Rewind to 2020.  Before ChatGPT.  What were challenges were there then?
+
+14:14:52 - Is AI now addressing them?
+
+14:15:24 - Michael P was PM and EM now he's IC.
+
+14:21:06 - Farzaneh - First Q.  Before AI.  Lack of documentyation.  Tribal knowledge.  Bottleneck -- complete across board maturity.  PRs.  Unit tests.  Gaps.  But... are we shipping more frequently or more outcomes.  Seemed like Michael P knew them.
+
+14:23:07 - Kelly  - Moving beyond copy/paste of stack overflow.  But similar trust-based reuse.
+
+14:25:53 - Farzaneh - Limited tokens.  Who is using too much or too little.
+
+14:26:05 - Farzaneh seems to be know by Michael P
+
+14:36:25 - Chris Lucian - _IS_ using DORA metrics.  Farzaneh will stop by later.  DSL (domain specific language) and DORA metrics.  4-5x/day release w/ AI.  DORA metrics are heading in right direction.  Using mutation testing (determenistic).  MTTR (Mean time to recovery) - cloud watch MCP server compares to what is in flow. 8 mobbing teams.  1/2 hour through pipeline.  Rewrites through non-pythonic names.
+
+14:36:59 - Farzaneh - Asking about outcomes and customer-based metrics.  Chris does have them.
+
+14:37:55 - Followup - Contact Chris Lucian
+
+14:43:08 - Chris - Has optomized for serverless.  Some of the checks have been incorporated into determanistic testing.
+
+14:43:46 - Continuing in Orange room even though other session is starting soon.
+
+14:45:43 - Review commits.  Extract qualities of code.  Write future code similarly.  "Give me video of this feature working".  IoT.  Simulators of features working (or not).  Video proves that it had to write code, test it, understand it.
+
+14:45:55 - Overnight dark factories.
