@@ -268,3 +268,27 @@ Names on the grid: Michael Wolf, Farzaneh, Mike Clement, Richard Dunlap, Michael
 15:38:13 - 5/25 people are CTO, CIO, Engineering Manager.
 
 15:38:38 - Woody asserted that "those who make decisions" are managers.  Debate.
+
+15:51:52 - Kelly - Mentor at Cal State San Marcos.  And at Hunter.  Has CEO as mentee.
+
+15:54:59 - Are coach and mentor different?
+
+16:08:06 - Hunter has capstone project with college.
+
+16:09:22 - Get Kit Flying URL from Kelly.
+
+16:09:48 - ![Chat window showing a Peter Principle question and shared links for an agentic coding paper, a Miro board, and code-reading club resources](images/photos_20261106-160948.png)
+
+16:10:45 - FutureConSD - Yesterday.  Relies too much on security folks.
+
+16:13:29 - Farzaneh - Ignore noise.  Cenernedness.
+
+16:19:15 - Kelly - Find th e4 kinds:  Champion, Coach, ....
+
+16:26:32 - Pasted chat links - Chris Lucian (3:54 PM): <https://missing.csail.mit.edu/2026/agentic-coding/> | Michael Petrovich (3:59 PM, Woody): <https://miro.com/app/board/uXjVERWNjbM=/> | Chris Lucian (4:00 PM): <https://trello.com/c/TTlSpj09/449-code-reading-club-read-code-together-and-talk-about-what-you-see>  <https://codereading.club/>  <https://github.com/CodeReadingClubs/Resources>  <https://github.com/ChrisLucian/SpeedReader>
+
+16:28:02 - Get Farzanah intro from Kelly
+
+16:50:43 - Miro board - <https://miro.com/app/board/uXjVERWNjbM=/?moveToWidget=3458764689701072633&cot=14>
+
+16:52:15 - <https://app.gather.town/app/5GMBVJOcKR5UhiT7/EL%20Summit>
