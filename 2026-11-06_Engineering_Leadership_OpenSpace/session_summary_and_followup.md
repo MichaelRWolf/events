@@ -48,7 +48,7 @@ Evidence-based adoption of AI
 - Highlights: Michael P. is a deep thinker. Great questions that scratch through the surface to underlying problems that we can observe, not just gut react.
 - Kelly observed that she feels ungrounded because the tools are not there for situational awareness.
 - Logan Davis observed that we might be photographers who are displacing portrait artists and figuring out what photography can do beyond portraiture.
-- Follow-up: Farzaneh, on the tribal knowledge comment. Question: "Do you know Michael P.?"
+- Follow-up: Farzaneh Orak, on the tribal knowledge comment. Question: "Do you know Michael P.?"
 - It seems like AI is more than just tapping into tribal knowledge. Kelly observed we're doing trust-based reuse like we did with Stack Overflow before, and Google before. Reference Steve Yegge's progression from books to Google to Stack Overflow to agents.
 - Follow-up: Chris Lucian. It seems like he dropped the bomb about 50% learning time. He has extensive use of agents and a factory. Has not hired new graduates in a long time.
 - Chris has an interesting hack: asking the AI to create a video of this feature working. That verifies that it understands a lot of prerequisites, like requirements, and tests for those requirements. If it can make a video, it had to code it and test it and understand it. Clever and brilliant.
@@ -75,7 +75,7 @@ Mentorship
 - Follow-up: Kelly Gaines, if she is waiting for Chris to leave to move up in a flat organization. That's a geometry problem. The CEO should know, as her mentor and also as CEO, because other people are having it too.
 - Follow-up: Kelly Gaines, about kite flying.
 - Follow-up: reference FutureConSD.
-- Farzaneh ignores the noise and centers.
+- Farzaneh Orak ignores the noise and centers.
 
 ## Follow-up
 
@@ -99,14 +99,14 @@ Mentorship
 16. [ ] Will Munn -- follow up and connect; his book club: Lean Coffee, "97 Things Every Software Architect Should Know" (Green 12:30)
 17. [ ] Andy Enkeboll -- ask where boot camp instructors are now (Green 12:38)
 18. [ ] Jon Turner -- find the Megaman quotes and the story behind them (Green 12:41)
-19. [ ] Farzaneh -- follow up on the tribal knowledge comment; ask "Do you know Michael P.?" (Orange 14:21, 14:26)
+19. [ ] Farzaneh Orak -- follow up on the tribal knowledge comment; ask "Do you know Michael P.?" (Orange 14:21, 14:26)
 20. [ ] Amy Dredge -- ask who is doing 50% AI learning (Purple 14:55)
 21. [ ] Megan (last name unknown) -- I like her approach to learning (Purple 15:18, weekly mob learning)
 
 ### Ask Kelly Gaines
 
 1. [ ] Get the kite flying URL ("Kit Flying" in the notes, 16:09)
-2. [ ] Get an intro to Farzaneh (16:28)
+2. [ ] Get an intro to Farzaneh Orak (16:28)
 3. [ ] Is Hunter doing 50% learning time? (Purple)
 
 ### Write
@@ -124,4 +124,4 @@ Mentorship
 ### Tidy these notes
 
 1. [x] Add a heading for the 15:45 session attended (mentorship notes at 15:51 onward sit under the 14:45 Purple heading)
-2. [ ] Fill in last names for Chuck, Megan, Farzaneh in `people.md`
+2. [ ] Fill in last names for Chuck and Megan in `people.md`

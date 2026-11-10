@@ -18,7 +18,7 @@ Names come from the session headings and grid photos in `session_notes.md`. Link
 | Daniel Dzubow               | no       |                                                                                                  |
 | Dave Adsit                  | yes      | <https://www.linkedin.com/in/davidadsit/>                                                        |
 | Fanny Chen                  | no       |                                                                                                  |
-| Farzaneh UNKNOWN            | yes      | <https://www.linkedin.com/in/farzanehorak/>                                                      |
+| Farzaneh Orak               | yes      | <https://www.linkedin.com/in/farzanehorak/>                                                      |
 | Glade Pinnock               | no       |                                                                                                  |
 | Joe Ridgley                 | no       |                                                                                                  |
 | Jon Turner                  | yes      | <https://www.linkedin.com/in/jonathan-m-turner/>                                                 |
