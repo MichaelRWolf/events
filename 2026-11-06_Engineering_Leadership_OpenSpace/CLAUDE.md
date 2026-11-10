@@ -4,11 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Event Folder
 
-This folder holds Michael's notes for Engineering Leadership OpenSpace on November 6, 2026. Event notes live in `event_notes.md`. The schedule grid, sessions, and live notes live in `session_notes.md`, which takes the place of a sessions file. People and organizations live in `people.md` and `organizations.md`. Screenshots live in `images/`. Times are Eastern.
+This folder holds Michael's notes for Engineering Leadership OpenSpace on November 6, 2026. Event notes live in `event_notes.md`. The schedule grid images and schedule lines live in `schedule.md`, linked from the top of `session_notes.md`. Session headings and live notes live in `session_notes.md`, which takes the place of a sessions file. People and organizations live in `people.md` and `organizations.md`. Screenshots live in `images/`. Times are Eastern.
 
 This is an Open Space event with no tracks. Colors (Red, Orange, Yellow, Green, Light Blue, Blue, Purple, Pink, White, Beyond) name the parallel rooms and take the place of tracks.
 
-The schedule is one line per session at the top of `session_notes.md`, in the form `HH:MM - Color - Speaker - Title`, using 24-hour times. The newest schedule image is the source of truth; when it conflicts with the schedule lines, update the lines to match the image.
+The schedule is one line per session in `schedule.md`, in the form `HH:MM - Color - Speaker - Title`, using 24-hour times. The newest schedule image is the source of truth; when it conflicts with the schedule lines, update the lines to match the image.
 
 There is no build, lint, or test tooling here beyond the repo-level pre-commit checks in `../CLAUDE.md`.
 
