@@ -35,6 +35,7 @@ People with a LinkedIn URL in `people.md`.
 ### Kelly Gaines
 
 - [ ] Thanks for the "learning ADD" comment; a plus to Mike's book club. Glad to hear you're pulling your 15-year-old into the kind of workday discussions this group is having. (12:00 Green)
+- [ ] Trust-based reuse, like Stack Overflow and Google before; reference Steve Yegge's progression from books to Google to Stack Overflow to agents. (13:45 Orange)
 - [ ] Is Hunter doing 50% learning time? (14:45 Purple)
 - [ ] If she is waiting for Chris to leave to move up in a flat organization: that's a geometry problem. The CEO should know, as her mentor and also as CEO, because other people are having it too. (15:45 Green)
 - [ ] Kite flying; get the URL. (15:45 Green)
