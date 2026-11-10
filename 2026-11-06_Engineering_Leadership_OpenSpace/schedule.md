@@ -2,13 +2,15 @@
 
 Times are Eastern. Format: `HH:MM - Color - Speaker - Title`. The newest schedule image is the source of truth.
 
+**Bold** = attended.
+
 13:32:53 - ![Open Space schedule grid for 1:45 to 5:00 with updated sessions by track](images/photos_20261106-133253.png)
 
 11:07:56 - ![Open Space Marketplace schedule grid with time slots down the rows and colored track columns from Red to Beyond](images/photos_20261106-110756.png)
 
 10:00 - All tracks - no speaker listed - Intro and Marketplace
 
-11:00 - Red - Jon Turner - Creating a culture of sustainable pace
+**11:00 - Red - Jon Turner** - Creating a culture of sustainable pace
 
 11:00 - Blue - no speaker listed - The ever-shift left desire vs cognative load balance
 
