@@ -221,6 +221,10 @@ Names on the grid: Michael Wolf, Farzaneh, Mike Clement, Richard Dunlap, Michael
 
 15:38:38 - Woody asserted that "those who make decisions" are managers.  Debate.
 
+## 15:45 - Green - Kelly Gaines
+
+Mentorship
+
 15:51:52 - Kelly - Mentor at Cal State San Marcos.  And at Hunter.  Has CEO as mentee.
 
 15:54:59 - Are coach and mentor different?

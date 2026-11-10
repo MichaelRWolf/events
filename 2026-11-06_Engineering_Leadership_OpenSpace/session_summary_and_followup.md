@@ -58,13 +58,32 @@ Evidence-based adoption of AI
 
 Is 50% time on Agentic Learning crazy?
 
+- Follow-up: Amy Dredge, about who is doing 50% AI learning.
+- Follow-up: Mike Clement, about who is doing 50% AI learning. I joined late.
+- Chris Lucian attended because his ears were burning. Follow-up: find out why.
+- Follow-up: Mike Clement, thanking him for starting by going around the room. Great idea.
+- Chris is using DORA metrics, product owner happiness, developer happiness. Listens to concerns about data centers and is creating local models. It's a good time to increase learning while everybody is saying they don't understand.
+- Follow-up: Kelly Gaines, is Hunter doing 50% learning time?
+- Follow-up: Megan, I like her approach to learning. It seems well-grounded, at a much deeper level than the hype.
+- Idea (Chris): in the sociotechnical space, it will always amplify bureaucracies, positive or negative. Uses causal loops and other practices that are more important now than before.
+- Follow-up: Michael Warren, saw reference to wanting to grow a team.
+
+## 15:45 - Green - Kelly Gaines
+
+Mentorship
+
+- Follow-up: Kelly Gaines, if she is waiting for Chris to leave to move up in a flat organization. That's a geometry problem. The CEO should know, as her mentor and also as CEO, because other people are having it too.
+- Follow-up: Kelly Gaines, about kite flying.
+- Follow-up: reference FutureConSD.
+- Farzaneh ignores the noise and centers.
+
 ## Follow-up
 
 ### Connect (LinkedIn)
 
-1. [ ] Chris Lucian -- he dropped the bomb about 50% learning time; DORA metrics with AI, mutation testing, 8 mobbing teams, 50% learning time (Orange 14:37 "Contact Chris Lucian")
+1. [ ] Chris Lucian -- find out why his ears were burning (Purple 15:01); he dropped the bomb about 50% learning time; DORA metrics with AI, mutation testing, 8 mobbing teams, 50% learning time (Orange 14:37 "Contact Chris Lucian")
 2. [ ] Brice Ruth -- "Get in touch": is 4 hr/day of learning the right career investment; catastrophism vs evolutionist (Purple 15:19)
-3. [ ] Mike Clement -- ask about "everyone is trying it at the same time" (Purple 15:24)
+3. [ ] Mike Clement -- thanks for starting by going around the room (Purple 14:54); ask who is doing 50% AI learning (joined late); ask about "everyone is trying it at the same time" (Purple 15:24)
 4. [ ] Joseph Walker -- how people gain proficiency, or don't (Purple 15:33)
 5. [ ] Rose Rey -- thanks for mentioning "Crucial Conversations"; "Follow up to connect"; attends Ted Young's book club (Green 13:04)
 6. [ ] Matthew Knowles (Matthew K) -- avid book club person, "Contact him" (Green 12:06)
@@ -74,18 +93,21 @@ Is 50% time on Agentic Learning crazy?
 10. [ ] Schwa -- liked the quote "integrating at so many different time scales" (Red 11:39)
 11. [ ] Jon Turner -- thanks for holding the session; sorry you're frustrated with how things are; that means you're committed to making them better, a good sign; keep me in mind if you find a place, I'm looking (Red 11:00 host)
 12. [ ] Kelly Gaines -- thanks for the "learning ADD" comment; a plus to Mike's book club; glad to hear you're pulling your 15-year-old into the kind of workday discussions this group is having (Green 12:10, 12:40)
-13. [ ] Michael Warren -- liked his idea of one paragraph per day; ask what company still has 10% days; "what we do builds who we are" (Green 12:14, 13:05)
+13. [ ] Michael Warren -- liked his idea of one paragraph per day; ask what company still has 10% days; "what we do builds who we are"; saw reference to wanting to grow a team (Green 12:14, 13:05; Purple 15:34)
 14. [ ] Find Ted Young's book club (Green 12:26, via Rose Rey)
 15. [ ] Utah Software Craftsmen -- Jon Turner, Dave Adsit (Green 12:28)
 16. [ ] Will Munn -- follow up and connect; his book club: Lean Coffee, "97 Things Every Software Architect Should Know" (Green 12:30)
 17. [ ] Andy Enkeboll -- ask where boot camp instructors are now (Green 12:38)
 18. [ ] Jon Turner -- find the Megaman quotes and the story behind them (Green 12:41)
 19. [ ] Farzaneh -- follow up on the tribal knowledge comment; ask "Do you know Michael P.?" (Orange 14:21, 14:26)
+20. [ ] Amy Dredge -- ask who is doing 50% AI learning (Purple 14:55)
+21. [ ] Megan (last name unknown) -- I like her approach to learning (Purple 15:18, weekly mob learning)
 
 ### Ask Kelly Gaines
 
-1. [ ] Get the Kit Flying URL (16:09)
+1. [ ] Get the kite flying URL ("Kit Flying" in the notes, 16:09)
 2. [ ] Get an intro to Farzaneh (16:28)
+3. [ ] Is Hunter doing 50% learning time? (Purple)
 
 ### Write
 
@@ -101,5 +123,5 @@ Is 50% time on Agentic Learning crazy?
 
 ### Tidy these notes
 
-1. [ ] Add a heading for the 15:45 session attended (mentorship notes at 15:51 onward sit under the 14:45 Purple heading)
+1. [x] Add a heading for the 15:45 session attended (mentorship notes at 15:51 onward sit under the 14:45 Purple heading)
 2. [ ] Fill in last names for Chuck, Megan, Farzaneh in `people.md`

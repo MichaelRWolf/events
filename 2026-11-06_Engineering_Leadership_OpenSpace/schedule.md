@@ -34,13 +34,13 @@ Times are Eastern. Format: `HH:MM - Color - Speaker - Title`. The newest schedul
 
 14:45 - Light Blue - Alex Thurow - No Silver Bullet to AI - A Reflection
 
-14:45 - Purple - Mike Clement - Is 50% time on Agentic Learning crazy?
+**14:45 - Purple - Mike Clement** - Is 50% time on Agentic Learning crazy?
 
 15:30 - All tracks - no speaker listed - Break
 
 15:45 - Red - Andrew Beyer - What is "Junior" today -- Evaluating/Hiring/Training junior staff
 
-15:45 - Green - Kelly Gaines - Mentorship
+**15:45 - Green - Kelly Gaines** - Mentorship
 
 15:45 - Blue - Mike Clement - Augmented coding in the forest and the desert
 
