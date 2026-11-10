@@ -50,7 +50,7 @@ Mike, thanks for hosting "Is 50% time on Agentic Learning crazy?" and for starti
 
 Will, I enjoyed hearing about your learning group at Friday's Open Space: Lean Coffee and "97 Things Every Software Architect Should Know". I'd like to stay connected.
 
-### Matthew Knowles
+### Matthew Knowles <https://www.linkedin.com/in/matthewyknowles/>
 
 Matthew, I heard at Friday's Engineering Leadership Open Space that you're an avid book club person. I'd like to compare notes on book clubs: which ones are you in, and how do they run?
 
@@ -58,19 +58,19 @@ Matthew, I heard at Friday's Engineering Leadership Open Space that you're an av
 
 Style: quick phrases, not a curated paragraph. Limit: 200 characters.
 
-### Amy Dredge
+### Amy Dredge <https://www.linkedin.com/in/amy-dredge-0983a82b/>
 
 Amy - good seeing you at Leadership Open Space. Your take on 50% learning time - nice. Let's connect. Where do you learn and network?
 
 [133 characters]
 
-### Andy Enkeboll
+### Andy Enkeboll <https://www.linkedin.com/in/enkeboll/>
 
 Andy - good seeing you at Leadership Open Space. Curious where boot camp instructors are now. Let's connect. Where do you learn and network?
 
 [140 characters]
 
-### Brice Ruth
+### Brice Ruth <https://www.linkedin.com/in/brice-ruth-446ba02/>
 
 Brice - good seeing you at Leadership Open Space. Your 4-hours-a-day learning question - still chewing on it. Let's connect. Where do you learn and network?
 
@@ -88,7 +88,7 @@ Megan - good seeing you at Leadership Open Space. Liked your grounded take on le
 
 [134 characters]
 
-### Rose Rey
+### Rose Rey <https://www.linkedin.com/in/rose-rey/>
 
 Rose - good seeing you at Leadership Open Space. Thanks for the Crucial Conversations tip. Let's connect. Where do you learn and network?
 
