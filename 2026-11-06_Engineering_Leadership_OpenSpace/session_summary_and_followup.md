@@ -45,6 +45,15 @@ Books / Continuing Education
 
 Evidence-based adoption of AI
 
+- Highlights: Michael P. is a deep thinker. Great questions that scratch through the surface to underlying problems that we can observe, not just gut react.
+- Kelly observed that she feels ungrounded because the tools are not there for situational awareness.
+- Logan Davis observed that we might be photographers who are displacing portrait artists and figuring out what photography can do beyond portraiture.
+- Follow-up: Farzaneh, on the tribal knowledge comment. Question: "Do you know Michael P.?"
+- It seems like AI is more than just tapping into tribal knowledge. Kelly observed we're doing trust-based reuse like we did with Stack Overflow before, and Google before. Reference Steve Yegge's progression from books to Google to Stack Overflow to agents.
+- Follow-up: Chris Lucian. It seems like he dropped the bomb about 50% learning time. He has extensive use of agents and a factory. Has not hired new graduates in a long time.
+- Chris has an interesting hack: asking the AI to create a video of this feature working. That verifies that it understands a lot of prerequisites, like requirements, and tests for those requirements. If it can make a video, it had to code it and test it and understand it. Clever and brilliant.
+- Follow-up: write a post on video-driven development. Reference Arlo Belshee, teenagers swiping left or right to test.
+
 ## 14:45 - Purple - Mike Clement
 
 Is 50% time on Agentic Learning crazy?
@@ -53,7 +62,7 @@ Is 50% time on Agentic Learning crazy?
 
 ### Connect (LinkedIn)
 
-1. [ ] Chris Lucian -- DORA metrics with AI, mutation testing, 8 mobbing teams, 50% learning time (Orange 14:37 "Contact Chris Lucian")
+1. [ ] Chris Lucian -- he dropped the bomb about 50% learning time; DORA metrics with AI, mutation testing, 8 mobbing teams, 50% learning time (Orange 14:37 "Contact Chris Lucian")
 2. [ ] Brice Ruth -- "Get in touch": is 4 hr/day of learning the right career investment; catastrophism vs evolutionist (Purple 15:19)
 3. [ ] Mike Clement -- ask about "everyone is trying it at the same time" (Purple 15:24)
 4. [ ] Joseph Walker -- how people gain proficiency, or don't (Purple 15:33)
@@ -71,6 +80,7 @@ Is 50% time on Agentic Learning crazy?
 16. [ ] Will Munn -- follow up and connect; his book club: Lean Coffee, "97 Things Every Software Architect Should Know" (Green 12:30)
 17. [ ] Andy Enkeboll -- ask where boot camp instructors are now (Green 12:38)
 18. [ ] Jon Turner -- find the Megaman quotes and the story behind them (Green 12:41)
+19. [ ] Farzaneh -- follow up on the tribal knowledge comment; ask "Do you know Michael P.?" (Orange 14:21, 14:26)
 
 ### Ask Kelly Gaines
 
@@ -80,6 +90,7 @@ Is 50% time on Agentic Learning crazy?
 ### Write
 
 1. [ ] Post on the Peter Principle: rise to level of incompetence (and stop) or to growing edge (and continue)? (Woody, 15:31 "TODO - create post")
+2. [ ] Post on video-driven development (Chris Lucian's "give me a video of this feature working", Orange 14:45); reference Arlo Belshee, teenagers swiping left or right to test
 
 ### Read
 

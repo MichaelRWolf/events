@@ -22,7 +22,7 @@ Times are Eastern. Format: `HH:MM - Color - Speaker - Title`. The newest schedul
 
 12:45 - All tracks - no speaker listed - Lunch & Games (Games at 1pm in White)
 
-13:45 - Orange - Michael Petrovich - Evidence-based adoption of AI
+**13:45 - Orange - Michael Petrovich** - Evidence-based adoption of AI
 
 13:45 - Yellow - Michael Warren - Managing/leading in time of crisis
 
