@@ -46,10 +46,6 @@ Creating a culture of sustainable pace
 
 11:49:33 - Session ended in Red room.
 
-## 12:00 - Yellow - Brice Ruth
-
-What does engineering leadership look like in 3-5 years?
-
 ## 12:00 - Green - Dave Adsit, Rose Rey
 
 Books / Continuing Education

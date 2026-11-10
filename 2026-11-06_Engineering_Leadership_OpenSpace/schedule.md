@@ -2,7 +2,7 @@
 
 Times are Eastern. Format: `HH:MM - Color - Speaker - Title`. The newest schedule image is the source of truth.
 
-**Bold** = attended.
+**Bold** = attended, with follow-ups done in `session_summary_and_followup.md`.
 
 13:32:53 - ![Open Space schedule grid for 1:45 to 5:00 with updated sessions by track](images/photos_20261106-133253.png)
 
@@ -18,7 +18,7 @@ Times are Eastern. Format: `HH:MM - Color - Speaker - Title`. The newest schedul
 
 12:00 - Yellow - Brice Ruth - What does engineering leadership look like in 3-5 years?
 
-12:00 - Green - Dave Adsit, Rose Rey - Books / Continuing Education
+**12:00 - Green - Dave Adsit, Rose Rey** - Books / Continuing Education
 
 12:45 - All tracks - no speaker listed - Lunch & Games (Games at 1pm in White)
 
