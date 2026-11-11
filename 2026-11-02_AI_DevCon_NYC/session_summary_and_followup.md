@@ -171,7 +171,7 @@ Your Agent Just Wrote a Tool--and Ran It. You Need More than a Sandbox.
 
 🤓 To Learn:
 
-- [ ] *Cloud Native Patterns* (Manning).
+- [ ] *Cloud Native Patterns* (Manning). See [research/research_cloud_native_patterns.md](research/research_cloud_native_patterns.md).
 - [ ] Amar Abbas, the CEO.
 - [ ] Dogwood and Cedar as policy languages.
 - [ ] "The next evolution of the Agents SDK": <https://openai.com/index/the-next-evolution-of-the-agents-sdk/> (see [research/research_openai_agents_sdk.md](research/research_openai_agents_sdk.md)).

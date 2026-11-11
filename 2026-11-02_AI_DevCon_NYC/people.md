@@ -55,6 +55,7 @@ Tuesday entries follow the session they speak in. Session IDs match `sessions.md
   - Temporal Technologies (Builder, Teacher, Change Junky)
   - <https://www.linkedin.com/in/corneliadavis/> <https://www.linkedin.com/company/temporal-technologies/>
   - <https://tessl.io/speaker/cornelia-davis>
+  - Author of [*Cloud Native Patterns*](https://www.manning.com/books/cloud-native-patterns) (Manning, 2019). See [research](research/research_cloud_native_patterns.md).
   - [15:15 Your Agent Just Wrote a Tool--and Ran…](session_notes.md#1515---your-agent-just-wrote-a-tool--and-ran-it-you-need-more-than-a-sandbox---cornelia-davis)
 
 - Bartosz Ocytko
@@ -145,68 +146,169 @@ Tuesday entries follow the session they speak in. Session IDs match `sessions.md
 
 ## Roles
 
-| Role      | Name            |
-|-----------|-----------------|
-| Host      | Sam Hepburn     |
-| Host      | Tom Dowler      |
-| Organizer | Simon Maple     |
-| Presenter | Llewellyn Falco |
-| Presenter | Ray Myers       |
+- Sam Hepburn
+  - Host
+
+- Tom Dowler
+  - Host
+
+- Simon Maple
+  - Organizer
+
+- Llewellyn Falco
+  - Presenter
+
+- Ray Myers
+  - Presenter
 
 ## Other
 
-| Name              | Details                                       | LinkedIn | Email / Phone |
-|-------------------|-----------------------------------------------|----------|---------------|
-| Alexis Roberson   | LaunchDarkly (workshop)                       |          |               |
-| Coston Perkins    | This Dot Labs (conference)                    |          |               |
-| Diane Phan        | LaunchDarkly (workshop)                       |          |               |
-| Drew Gorton       | LaunchDarkly (workshop)                       |          |               |
-| Elon Musk         | Quoted in keynote notes                       |          |               |
-| Forsgren          | Quoted in 10:15 notes; full name not recorded |          |               |
-| Jay Gordon        | Azure Cosmos DB, Microsoft (workshop)         |          |               |
-| Patrick Debois    | Tessl (leadership track)                      |          |               |
-| Peyton Montei     | Entire (workshop)                             |          |               |
-| Ryan Lopopolo     | Google (conference)                           |          |               |
-| Sam Hepburn       | Tessl                                         |          |               |
-| Sasha Varlamov    | Co-founder, Git AI                            |          |               |
-| Sawyer Hood       | Organization not listed (tools in action)     |          |               |
-| Shivam Jindal     | SpaceXAI (tools in action)                    |          |               |
-| Shrey Shah        | Microsoft (conference)                        |          |               |
-| Sudipta Mohapatra | ChartHop (conference)                         |          |               |
-| Tom Dowler        |                                               |          |               |
-| Tracy Lee         | Google (conference)                           |          |               |
-| Tsvetan Tsvetanov | Camplight (workshop)                          |          |               |
-| Valerio Panzica   | Booking.com (leadership track)                |          |               |
-| Veljko Kovac      | Cognee (conference)                           |          |               |
+- Alexis Roberson
+  - LaunchDarkly (workshop)
+
+- Coston Perkins
+  - This Dot Labs (conference)
+
+- Diane Phan
+  - LaunchDarkly (workshop)
+
+- Drew Gorton
+  - LaunchDarkly (workshop)
+
+- Elon Musk
+  - Quoted in keynote notes
+
+- Forsgren
+  - Quoted in 10:15 notes; full name not recorded
+
+- Jay Gordon
+  - Azure Cosmos DB, Microsoft (workshop)
+
+- Patrick Debois
+  - Tessl (leadership track)
+
+- Peyton Montei
+  - Entire (workshop)
+
+- Ryan Lopopolo
+  - Google (conference)
+
+- Sam Hepburn
+  - Tessl
+
+- Sasha Varlamov
+  - Co-founder, Git AI
+
+- Sawyer Hood
+  - Organization not listed (tools in action)
+
+- Shivam Jindal
+  - SpaceXAI (tools in action)
+
+- Shrey Shah
+  - Microsoft (conference)
+
+- Sudipta Mohapatra
+  - ChartHop (conference)
+
+- Tom Dowler
+
+- Tracy Lee
+  - Google (conference)
+
+- Tsvetan Tsvetanov
+  - Camplight (workshop)
+
+- Valerio Panzica
+  - Booking.com (leadership track)
+
+- Veljko Kovac
+  - Cognee (conference)
 
 ## Other days
 
-| Name               | Details                                                                 | LinkedIn                                         | Email / Phone                         |
-|--------------------|-------------------------------------------------------------------------|--------------------------------------------------|---------------------------------------|
-| Akhil Sharma       | Sr.SDE@Meta, ex-Google                                                  |                                                  |                                       |
-| Ankit Jain         | Founder & CEO, Aviator                                                  |                                                  |                                       |
-| Baruch Sadogursky  | Head of DevRel, Port.io                                                 |                                                  |                                       |
-| Ben Morss          | Developer Evangelist @ Mistral AI                                       |                                                  |                                       |
-| Benjamin Gruenbaum | Developer @ Eon.io, Node.js maintainer and open source and people lover |                                                  |                                       |
-| Brandon Waselunk   | DevRel - Unblocked                                                      |                                                  |                                       |
-| Bruno Borges       | Product Manager, Microsoft                                              |                                                  |                                       |
-| Bryan Finster      | Principal Architect; <https://tessl.io/speaker/bryan-finster>           |                                                  |                                       |
-| Daniel Meppiel     | Software Global Black Belt @Microsoft                                   |                                                  |                                       |
-| Dru Knox           | Head of Product & Design, Tessl                                         | <https://www.linkedin.com/in/dru-knox-6b57b830/> |                                       |
-| Erik Meijer        | Dutch computer scientist and entrepreneur                               |                                                  |                                       |
-| Geert Bevin        | Passion-driven software developer, designer, creator and musician       |                                                  |                                       |
-| George Fahmy       | MTS Vercel, Founder of Stakpak                                          |                                                  |                                       |
-| Hamza Oza          | Lead Designer, Tessl                                                    |                                                  |                                       |
-| Ian Johnson        | Staff Engineer, Parento                                                 |                                                  |                                       |
-| Jack Wotherspoon   | Member of Technical Staff, Google DeepMind                              |                                                  |                                       |
-| Joe Holdcroft      | Member of Technical Staff                                               |                                                  |                                       |
-| Joe Tyler          | Lead AI Researcher, Sonar                                               |                                                  |                                       |
-| Katharina Dzialets | Product Manager @ JetBrains                                             |                                                  |                                       |
-| Llewellyn Falco    | Agile Technical Coach                                                   | <https://www.linkedin.com/in/llewellynfalco/>    | <llewellyn.falco@gmail.com>           |
-| Matthias Luebken   | AI Engineer & Founder                                                   |                                                  |                                       |
-| Nandini Singhal    | Senior Software Engineer, Datadog                                       |                                                  |                                       |
-| Pari Patel         | Entrepreneur & Technologist, Building the Future of Human Intelligence  |                                                  |                                       |
-| Patrick Chanezon   | VP Developer Relations                                                  |                                                  |                                       |
-| Paul Stack         | VP Product @ Swamp Club                                                 |                                                  |                                       |
-| Ran Aroussi        | Founder, VarDos and Automaaze                                           |                                                  |                                       |
-| Ray Myers          | Coding Agent Expert, AI Critic; also on YouTube, Mender.ai              | <https://www.linkedin.com/in/cadrlife/>          | <ray.myers@gmail.com>; (573) 529-6355 |
+- Akhil Sharma
+  - Sr.SDE@Meta, ex-Google
+
+- Ankit Jain
+  - Founder & CEO, Aviator
+
+- Baruch Sadogursky
+  - Head of DevRel, Port.io
+
+- Ben Morss
+  - Developer Evangelist @ Mistral AI
+
+- Benjamin Gruenbaum
+  - Developer @ Eon.io, Node.js maintainer and open source and people lover
+
+- Brandon Waselunk
+  - DevRel - Unblocked
+
+- Bruno Borges
+  - Product Manager, Microsoft
+
+- Bryan Finster
+  - Principal Architect; <https://tessl.io/speaker/bryan-finster>
+
+- Daniel Meppiel
+  - Software Global Black Belt @Microsoft
+
+- Dru Knox
+  - Head of Product & Design, Tessl
+  - <https://www.linkedin.com/in/dru-knox-6b57b830/>
+
+- Erik Meijer
+  - Dutch computer scientist and entrepreneur
+
+- Geert Bevin
+  - Passion-driven software developer, designer, creator and musician
+
+- George Fahmy
+  - MTS Vercel, Founder of Stakpak
+
+- Hamza Oza
+  - Lead Designer, Tessl
+
+- Ian Johnson
+  - Staff Engineer, Parento
+
+- Jack Wotherspoon
+  - Member of Technical Staff, Google DeepMind
+
+- Joe Holdcroft
+  - Member of Technical Staff
+
+- Joe Tyler
+  - Lead AI Researcher, Sonar
+
+- Katharina Dzialets
+  - Product Manager @ JetBrains
+
+- Llewellyn Falco
+  - Agile Technical Coach
+  - <https://www.linkedin.com/in/llewellynfalco/>
+  - <llewellyn.falco@gmail.com>
+
+- Matthias Luebken
+  - AI Engineer & Founder
+
+- Nandini Singhal
+  - Senior Software Engineer, Datadog
+
+- Pari Patel
+  - Entrepreneur & Technologist, Building the Future of Human Intelligence
+
+- Patrick Chanezon
+  - VP Developer Relations
+
+- Paul Stack
+  - VP Product @ Swamp Club
+
+- Ran Aroussi
+  - Founder, VarDos and Automaaze
+
+- Ray Myers
+  - Coding Agent Expert, AI Critic; also on YouTube, Mender.ai
+  - <https://www.linkedin.com/in/cadrlife/>
+  - <ray.myers@gmail.com>; (573) 529-6355
