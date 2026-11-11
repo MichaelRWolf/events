@@ -84,15 +84,15 @@ Kelly,
 So many items to follow up on:
 
 - I loved your "learning ADD" metaphor.  I'm not deficient in attention.  I am multiply-interested.
-- Yes.  We are doing trust-based reuse with AI.  Steve Yegge has coined a progression something like "${level}BasedDevelopment for level in book google stackoverFlow AiAgent"
-- Glad that you're passing workplace ideas about ways of working to your 15 year-oldest
+- Yes.  We are doing trust-based reuse with AI.  Steve Yegge has coined a progression something like "${level}BasedDevelopment for level in book google stackoverFlow AiAgent".
+- Glad that you're passing workplace ideas about ways of working to your 15-year-old
 
- I missed the announcement about 50% learning time.  Was that something that Chris/Hunter recently implemented?
+I missed the announcement about 50% learning time.  Was that something that Chris/Hunter recently implemented?
 
- Please send info about Chris' kite flying.
+Please send info about Chris' kite flying.
 
- Best,
- Michael
+Best,
+Michael
 
 Message 2 (flat organization):
 
@@ -178,9 +178,9 @@ Dave - good seeing you at Leadership Open Space. Thanks for co-hosting Books / C
 
 Human-generated message
 
-Dave - good seeing you at Leadership Open Space, and holding space for session - "What are you reading/learning?"  I took a lot of ideas from it.
+Dave - good seeing you at Leadership Open Space, and holding space for the session - "What are you reading/learning?"  I took a lot of ideas from it.
 
-[145 characters]
+[149 characters]
 
 Post-connection message:
 
@@ -226,9 +226,9 @@ Matthew, I heard at Friday's Engineering Leadership Open Space that you're an av
 
 ### Megan (last name unknown)
 
-Megan - good seeing you at Leadership Open Space. Liked your grounded take on deep learning. Let's connect. Where do you learn and network?
+Megan - good seeing you at Leadership Open Space. Liked your grounded take on learning - deeper than the hype. Let's connect. Where do you learn and network?
 
-[139 characters]
+[157 characters]
 
 ### Michael Petrovich <https://www.linkedin.com/in/mpetrovich/>
 
