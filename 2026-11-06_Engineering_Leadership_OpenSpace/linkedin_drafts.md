@@ -22,7 +22,7 @@ Jon, thanks for holding the sustainable pace session on Friday. Sorry you're fru
 
 Human-generated message
 
-Jon, Thanks for holding your session at the leadership. Open space on Friday. Sorry to hear you're frustrated with how things are, but I hear that as a commitment to making things better keep at it. It means there's still work to do.  (Let me know if you find a place that needs more help than you can provide!)
+Jon, Thanks for holding your session at the Leadership Open Space on Friday. Sorry to hear you're frustrated with how things are, but I hear that as a commitment to making things better. Keep at it. It means there's still work to do.  (Let me know if you find a place that needs more help than you can provide!)
 
 Thanks for the mention of MegaMan quotes.  I keep a quotes.txt file.  Here are a few of my favorites.
 
