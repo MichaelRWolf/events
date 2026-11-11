@@ -120,7 +120,7 @@ Your Agent Just Wrote a Tool--and Ran It. You Need More than a Sandbox.
 
 Scaling Agentic Engineering at Zalando
 
-- ToDo: Look at his company. Find training. Grease. Look at the research file.
+- ToDo: Look at his company. Find training. Look at the research file.
 - ToLearn: engineering.zalando.com (see [research/research_zolando.md](research/research_zolando.md)).
 
 ## 17:00 - Steve Yegge
@@ -131,7 +131,7 @@ The Future of AI-Powered Factories
 - Observation: Pets versus cattle. Drew Knox.
 - Observation: 10,000 dollars a month on Claude Code. 22 Claude Max accounts, 100 dollars each. He's living 12 to 18 months into the future.
 - Observation: Factory is not a magic word. It's any time an agent is running. Many flavors of factory. Hippie. Control freak. Lots of types.
-- Observation: Open sourcing. Tour wheelhouse apart. Wheelhouse came after Gastown.
+- Observation: Open sourcing tore Wheelhouse apart. Wheelhouse came after Gastown.
 - Observation: "Intelligence is grown, not transplanted." This implies that wisdom is important, not data, not tools.
 - Observation: Agents talking to agents. Create their own chief of staff and executive assistants. They tend to model human structures. It's Conway's Law projected onto AI.
 - Observation: Steve Yegge thinks that there's drama. Wendy hears that as agents need something that was not provided.
@@ -151,7 +151,7 @@ The Future of AI-Powered Factories
 - ToDo: Send a link to Wendy for "Thinking, Fast and Slow."
 - ToDo: Follow up with Yegge about Netflix course.
 - ToLearn: Wheelhouse.
-- ToLearn: Racks, an Emacs interface.
+- ToLearn: Rex, an Emacs interface.
 - ToLearn: yegge.ai.
 - ToLearn: Netflix 0 to 1 identity course in 5 hours.
 
