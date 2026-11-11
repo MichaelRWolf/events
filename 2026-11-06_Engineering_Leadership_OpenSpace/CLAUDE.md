@@ -12,6 +12,21 @@ The schedule is one line per session in `schedule.md`, in the form `HH:MM - Colo
 
 There is no build, lint, or test tooling here beyond the repo-level pre-commit checks in `../CLAUDE.md`.
 
+## Follow-up Files
+
+Follow-ups flow through these files, in order. When an item changes, update it everywhere it appears.
+
+1. `session_summary_and_followup.md` -- per-session summaries, plus a master `## Follow-up` checklist at the bottom. Source of record.
+2. `followup_by_person.md` -- the same items grouped by person, split into "LinkedIn Message" (has a URL in `people.md`) and "LinkedIn Connection Request" (no URL yet).
+3. `followup_tasks.md` -- items not tied to a person: Write, Research, Read, Tidy.
+4. `linkedin_drafts.md` -- one draft per person covering all their items, plus a "LinkedIn Links by Degree" list. Split by connection degree, not by URL: 1st-degree contacts get a message; everyone else gets a connection request, with a post-connection message when there is more to say.
+5. `people.md` -- attendee table with Contacts.app status and LinkedIn URL.
+
+LinkedIn draft rules:
+
+- Connection request notes: quick phrases, not a curated paragraph, under LinkedIn's 200-character limit. Pattern: `<Name> - good seeing you at Leadership Open Space. <one hook>. Let's connect. Where do you learn and network?` followed by a `[NNN characters]` count line.
+- Each follow-up item keeps its `(HH:MM Color)` session tag so it traces back to `session_notes.md`.
+
 ## Commands
 
 - **take notes**: enter note-taking mode for the rest of the conversation. Each of Michael's messages is appended to `session_notes.md` under the current session heading, as one `HH:MM:SS - <text>` line, and is not answered. Every reply in this mode is exactly `✏️ Taking notes...` and nothing else. If a new conversation starts, the mode is off until "take notes" is said again.
