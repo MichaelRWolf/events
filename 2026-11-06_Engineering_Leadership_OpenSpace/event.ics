@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Wolf//Event Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Engineering Leadership OpenSpace
+BEGIN:VEVENT
+UID:2026-11-06-engineering-leadership-openspace@events.local
+DTSTAMP:20261111T183402Z
+DTSTART:20261106T150000Z
+DTEND:20261106T220000Z
+SUMMARY:Engineering Leadership OpenSpace
+DESCRIPTION:Online Open Space for engineering leaders in Gather town. Parallel rooms named by color (Red through Beyond). Attended sessions by Jon Turner\, Dave Adsit and Rose Rey\, Michael Petrovich\, Mike Clement\, and Kelly Gaines.\n\nhttps://elsummit.com/\nhttps://www.eventbrite.com/e/engineering-leadership-summit-fall-2026-tickets-2003370033700\nhttps://app.gather.town/app/5GMBVJOcKR5UhiT7/EL%20Summit\nhttps://miro.com/app/board/uXjVERWNjbM=/\nhttps://trello.com/b/1lfMkCOh/software-profession-resources\nhttps://www.fastagile.io/reading-list
+LOCATION:Gather town (online)
+URL:https://elsummit.com/
+END:VEVENT
+END:VCALENDAR
