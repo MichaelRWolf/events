@@ -242,9 +242,9 @@ Michael - good seeing you at Leadership Open Space. Your "no free lunch" comment
 
 Human-generated message
 
-Michael - good seeing you at Leadership Open Space. I resonated with many of your points, starting with "no free lunch".  Let's connect. Where do you learn and network?
+Michael - good seeing you at Leadership Open Space. I resonated with many of your points, starting with "no free lunch".  Let's connect. Where do you learn and network?  Best, (yet another) Michael
 
-[168 characters]
+[197 characters]
 
 Post-connection message:
 
