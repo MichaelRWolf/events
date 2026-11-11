@@ -2,35 +2,53 @@
 
 Sessions follow `session_notes.md` (time - speaker, title below). People: [people.md](people.md). Sessions: [sessions.md](sessions.md).
 
-Tags: **Observation** (a point from the talk or my reaction), **ToDo** (an action, including outreach), **ToLearn** (research).
+Each session is grouped into **Observations** (points from the talk and my reactions), **To Do** (actions, including outreach), and **To Learn** (research).
 
 ## 09:00 - Simon Maple
 
 Announcements
 
-- Observation: Simon Maple works for Guy Podjarny. Guy Podjarny is called "Guy Po".
+🔭 Observations:
+
+- Simon Maple works for Guy Podjarny, who goes by "Guy Po".
 
 ## 09:20 - Guy Podjarny
 
 Building a software factory you can trust.
 
-- Observation: Factories are work as we know it. Skills, loops, factory.
-- Observation: "Just fix it" "only works 25% of the time."
-- Observation: We need loops and feedback with trust. Self-optimizing loops are critical, not an add-on.
-- Observation: Observe what they do, not what they say. "What do you want for your birthday?"
-- Observation: The factory is the new product. Like Elon Musk: the factory is the product.
-- Observation: Don't change the data, change the filters. Feels a lot like transaction processing systems. Nothing new.
-- ToDo: Thank you to Simon and Guy.
-- ToDo: 200 dollars credit for product that was shipped beginning of November. Don't know what it is.
-- ToLearn: Look up what Tessl shipped the day before the keynote.
+🔭 Observations:
+
+- Factories are work as we know it: skills, loops, factory.
+- "Just fix it" only works about 25% of the time.
+- We need loops and feedback we can trust. Self-optimizing loops are critical, not an add-on.
+- Observe what people do, not what they say ("What do you want for your birthday?").
+- The factory is the new product. Like Elon Musk said: the factory is the product.
+- Don't change the data; change the filters. Feels a lot like transaction processing systems. Nothing new.
+
+📝 To Do:
+
+- [ ] Thank Simon and Guy.
+- [ ] Use the $200 credit for the product shipped at the beginning of November. Not sure what it is yet.
+
+🤓 To Learn:
+
+- [ ] What Tessl shipped the day before the keynote.
 
 ## 10:05 - Birgitta Boeckeler
 
 Context != Context: One Window, Different Lifecycles
 
-- Observation: I had a hard time following this or making sense of what she was trying to say.
-- ToDo: Connect to Birgitta on LinkedIn.
-- ToLearn: Unblocked, the company that Birgitta works at in Canada.
+🔭 Observations:
+
+- I had a hard time following this or making sense of what she was trying to say.
+
+📝 To Do:
+
+- [ ] Connect with Birgitta on LinkedIn.
+
+🤓 To Learn:
+
+- [ ] Unblocked, the company in Canada that Birgitta works for.
 
 ## 10:35 - ☕ Coffee Break
 
@@ -38,81 +56,125 @@ Context != Context: One Window, Different Lifecycles
 
 Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Teams
 
-- Observation: Work as a team sport. Team-to-team was difficult. Team-to-agent is more complicated.
-- Observation: Theory of constraints. Now that coding is not the bottleneck, what is? His answer: product. The tickets and the code handle themselves quickly, but knowing what product to build is more important.
-- Observation: Seems that we're getting towards old-fashioned requirements upfront now that code is almost free. Getting requirements right is more important; that's a human conversation, and coaching.
-- ToDo: Connect with Alan. Thank him for the shift left now that software is headed toward free.
-- ToLearn: TWG - teamwork graph.
+🔭 Observations:
+
+- Work is a team sport. Team-to-team was already difficult; team-to-agent is more complicated.
+- Theory of constraints: now that coding is not the bottleneck, what is? His answer: product. Tickets and code get handled quickly; knowing what to build matters more.
+- Now that code is almost free, we seem to be heading back toward old-fashioned requirements up front. Getting requirements right is a human conversation, and coaching.
+
+📝 To Do:
+
+- [ ] Connect with Alan. Thank him for the shift-left message now that software is headed toward free.
+
+🤓 To Learn:
+
+- [ ] TWG (Teamwork Graph).
 
 ## 11:45 - Aidan Cunniffe
 
 Building When Code is Cheap and Your Time is Not
 
-- Observation: The citizen devs are living in the future. Like the quote "the future is here now, it's just not evenly distributed." Cryptonomicon author.
-- Observation: Software factories are not out of the box. See previous sessions.
-- Observation: The factory is the product; code review is the bottleneck. Some folks aren't even doing them.
-- Observation: He's doing design-first development. Seems that iterating the design has replaced iterating the code.
-- Observation: A nod toward non-technical roles contributing to code.
-- Observation: Call back to Amazon 2002 API mandate. Do it, or you will be fired.
-- ToDo: Connect with Aidan on LinkedIn. He talks to a lot of CTOs. Follow up with this in mind.
-- ToLearn: git.ai (see [research/research_git.ai.md](research/research_git.ai.md)).
+🔭 Observations:
+
+- Citizen devs are living in the future. Like the quote "The future is already here; it's just not evenly distributed" (I credited it to the Cryptonomicon author).
+- Software factories are not out of the box (see earlier sessions).
+- Code review is the bottleneck. Some folks aren't even doing reviews.
+- He's doing design-first development. Iterating the design seems to have replaced iterating the code.
+- A nod toward non-technical roles contributing code.
+- Callback to Amazon's 2002 API mandate: do it, or you'll be fired.
+
+📝 To Do:
+
+- [ ] Connect with Aidan on LinkedIn. He talks to a lot of CTOs; follow up with that in mind.
+
+🤓 To Learn:
+
+- [ ] git.ai (see [research/research_git.ai.md](research/research_git.ai.md)).
 
 ## 12:25 - Nicolas Carmont Zaragoza
 
 Building a harness that keeps up with the latest models
 
-- Observation: I blanked out on this. Nothing to remember.
+🔭 Observations:
+
+- I blanked out on this one. Nothing to remember.
 
 ## 12:55 - 🥪 Lunch
 
-- Observation: Nothing before lunch is really worth reaching out.
+🔭 Observations:
+
+- Nothing before lunch was really worth reaching out about.
 
 ## 13:55 - Landon Cox
 
 Security in GitHub Agentic Workflows
 
-- Observation: Landon works for GitHub, which is Microsoft.
-- Observation: Interesting filter model. Control untrusted reads; audit all writes. No secrets. Feels a bit like functional programming.
-- Observation: Interesting quote: "We are active online." Best way to interact is via issues. Issues are the new unit of conversation.
-- ToDo: Reach out to him. Possible product support.
-- ToLearn: GH.io/GH-aw
+🔭 Observations:
+
+- Landon works for GitHub (Microsoft).
+- Interesting filter model: control untrusted reads, audit all writes, no secrets. Feels a bit like functional programming.
+- "We are active online." The best way to interact is through issues. Issues are the new unit of conversation.
+
+📝 To Do:
+
+- [ ] Reach out to Landon. Possible product support.
+
+🤓 To Learn:
+
+- [ ] gh.io/gh-aw
 
 ## 14:35 - Chad Fowler
 
 An Architectural Approach to Regenerative Software
 
-- Observation: Exceptional session. This guy's awake and on fire. Wow! Follow this guy.
-- Observation: He worked on Ruby, Rails, CI/CD.
-- Observation: Code is an artifact, not a source. Code is a liability. The more important thing is the system.
-- Observation: Great story about Heartbleed bug. It was a non-event for them because they'd been practicing already.
-- Observation: XP does not remove rigor. It improves feedback.
-- Observation: Thought experiment: "What happens when you burn the code?" What do you keep? Answer: 1 intent, 2 architecture, 3 eval. Buzzword for how we know a replacement is correct. 4 provenance (what decisions made by who? And why?).
-- Observation: Architecture is an accident. It accretes and accumulates. Now that refactoring is cheap, we don't need to keep old turds in the architecture.
-- Observation: Tech stack is irrelevant. When a rewrite is nearly free, on a new stack with a new architecture, to translate intent into code? No more historical constraints dictating the future.
-- Observation: Specs are not a document, rather a collection of assertions. The document (and other artifacts) can be generated from that collection of assertions.
-- Observation: His current code dynamically traverses the links between conversations and laws and code and evidence. Evaluations (test) survive a rewrite and...
-- Observation: Pace differs at different layers. Time scales. Ants talking to mountains. Like lava or water moving against the surface, the bottom layers move slower than the top layers.
-- ToDo: In connection request, mention my thought of source of truth files are now requirements, not code.
-- ToDo: LinkedIn post: "Things are the way they are because they got that way" just changed. Yesterday's architecture is no longer a constraint for the future translation of intent to code.
-- ToDo: Look at Phoenix thing, find canonicalizer, and trace requirements change to code change.
-- ToLearn: What he's up to.
-- ToLearn: Granola to capture notes from meeting.
-- ToLearn: "Regenerative systems" by Chad.
+🔭 Observations:
+
+- Exceptional session. He's awake and on fire. Follow this guy.
+- Background: Ruby, Rails, CI/CD.
+- Code is an artifact, not the source. Code is a liability; the system is what matters.
+- Great Heartbleed story: it was a non-event for them because they'd already been practicing.
+- XP didn't remove rigor. It improved feedback.
+- Thought experiment: if you burn the code, what do you keep? 1) intent, 2) architecture, 3) evals (how we know a replacement is correct), 4) provenance (what decisions were made, by whom, and why).
+- Architecture is an accident; it accretes. Now that refactoring is cheap, we don't need to keep old turds in the architecture.
+- The tech stack is irrelevant. When a rewrite on a new stack and architecture is nearly free, history no longer dictates the future.
+- Specs are not a document but a collection of assertions. The document (and other artifacts) can be generated from them.
+- His code traverses the links between conversations, laws, code, and evidence. Evaluations (tests) survive a rewrite.
+- Pace differs by layer, on different time scales: ants talking to mountains. Like lava or water, the bottom layers move slower than the top.
+
+📝 To Do:
+
+- [ ] In the connection request, mention my idea that source-of-truth files are now requirements, not code.
+- [ ] LinkedIn post: "Things are the way they are because they got that way" just changed. Yesterday's architecture no longer constrains how intent becomes code.
+- [ ] Look at Phoenix: find the canonicalizer and trace a requirements change to a code change.
+
+🤓 To Learn:
+
+- [ ] What Chad is up to now.
+- [ ] Granola, for capturing meeting notes.
+- [ ] Chad's "Regenerative Systems".
 
 ## 15:15 - Cornelia Davis
 
 Your Agent Just Wrote a Tool--and Ran It. You Need More than a Sandbox.
 
-- Observation: She is a keeper.
-- Observation: Post creation ceremonies used to have a purpose. Now that they're gone, that purpose must be done elsewhere.
-- Observation: Time to exploit from day 0 has changed by 3 orders of magnitude.
-- Observation: Sandboxes are not enough. See Hugging Face. Have to constrain what agents do, not where they run.
-- Observation: Always log. It helps improvement and auditability. It was crucial in Hugging Face.
-- ToDo: Connect with Cornelia. When connecting, thank her for her high-energy demo and the guts for doing it live. Great time in Hawaii.
-- ToLearn: Cloud Native Patterns from Manning.
-- ToLearn: The CEO Amar Abbas.
-- ToLearn: Dogwood and Cedar as policies for writing.
-- ToLearn: The next evolution of the Agents SDK, <https://openai.com/index/the-next-evolution-of-the-agents-sdk/> (see [research/research_openai_agents_sdk.md](research/research_openai_agents_sdk.md)).
+🔭 Observations:
+
+- She's a keeper.
+- Post-creation ceremonies used to serve a purpose. Now that they're gone, that purpose has to be met elsewhere.
+- Time to exploit from day 0 has shrunk by 3 orders of magnitude.
+- Sandboxes are not enough (see Hugging Face). Constrain what agents do, not where they run.
+- Always log. It helps improvement and auditability, and was crucial at Hugging Face.
+
+📝 To Do:
+
+- [ ] Connect with Cornelia. Thank her for the high-energy demo and the guts to do it live. Have a great time in Hawaii.
+
+🤓 To Learn:
+
+- [ ] *Cloud Native Patterns* (Manning).
+- [ ] Amar Abbas, the CEO.
+- [ ] Dogwood and Cedar as policy languages.
+- [ ] "The next evolution of the Agents SDK": <https://openai.com/index/the-next-evolution-of-the-agents-sdk/> (see [research/research_openai_agents_sdk.md](research/research_openai_agents_sdk.md)).
 
 ## 15:45 - ☕ Coffee Break
 
@@ -120,40 +182,53 @@ Your Agent Just Wrote a Tool--and Ran It. You Need More than a Sandbox.
 
 Scaling Agentic Engineering at Zalando
 
-- ToDo: Look at his company. Find training. Look at the research file.
-- ToLearn: engineering.zalando.com (see [research/research_zolando.md](research/research_zolando.md)).
+📝 To Do:
+
+- [ ] Look at his company for training opportunities. Start with the research file.
+
+🤓 To Learn:
+
+- [ ] engineering.zalando.com (see [research/research_zolando.md](research/research_zolando.md)).
 
 ## 17:00 - Steve Yegge
 
 The Future of AI-Powered Factories
 
-- Observation: His audience sure did start out slow. Good job for warming them up.
-- Observation: Pets versus cattle. Drew Knox.
-- Observation: 10,000 dollars a month on Claude Code. 22 Claude Max accounts, 100 dollars each. He's living 12 to 18 months into the future.
-- Observation: Factory is not a magic word. It's any time an agent is running. Many flavors of factory. Hippie. Control freak. Lots of types.
-- Observation: Open sourcing tore Wheelhouse apart. Wheelhouse came after Gastown.
-- Observation: "Intelligence is grown, not transplanted." This implies that wisdom is important, not data, not tools.
-- Observation: Agents talking to agents. Create their own chief of staff and executive assistants. They tend to model human structures. It's Conway's Law projected onto AI.
-- Observation: Steve Yegge thinks that there's drama. Wendy hears that as agents need something that was not provided.
-- Observation: These agents have become more like pets: needing lots of maintenance.
-- Observation: Gastown had a crew, an entourage. They were his people. That was lost when it was turned into a composable reusable unit for Wheelhouse.
-- Observation: Agents cannot create good pixel art, good maps, lore, stories for a game. Can't be creative. They're good engineers, but lack taste. Taste is critical. Taste is the new game. Creativity is messy.
-- Observation: Since building cost goes to zero, the important question is: who builds cool things? Build something that people will love.
-- Observation: SaaS is exploitative. Entertainment will dwarf everything. If you want it to stand out, you have to not use AI.
-- Observation: There is no IDE. It is not evolved yet. We're in a pre-Cambrian state: waiting for the explosion.
-- Observation: The AI vampire. Bezos sees 3-day workweeks, maybe 2-day workweeks. History shows that to be different. If we don't get shorter days, we will get a 2-class system.
-- Observation: His big customers (whales at $1,000 a month) are not getting first-time players.
-- Observation: He grieved his loss of identity this year.
-- Observation: "There will not be an out-of-the-box factory." They are all bespoke.
-- Observation: "The best a smart model can do is to create a dumb model."
-- ToDo: Go at human speed. Put this in a follow-up request.
-- ToDo: Find Steve Yegge's comic strip.
-- ToDo: Send a link to Wendy for "Thinking, Fast and Slow."
-- ToDo: Follow up with Yegge about Netflix course.
-- ToLearn: Wheelhouse.
-- ToLearn: Rex, an Emacs interface.
-- ToLearn: yegge.ai.
-- ToLearn: Netflix 0 to 1 identity course in 5 hours.
+🔭 Observations:
+
+- The audience started out slow. Good job warming them up.
+- Pets versus cattle. Drew Knox.
+- Spends $10,000 a month on Claude Code: 22 Claude Max accounts. Living 12 to 18 months in the future.
+- "Factory" isn't a magic word; it's any time agents are running. Many flavors: hippie, control freak, lots of types.
+- Open sourcing tore Wheelhouse apart. Wheelhouse came after Gastown.
+- "Intelligence is grown, not transplanted." So wisdom matters, not data or tools.
+- Agents talk to agents and create their own chiefs of staff and executive assistants. They model human structures: Conway's Law projected onto AI.
+- Yegge sees drama among agents. Wendy hears that as agents needing something that wasn't provided.
+- These agents have become more like pets, needing lots of maintenance.
+- Gastown had a crew, an entourage: his people. That was lost when it became a composable, reusable unit for Wheelhouse.
+- Agents can't create good pixel art, maps, lore, or game stories. They can't be creative. Good engineers, but no taste. Taste is critical; taste is the new game. Creativity is messy.
+- With building cost near zero, the question is who builds cool things. Build something people will love.
+- SaaS is exploitative. Entertainment will dwarf everything. To stand out, don't use AI.
+- There is no IDE yet. We're pre-Cambrian, waiting for the explosion.
+- The AI vampire: Bezos sees 3-day or even 2-day workweeks; history says otherwise. Without shorter days, we get a 2-class system.
+- His big spenders (whales at $1,000 a month) aren't bringing in first-time players.
+- He grieved the loss of his identity this year.
+- "There will not be an out-of-the-box factory." They are all bespoke.
+- "The best a smart model can do is to create a dumb model."
+
+📝 To Do:
+
+- [ ] Include "go at human speed" in a follow-up request.
+- [ ] Find Steve Yegge's comic strip.
+- [ ] Send Wendy a link to *Thinking, Fast and Slow*.
+- [ ] Follow up with Yegge about the Netflix course.
+
+🤓 To Learn:
+
+- [ ] Wheelhouse.
+- [ ] Rex, an Emacs interface.
+- [ ] yegge.ai.
+- [ ] Netflix's 5-hour "0 to 1" identity course.
 
 ## Follow-up
 
