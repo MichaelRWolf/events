@@ -1,0 +1,162 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Boeckeler;Birgitta;;;
+FN:Birgitta Boeckeler
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/birgittaboeckeler/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Braun;Alan;;;
+FN:Alan Braun
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/alandbraun/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Cox;Landon;;;
+FN:Landon Cox
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/landon-cox-6727363/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Cunniffe;Aidan;;;
+FN:Aidan Cunniffe
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/acunniffe/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Davis;Cornelia;;;
+FN:Cornelia Davis
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/corneliadavis/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Fowler;Chad;;;
+FN:Chad Fowler
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/fowlerchad/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Maple;Simon;;;
+FN:Simon Maple
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/simonmaple/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Ocytko;Bartosz;;;
+FN:Bartosz Ocytko
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/bartoszocytko/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Podjarny;Guy;;;
+FN:Guy Podjarny
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/guypo/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Yegge;Steve;;;
+FN:Steve Yegge
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/steveyegge/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Carmont Zaragoza;Nicolas;;;
+FN:Nicolas Carmont Zaragoza
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/ncarmont/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Tessl
+ORG:Tessl
+X-ABShowAs:COMPANY
+URL;TYPE=Work:https://tessl.io/
+URL;TYPE=LinkedIn:https://linkedin.com/company/tesslio/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Anthropic
+ORG:Anthropic
+X-ABShowAs:COMPANY
+URL;TYPE=Work:https://www.anthropic.com/
+URL;TYPE=LinkedIn:https://www.linkedin.com/company/anthropicresearch
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Atlassian
+ORG:Atlassian
+X-ABShowAs:COMPANY
+URL;TYPE=Work:https://www.atlassian.com/
+URL;TYPE=LinkedIn:https://www.linkedin.com/company/atlassian
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:BlueYard Capital
+ORG:BlueYard Capital
+X-ABShowAs:COMPANY
+URL;TYPE=Work:https://blueyard.com/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Gas Town
+ORG:Gas Town
+X-ABShowAs:COMPANY
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Microsoft (GitHub)
+ORG:Microsoft (GitHub)
+X-ABShowAs:COMPANY
+URL;TYPE=Work:https://www.microsoft.com/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:OpenAI
+ORG:OpenAI
+X-ABShowAs:COMPANY
+URL;TYPE=Work:https://openai.com/
+URL;TYPE=LinkedIn:https://www.linkedin.com/company/openai
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Temporal Technologies
+ORG:Temporal Technologies
+X-ABShowAs:COMPANY
+URL;TYPE=Work:https://temporal.io/
+URL;TYPE=LinkedIn:https://www.linkedin.com/company/temporal-technologies/
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Zalando
+ORG:Zalando
+X-ABShowAs:COMPANY
+URL;TYPE=Work:https://corporate.zalando.com/
+URL;TYPE=LinkedIn:https://www.linkedin.com/company/zalando
+END:VCARD
