@@ -23,4 +23,4 @@ Follow-ups from [session_summary_and_followup.md](session_summary_and_followup.m
 
 ## Tidy
 
-- [ ] Fill in last names for Chuck and Megan in `people.md`
+- [ ] Fill in last name for Chuck in `people.md` (Megan done: Schauers)

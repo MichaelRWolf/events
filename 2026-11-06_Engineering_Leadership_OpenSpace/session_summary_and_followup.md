@@ -101,7 +101,7 @@ Mentorship
 18. [x] Jon Turner -- find the Megaman quotes and the story behind them (Green 12:41)
 19. [x] Farzaneh Orak -- follow up on the tribal knowledge comment; ask "Do you know Michael P.?" (Orange 14:21, 14:26)
 20. [x] Amy Dredge -- ask who is doing 50% AI learning (Purple 14:55)
-21. [ ] Megan (last name unknown) -- I like her approach to learning (Purple 15:18, weekly mob learning); not found on Miro board; asked Mike Clement to help find her (2026-11-11)
+21. [x] Megan Schauers -- I like her approach to learning (Purple 15:18, weekly mob learning); not found on Miro board; asked Mike Clement to help find her (2026-11-11); LinkedIn URL from Mike (2026-11-12)
 
 ### Ask Kelly Gaines
 
@@ -124,4 +124,4 @@ Mentorship
 ### Tidy these notes
 
 1. [x] Add a heading for the 15:45 session attended (mentorship notes at 15:51 onward sit under the 14:45 Purple heading)
-2. [ ] Fill in last names for Chuck and Megan in `people.md`
+2. [ ] Fill in last name for Chuck in `people.md` (Megan done: Schauers)

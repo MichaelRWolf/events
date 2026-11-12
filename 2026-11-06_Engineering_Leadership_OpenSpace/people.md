@@ -28,7 +28,7 @@ Names come from the session headings and grid photos in `session_notes.md`. Link
 | Lilac Mohr                  | no       | <https://www.linkedin.com/in/lilac-mohr/>                |
 | logan davis                 | no       | <https://www.linkedin.com/in/ldavispdx/>                 |
 | Matthew Knowles (Matthew K) | yes      | <https://www.linkedin.com/in/matthewyknowles/>           |
-| Megan (UNKNOWN)             | no       |                                                          |
+| Megan Schauers              | no       | <https://www.linkedin.com/in/megan-schauers-140748179/>  |
 | Michael Petrovich           | yes      | <https://www.linkedin.com/in/mpetrovich/>                |
 | Michael van den Berg        | no       |                                                          |
 | Michael Warren              | yes      | <https://www.linkedin.com/in/michael-a-warren/>          |

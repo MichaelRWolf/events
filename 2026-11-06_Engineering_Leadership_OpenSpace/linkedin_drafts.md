@@ -224,7 +224,7 @@ Post-connection message:
 
 Matthew, I heard at Friday's Engineering Leadership Open Space that you're an avid book club person. I'd like to compare notes on book clubs: which ones are you in, and how do they run?
 
-### Megan (last name unknown)
+### Megan Schauers <https://www.linkedin.com/in/megan-schauers-140748179/>
 
 Megan - good seeing you at Leadership Open Space. Liked your grounded take on learning - deeper than the hype. Let's connect. Where do you learn and network?
 

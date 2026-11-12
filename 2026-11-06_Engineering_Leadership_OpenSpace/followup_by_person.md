@@ -87,9 +87,9 @@ No LinkedIn URL in `people.md` yet. Find the profile (see the LinkedIn task tab)
 
 - [x] Avid book club person, "Contact him". (12:00 Green)
 
-### Megan (last name unknown)
+### Megan Schauers
 
-- [ ] Not found on the Miro board. Asked Mike Clement to help find her (2026-11-11).
+- [x] Not found on the Miro board. Asked Mike Clement to help find her (2026-11-11). LinkedIn URL from Mike (2026-11-12): <https://www.linkedin.com/in/megan-schauers-140748179/>
 
 - [ ] I like her approach to learning. It seems well-grounded, at a much deeper level than the hype. (14:45 Purple)
 
