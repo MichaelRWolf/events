@@ -154,12 +154,15 @@ Tuesday entries follow the session they speak in. Session IDs match `sessions.md
 
 - Simon Maple
   - Organizer
+  - <https://www.linkedin.com/in/simonmaple/>
 
 - Llewellyn Falco
   - Presenter
+  - <https://www.linkedin.com/in/llewellynfalco/>
 
 - Ray Myers
   - Presenter
+  - <https://www.linkedin.com/in/cadrlife/>
 
 ## Other
 
