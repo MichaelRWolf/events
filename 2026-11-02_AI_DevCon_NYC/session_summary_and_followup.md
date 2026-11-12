@@ -27,7 +27,7 @@ Building a software factory you can trust.
 
 📝 To Do:
 
-- [ ] Thank Simon and Guy.
+- [x] Thank Simon and Guy. (LinkedIn connection request sent 2026-11-11)
 - [ ] Use the $200 credit for the product shipped at the beginning of November. Not sure what it is yet.
 
 🤓 To Learn:
@@ -44,7 +44,7 @@ Context != Context: One Window, Different Lifecycles
 
 📝 To Do:
 
-- [ ] Connect with Birgitta on LinkedIn.
+- [x] Connect with Birgitta on LinkedIn. (LinkedIn connection request sent 2026-11-11)
 
 🤓 To Learn:
 
@@ -64,7 +64,7 @@ Models Alone Aren't Enough: Engineering Context as a Graph for Human + Agent Tea
 
 📝 To Do:
 
-- [ ] Connect with Alan. Thank him for the shift-left message now that software is headed toward free.
+- [x] Connect with Alan. Thank him for the shift-left message now that software is headed toward free. (LinkedIn connection request sent 2026-11-11)
 
 🤓 To Learn:
 
@@ -85,7 +85,7 @@ Building When Code is Cheap and Your Time is Not
 
 📝 To Do:
 
-- [ ] Connect with Aidan on LinkedIn. He talks to a lot of CTOs; follow up with that in mind.
+- [x] Connect with Aidan on LinkedIn. He talks to a lot of CTOs; follow up with that in mind. (LinkedIn connection request sent 2026-11-11)
 
 🤓 To Learn:
 
@@ -143,7 +143,7 @@ An Architectural Approach to Regenerative Software
 
 📝 To Do:
 
-- [ ] In the connection request, mention my idea that source-of-truth files are now requirements, not code.
+- [x] In the connection request, mention my idea that source-of-truth files are now requirements, not code. (LinkedIn connection request sent 2026-11-11)
 - [ ] LinkedIn post: "Things are the way they are because they got that way" just changed. Yesterday's architecture no longer constrains how intent becomes code.
 - [ ] Look at Phoenix: find the canonicalizer and trace a requirements change to a code change.
 
@@ -167,7 +167,7 @@ Your Agent Just Wrote a Tool--and Ran It. You Need More than a Sandbox.
 
 📝 To Do:
 
-- [ ] Connect with Cornelia. Thank her for the high-energy demo and the guts to do it live. Have a great time in Hawaii.
+- [x] Connect with Cornelia. Thank her for the high-energy demo and the guts to do it live. Have a great time in Hawaii. (LinkedIn connection request sent 2026-11-11)
 
 🤓 To Learn:
 
