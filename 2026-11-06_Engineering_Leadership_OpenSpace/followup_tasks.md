@@ -1,6 +1,6 @@
 # Follow-up Tasks
 
-Follow-ups from [session_summary_and_followup.md](session_summary_and_followup.md) that are not tied to one person: research, writing, reading. Follow-ups with people are in [followup_by_person.md](followup_by_person.md).
+Follow-ups not tied to one person: write, research, read, tidy. This file is the only home for these items. Follow-ups with people are in [followup_by_person.md](followup_by_person.md). Items committed to Daylite leave a `-> Daylite: <task title>` pointer.
 
 ## Write
 
@@ -10,7 +10,7 @@ Follow-ups from [session_summary_and_followup.md](session_summary_and_followup.m
 ## Research
 
 - [ ] Ted Young's book club, which Rose Rey attends (1 chapter/week, Zoom); a quick web search found nothing. (12:00 Green)
-- [ ] Utah Software Craftsmen (Jon Turner, Dave Adsit). (12:00 Green)
+- [ ] Utah Software Craftsmen (Jon Turner, Dave Adsit). (12:00 Green) -> Daylite: Research Utah Software Craftsmen
 - [ ] Reference FutureConSD. (15:45 Green)
 - [ ] Steve Yegge's progression from books to Google to Stack Overflow to agents. (13:45 Orange)
 
@@ -23,4 +23,5 @@ Follow-ups from [session_summary_and_followup.md](session_summary_and_followup.m
 
 ## Tidy
 
+- [x] Add a heading for the 15:45 session attended (mentorship notes at 15:51 onward sat under the 14:45 Purple heading)
 - [ ] Fill in last name for Chuck in `people.md` (Megan done: Schauers)

@@ -317,6 +317,7 @@ Will, I enjoyed hearing about your learning group at Friday's Open Space: Lean C
 - Lilac Mohr <https://www.linkedin.com/in/lilac-mohr/>
 - Logan Davis <https://www.linkedin.com/in/ldavispdx/>
 - Matthew Knowles <https://www.linkedin.com/in/matthewyknowles/>
+- Megan Schauers <https://www.linkedin.com/in/megan-schauers-140748179/>
 - Michael Petrovich <https://www.linkedin.com/in/mpetrovich/>
 - Michael Warren <https://www.linkedin.com/in/michael-a-warren/>
 - Pete Skelly <https://www.linkedin.com/in/peterskelly/>

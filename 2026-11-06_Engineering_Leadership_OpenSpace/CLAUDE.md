@@ -14,13 +14,15 @@ There is no build, lint, or test tooling here beyond the repo-level pre-commit c
 
 ## Follow-up Files
 
-Follow-ups flow through these files, in order. When an item changes, update it everywhere it appears.
+Each follow-up item has exactly one home. Never copy an item into a second file.
 
-1. `session_summary_and_followup.md` -- per-session summaries, plus a master `## Follow-up` checklist at the bottom. Source of record.
-2. `followup_by_person.md` -- the same items grouped by person, split into "LinkedIn Message" (has a URL in `people.md`) and "LinkedIn Connection Request" (no URL yet).
-3. `followup_tasks.md` -- items not tied to a person: Write, Research, Read, Tidy.
-4. `linkedin_drafts.md` -- one draft per person covering all their items, plus a "LinkedIn Links by Degree" list. Split by connection degree, not by URL: 1st-degree contacts get a message; everyone else gets a connection request, with a post-connection message when there is more to say.
-5. `people.md` -- attendee table with Contacts.app status and LinkedIn URL.
+- `followup_by_person.md` -- items tied to a person, split into "LinkedIn Message" (has a URL in `people.md`) and "LinkedIn Connection Request" (no URL yet).
+- `followup_tasks.md` -- items not tied to a person: Write, Research, Read, Tidy.
+- `session_summary_and_followup.md` -- per-session summaries only; its `## Follow-up` section just links to the two files above.
+- `linkedin_drafts.md` -- one draft per person covering their items in `followup_by_person.md`, plus a "LinkedIn Links by Degree" list. Split by connection degree, not by URL: 1st-degree contacts get a message; everyone else gets a connection request, with a post-connection message when there is more to say.
+- `people.md` -- attendee table with Contacts.app status and LinkedIn URL.
+
+Daylite: when an item is committed to Daylite, keep its line and append `-> Daylite: <task title>`. From then on its status lives only in Daylite.
 
 LinkedIn draft rules:
 

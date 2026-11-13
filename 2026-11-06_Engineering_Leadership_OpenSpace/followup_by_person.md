@@ -1,6 +1,6 @@
 # Follow-up by Person
 
-Follow-ups from [session_summary_and_followup.md](session_summary_and_followup.md), grouped by person. Tasks not tied to a person are in [followup_tasks.md](followup_tasks.md). LinkedIn URLs are in [people.md](people.md). Messages and connection requests sent 2026-11-11; post-connection messages are in [linkedin_drafts.md](linkedin_drafts.md).
+Follow-ups grouped by person. This file is the only home for these items. Tasks not tied to a person are in [followup_tasks.md](followup_tasks.md). LinkedIn URLs are in [people.md](people.md). Messages and connection requests sent 2026-11-11; post-connection messages are in [linkedin_drafts.md](linkedin_drafts.md).
 
 ## LinkedIn Message
 
@@ -21,6 +21,7 @@ People with a LinkedIn URL in `people.md`.
 - [x] Thank him for the session. Ask if he knew the Megan in that session. Commend him for being in Mike Clement's book group. (12:00 Green)
 - [x] Engineering Leadership round table and hiring lately. (12:00 Green)
 - [x] Utah Software Craftsmen, with Jon Turner. (12:00 Green)
+- [x] "Signals & Levers" book club. (12:00 Green)
 
 ### Farzaneh Orak
 
@@ -46,6 +47,7 @@ People with a LinkedIn URL in `people.md`.
 - [x] Very curious. Recently read Deming. (12:00 Green)
 - [x] The "no free lunch" comment, and focusing on what the problem is we're trying to solve. (11:00 Red)
 - [x] Deep thinker: great questions that get to underlying problems we can observe. (13:45 Orange)
+- [x] Statistical Process Control, Deming, evidence-based AI adoption. (12:00 Green, 13:45 Orange)
 
 ### Michael Warren
 
@@ -91,7 +93,7 @@ No LinkedIn URL in `people.md` yet. Find the profile (see the LinkedIn task tab)
 
 - [x] Not found on the Miro board. Asked Mike Clement to help find her (2026-11-11). LinkedIn URL from Mike (2026-11-12): <https://www.linkedin.com/in/megan-schauers-140748179/>
 
-- [ ] I like her approach to learning. It seems well-grounded, at a much deeper level than the hype. (14:45 Purple)
+- [x] I like her approach to learning (weekly mob learning). It seems well-grounded, at a much deeper level than the hype. (14:45 Purple)
 
 ### Rose Rey
 
